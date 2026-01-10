@@ -9,11 +9,11 @@ title: Infostrophe
 
 "Infostrophe" hat das Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards zum Ziel - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
 
-Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt.
+Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt. Gelegentlich wird die Dokumentation ge-updatet.
 
 Idealerweise hilft sie Bewusstsein zu für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu zu wecken. Sie kann als Grundlage für Themen-Ideen undRecherche-Arbeiten professioneller Medienschaffenden dienen.
 
-Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen.
+Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen. Eine wichtige Rolle spielt die KI "Claude" (Anthropic), deren Arbeit immer gekennzeichnet ist.
 
 ---
 
@@ -40,6 +40,7 @@ Die Dokumentation enthält:
 - Zu wichtigen Punkten ein paar vorangestellte Wort, die erläutern und kommentieren:
 - Diese kurzen Einführungen stellen auch einen roten Faden dar
 - Dann folgen Beispiele für die angestellten Beobachtungen, Recherche-Notizen häufig mit Quellen
+- Es gibt in pdf-Form mehr oder weniger persönlich geführte Chats mit KIs, die Interessante Verläufe und viele Details mit und ohne Quellen enthalten können. Große Dokumente haben ein Inhaltsverzeichnis
 - vorzugsweise Primärquellen (PDFs, Screenshots, Originaldokumente)
 - Chronologische Aufbereitung komplexer Ereignisse in Gliederungsform
 
