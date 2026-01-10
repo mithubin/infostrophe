@@ -7,7 +7,10 @@ title: Infostrophe
 
 ## Systematische Medienanalyse
 
-Dokumentation von Auslassungen, Verdrehungen und Doppelstandards in der westlichen Medienberichterstattung zu geopolitischen Themen.
+"Infostrophe" hat das Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards zum Ziel - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
+Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt.
+Idealerweise hilft sie Bewusstsein zu für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu zu wecken. Sie kann als Grundlage für Themen-Ideen undRecherche-Arbeiten professioneller Medienschaffenden dienen.
+Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen.
 
 ---
 
@@ -15,10 +18,11 @@ Dokumentation von Auslassungen, Verdrehungen und Doppelstandards in der westlich
 
 Diese Dokumentation folgt einer **defensiven Methodik**:
 
-- **Nur nachweisbare Fakten** – keine Spekulationen
+- **Nur nachweisbare Fakten** – keine Spekulationen, außer in Kommentaren
 - **Westliche Primärquellen** – EU-Berichte, Verfassungen, UN-Dokumente, offizielle Protokolle
-- **Auslassungen zeigen** – nicht bewerten, sondern dokumentieren was fehlt
-- **Pus-Score** – Beweisbarkeit jeder Auslassung quantifizieren
+- **Auslassungen zeigen** – nicht bewerten (außer in Kommentaren), sondern dokumentieren was fehlt
+- später, spielerisch-kommunikatives Tool:
+-- **Pus-Score** – Politisches Gewicht jeder Auslassung quantifizieren
 
 ---
 
@@ -28,10 +32,13 @@ Diese Dokumentation folgt einer **defensiven Methodik**:
 
 Die Dokumentation enthält:
 
-- Recherche-Notizen mit Quellenverweisen
-- Primärquellen (PDFs, Screenshots, Originaldokumente)
-- Chronologische Aufbereitung komplexer Ereignisse
-- Pus-Score-Berechnungen
+- Eine Einleitung
+- Eine Gliederung der Themen
+- Zu wichtigen Punkten ein paar vorangestellte Wort, die erläutern und kommentieren:
+- Diese kurzen Einführungen stellen auch einen roten Faden dar
+- Dann folgen Beispiele für die angestellten Beobachtungen, Recherche-Notizen häufig mit Quellen
+- vorzugsweise Primärquellen (PDFs, Screenshots, Originaldokumente)
+- Chronologische Aufbereitung komplexer Ereignisse in Gliederungsform
 
 ---
 
