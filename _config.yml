@@ -1,0 +1,24 @@
+title: Infostrophe
+description: Systematische Dokumentation von Auslassungen in der Medienberichterstattung
+author: [Dein Name oder Pseudonym]
+email: [optional]
+
+# Theme
+theme: minima
+
+# URL (später mit Domain)
+url: "https://[DEIN_USERNAME].github.io"
+baseurl: "/infostrophe"
+
+# Markdown
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Lizenz-Info
+license:
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
