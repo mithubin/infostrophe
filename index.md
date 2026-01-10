@@ -29,7 +29,7 @@ Diese Dokumentation folgt einer **defensiven Methodik**:
 
 ## Zugang zur Dokumentation
 
-**→ [Vollständige Dokumentation öffnen](/infostrophe/trilium-export/)**
+**→ <a href="/infostrophe/trilium-export/" target="_blank" rel="noopener">Vollständige Dokumentation öffnen</a>**
 
 Die Dokumentation enthält:
 
