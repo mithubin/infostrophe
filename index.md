@@ -5,7 +5,7 @@ title: Infostrophe
 
 ## Systematische Medienanalyse
 
-"Infostrophe" hat das Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards zum Ziel - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
+"Infostrophe" hat zum Ziel das Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
 
 Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt. Gelegentlich wird die Dokumentation ge-updatet.
 
