@@ -11,7 +11,7 @@ title: Infostrophe
 
 Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt. Gelegentlich wird die Dokumentation ge-updatet.
 
-Idealerweise hilft sie Bewusstsein zu für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu zu wecken. Sie kann als Grundlage für Themen-Ideen undRecherche-Arbeiten professioneller Medienschaffenden dienen.
+Idealerweise hilft sie Bewusstsein zu für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu wecken. Sie kann als Grundlage für Themen-Ideen und Recherche-Arbeiten professioneller Medienschaffenden dienen.
 
 Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen. Eine wichtige Rolle spielt die KI "Claude" (Anthropic), deren Arbeit immer gekennzeichnet ist.
 
