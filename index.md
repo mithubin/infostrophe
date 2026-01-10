@@ -46,17 +46,6 @@ Die Dokumentation enthält:
 
 ---
 
-## Themenübersicht
-
-Die Dokumentation deckt folgende Bereiche ab:
-
-- **Russland-Berichterstattung** – systematische Analyse von Auslassungen
-- **Ukraine-Konflikt** – Chronologie mit westlichen Primärquellen
-- **Georgien-Krieg 2008** – EU-Untersuchungsbericht vs. Medienberichterstattung
-- **Doppelstandards** – Kosovo vs. Krim, Interventionen, Völkerrecht
-
----
-
 ## Über das Projekt
 
 **Infostrophe** ist eine unabhängige Recherche-Initiative, die Auslassungen in der Medienberichterstattung systematisch dokumentiert. 
