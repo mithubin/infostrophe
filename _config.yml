@@ -7,7 +7,7 @@ email: [optional]
 theme: minima
 
 # URL (später mit Domain)
-url: "https://[DEIN_USERNAME].github.io"
+url: "https://mithubin.github.io"
 baseurl: "/infostrophe"
 
 # Markdown
