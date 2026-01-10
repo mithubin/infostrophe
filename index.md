@@ -8,8 +8,11 @@ title: Infostrophe
 ## Systematische Medienanalyse
 
 "Infostrophe" hat das Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards zum Ziel - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
+
 Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt.
+
 Idealerweise hilft sie Bewusstsein zu für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu zu wecken. Sie kann als Grundlage für Themen-Ideen undRecherche-Arbeiten professioneller Medienschaffenden dienen.
+
 Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen.
 
 ---
@@ -78,6 +81,22 @@ Alle Inhalte stehen unter [**Creative Commons BY-SA 4.0**](https://creativecommo
 - ✅ Bearbeitung und Remix erlaubt
 - ✅ Namensnennung erforderlich
 - ✅ Weitergabe unter gleicher Lizenz
+
+---
+
+## Attribution / Namensnennung
+
+Bei Verwendung von Inhalten aus diesem Projekt bitte folgende Angaben machen:
+
+Urheber: "Infostrophe-Projekt" von Milan P
+Werk: Infostrophe - Systematische Medienanalyse
+Quelle: https://mithubin.github.io/infostrophe/
+Lizenz: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Beispiel-Zitation:
+"Infostrophe - Systematische Medienanalyse" von Milan P
+verfügbar unter https://mithubin.github.io/infostrophe/
+lizenziert unter CC BY-SA 4.0.
 
 ---
 
