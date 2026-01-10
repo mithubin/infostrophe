@@ -13,7 +13,7 @@ Idealerweise hilft sie Bewusstsein zu für die Dringlichkeit einer Medien-Reform
 
 Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen. Eine wichtige Rolle spielt die KI "Claude" (Anthropic), deren Arbeit immer gekennzeichnet ist.
 
-**→ <a href="/infostrophe/trilium-export/Einleitend.html" target="_blank" rel="noopener">Direkt zur Einleitung im Infostrophebaum</a>**
+**→ <a href="/infostrophe/trilium-export/infostrophe/Einleitend.html" target="_blank" rel="noopener">Direkt zur Einleitung im Infostrophebaum</a>**
 
 ---
 
