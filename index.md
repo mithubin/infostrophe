@@ -3,6 +3,39 @@ layout: home
 title: Infostrophe
 ---
 
+<style>
+body {
+  background-image: url('/infostrophe/assets/images/background_1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Text-Container für bessere Lesbarkeit */
+.page-content {
+  background-color: rgba(255, 255, 255, 0.92);
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 900px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Alternativ: Dunkles Overlay statt weißem Container */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* Abdunkeln für Textlesbarkeit */
+  z-index: -1;
+}
+</style>
+---
+
 ## Systematische Medienanalyse
 
 "Infostrophe" hat zum Ziel das Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
