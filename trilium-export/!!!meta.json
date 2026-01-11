@@ -25,7 +25,16 @@
 			],
 			"format": "html",
 			"dataFileName": "infostrophe.html",
-			"attachments": [],
+			"attachments": [
+				{
+					"attachmentId": "W11vQtaeeWJ9",
+					"title": "image.jpg",
+					"role": "image",
+					"mime": "image/jpg",
+					"position": 10,
+					"dataFileName": "infostrophe_image.jpg"
+				}
+			],
 			"dirFileName": "infostrophe",
 			"children": [
 				{
