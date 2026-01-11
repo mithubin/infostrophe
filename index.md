@@ -22,7 +22,7 @@ body {
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
-/* Alternativ: Dunkles Overlay statt weißem Container */
+/* Dunkles Overlay für Textlesbarkeit */
 body::before {
   content: '';
   position: fixed;
@@ -30,11 +30,10 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.3); /* Abdunkeln für Textlesbarkeit */
+  background: rgba(0, 0, 0, 0.3);
   z-index: -1;
 }
 </style>
----
 
 ## Systematische Medienanalyse
 
