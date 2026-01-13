@@ -9,7 +9,7 @@
 				"Y9nhGuNYOuEF"
 			],
 			"title": "infostrophe",
-			"notePosition": 20,
+			"notePosition": 50,
 			"prefix": null,
 			"isExpanded": true,
 			"type": "text",
@@ -72,7 +72,7 @@
 						"lWAJdyBuSfVz"
 					],
 					"title": "A) Akut Virulent",
-					"notePosition": 100,
+					"notePosition": 110,
 					"prefix": null,
 					"isExpanded": true,
 					"type": "book",
@@ -144,7 +144,7 @@
 							"title": "farbrevolutionen_baustelle",
 							"notePosition": 40,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [],
@@ -155,6 +155,132 @@
 							"children": [
 								{
 									"isClone": false,
+									"noteId": "cvverwVavOZE",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"cvverwVavOZE"
+									],
+									"title": "Beispiele von Interventionen",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "book",
+									"mime": "",
+									"attributes": [],
+									"attachments": [],
+									"dirFileName": "Beispiele von Interventionen",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "jhxVeYATKfcY",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"jhxVeYATKfcY"
+											],
+											"title": "Lybien (2011)",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Lybien (2011).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "5jXyR6RPD7o2",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"5jXyR6RPD7o2"
+											],
+											"title": "Chile (1973)",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Chile (1973).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "VuYMDPitzJuo",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"VuYMDPitzJuo"
+											],
+											"title": "Guatemala (1954)",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Guatemala (1954).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "u0cbqjTJBUFr",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"u0cbqjTJBUFr"
+											],
+											"title": "Hawaï (1893)",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Hawaï (1893).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "wF6kKd7aumRN",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"wF6kKd7aumRN"
+											],
+											"title": "Opium-Kriege (1839-1860)",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Opium-Kriege (1839-1860).html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
 									"noteId": "ym3nmzrIEz2v",
 									"notePath": [
 										"Y9nhGuNYOuEF",
@@ -163,9 +289,9 @@
 										"ym3nmzrIEz2v"
 									],
 									"title": "farbrevolutionen_aufstellung I",
-									"notePosition": 30,
+									"notePosition": 50,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
@@ -183,7 +309,7 @@
 										"cWl2okN2fyWk"
 									],
 									"title": "farbrevolutionen_aufstellung II",
-									"notePosition": 40,
+									"notePosition": 60,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -203,7 +329,7 @@
 										"doiqNa8GGWsG"
 									],
 									"title": "farbrevolutionen_aufstellung III",
-									"notePosition": 50,
+									"notePosition": 70,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -223,7 +349,7 @@
 										"hwGy4BjE78T3"
 									],
 									"title": "farbrevolutionen_exportfirma otpor! / canvas",
-									"notePosition": 60,
+									"notePosition": 80,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -275,7 +401,7 @@
 										"1e5hfmd3GSHW"
 									],
 									"title": "Jakobiner & französische Revolution",
-									"notePosition": 70,
+									"notePosition": 90,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -295,7 +421,7 @@
 										"d6RTTfPj1AnT"
 									],
 									"title": "Glorious Revolution / England",
-									"notePosition": 80,
+									"notePosition": 100,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -316,9 +442,9 @@
 								"yiOs0cBNKAnV"
 							],
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
-							"notePosition": 160,
+							"notePosition": 170,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -2364,7 +2490,7 @@
 								"TnCobanrUWMQ"
 							],
 							"title": "Ukraine-Russland-Krieg",
-							"notePosition": 190,
+							"notePosition": 200,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3259,7 +3385,7 @@
 								"jIq54pBixtUm"
 							],
 							"title": "Gaza-Krieg & Israel-Palästina-Komplex",
-							"notePosition": 200,
+							"notePosition": 210,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3797,7 +3923,7 @@
 								"zUxzquhF2AnU"
 							],
 							"title": "USA-Venezuela",
-							"notePosition": 210,
+							"notePosition": 220,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4032,7 +4158,7 @@
 								"3DvikU3hVkb6"
 							],
 							"title": "Iran-Komplex",
-							"notePosition": 230,
+							"notePosition": 240,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4308,7 +4434,7 @@
 								"GMd2GZwKHqdl"
 							],
 							"title": "Globale Finanzverhältnisse",
-							"notePosition": 240,
+							"notePosition": 250,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4795,7 +4921,7 @@
 								"O2fACFnlPoHu"
 							],
 							"title": "Think-Tanks, Stiftungen und NGOs",
-							"notePosition": 250,
+							"notePosition": 260,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4870,7 +4996,7 @@
 						"REk17uAbNXHC"
 					],
 					"title": "B) Stark Nachwirkend",
-					"notePosition": 140,
+					"notePosition": 150,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -6637,7 +6763,7 @@
 						"XhFhPRSXJR2p"
 					],
 					"title": "C) Historisch UND Nachwirkend",
-					"notePosition": 150,
+					"notePosition": 160,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
