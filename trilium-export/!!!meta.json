@@ -147,10 +147,27 @@
 							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
-							"attributes": [],
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "cvverwVavOZE",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
 							"format": "html",
 							"dataFileName": "farbrevolutionen_baustelle.html",
-							"attachments": [],
+							"attachments": [
+								{
+									"attachmentId": "l2GFin6FRPMM",
+									"title": "deep-gespräch zu farbrevolutionen.pdf",
+									"role": "file",
+									"mime": "application/pdf",
+									"position": 10,
+									"dataFileName": "farbrevolutionen_baustelle.pdf"
+								}
+							],
 							"dirFileName": "farbrevolutionen_baustelle",
 							"children": [
 								{
@@ -165,7 +182,7 @@
 									"title": "Beispiele von Interventionen",
 									"notePosition": 30,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -185,7 +202,7 @@
 											"title": "Lybien (2011)",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
