@@ -11,7 +11,7 @@
 			"title": "infostrophe",
 			"notePosition": 50,
 			"prefix": null,
-			"isExpanded": true,
+			"isExpanded": false,
 			"type": "text",
 			"mime": "text/html",
 			"attributes": [
@@ -161,6 +161,41 @@
 									"value": "cvverwVavOZE",
 									"isInheritable": false,
 									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "hwGy4BjE78T3",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "O2fACFnlPoHu",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "s5oe15YQ8EWn",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "1e5hfmd3GSHW",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "d6RTTfPj1AnT",
+									"isInheritable": false,
+									"position": 60
 								}
 							],
 							"format": "html",
@@ -187,7 +222,7 @@
 										"cvverwVavOZE"
 									],
 									"title": "Beispiele von Interventionen",
-									"notePosition": 30,
+									"notePosition": 40,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "book",
@@ -333,6 +368,155 @@
 											"format": "html",
 											"dataFileName": "Opium-Kriege (1839-1860).html",
 											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "d6RTTfPj1AnT",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"d6RTTfPj1AnT"
+											],
+											"title": "Glorious Revolution / England (1688)",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#4de699",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Glorious Revolution  England (.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "1e5hfmd3GSHW",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"1e5hfmd3GSHW"
+											],
+											"title": "Jakobiner & französische Revolution",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#4de699",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Jakobiner & französische Revol.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "s5oe15YQ8EWn",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"s5oe15YQ8EWn"
+											],
+											"title": "Solidarność ?",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#4de699",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "43GxTWIW7xyW",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "Solidarność.html",
+											"attachments": [],
+											"dirFileName": "Solidarność",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "aQaCz9xkxhIQ",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"s5oe15YQ8EWn",
+														"aQaCz9xkxhIQ"
+													],
+													"title": "Von Solidarność zu Gene Sharp und den Farbrevolutionen",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "relation",
+															"name": "internalLink",
+															"value": "43GxTWIW7xyW",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Von Solidarność zu Gene Sharp .html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "43GxTWIW7xyW",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"s5oe15YQ8EWn",
+														"43GxTWIW7xyW"
+													],
+													"title": "Quellen zu Solidarność & Gene Sharp",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Quellen zu Solidarność & Gene .html",
+													"attachments": []
+												}
+											]
 										}
 									]
 								},
@@ -346,7 +530,7 @@
 										"ym3nmzrIEz2v"
 									],
 									"title": "farbrevolutionen_aufstellung I",
-									"notePosition": 50,
+									"notePosition": 60,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -366,7 +550,7 @@
 										"cWl2okN2fyWk"
 									],
 									"title": "farbrevolutionen_aufstellung II",
-									"notePosition": 60,
+									"notePosition": 70,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -386,7 +570,7 @@
 										"doiqNa8GGWsG"
 									],
 									"title": "farbrevolutionen_aufstellung III",
-									"notePosition": 70,
+									"notePosition": 80,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -406,7 +590,7 @@
 										"hwGy4BjE78T3"
 									],
 									"title": "farbrevolutionen_exportfirma otpor! / canvas",
-									"notePosition": 80,
+									"notePosition": 90,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -447,46 +631,6 @@
 											"attachments": []
 										}
 									]
-								},
-								{
-									"isClone": false,
-									"noteId": "1e5hfmd3GSHW",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"1e5hfmd3GSHW"
-									],
-									"title": "Jakobiner & französische Revolution",
-									"notePosition": 90,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "Jakobiner & französische Revol.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "d6RTTfPj1AnT",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"d6RTTfPj1AnT"
-									],
-									"title": "Glorious Revolution / England (1688)",
-									"notePosition": 100,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "Glorious Revolution  England (.html",
-									"attachments": []
 								}
 							]
 						},
