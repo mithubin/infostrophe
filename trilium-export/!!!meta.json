@@ -185,13 +185,46 @@
 											"title": "Lybien (2011)",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "CjzAfVdqWrIa",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
 											"format": "html",
 											"dataFileName": "Lybien (2011).html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Lybien (2011)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "CjzAfVdqWrIa",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"jhxVeYATKfcY",
+														"CjzAfVdqWrIa"
+													],
+													"title": "Lockerbie & La Belle (1988/1986)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Lockerbie & La Belle (19881986.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
