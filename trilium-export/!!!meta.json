@@ -148,7 +148,7 @@
 								"lWAJdyBuSfVz",
 								"LGtF1UPYJceK"
 							],
-							"title": "farbrevolutionen_baustelle",
+							"title": "Farbrevolutionen",
 							"notePosition": 40,
 							"prefix": null,
 							"isExpanded": false,
@@ -164,7 +164,7 @@
 								}
 							],
 							"format": "html",
-							"dataFileName": "farbrevolutionen_baustelle.html",
+							"dataFileName": "Farbrevolutionen.html",
 							"attachments": [
 								{
 									"attachmentId": "l2GFin6FRPMM",
@@ -172,10 +172,10 @@
 									"role": "file",
 									"mime": "application/pdf",
 									"position": 10,
-									"dataFileName": "farbrevolutionen_baustelle.pdf"
+									"dataFileName": "Farbrevolutionen_deep-gesp.pdf"
 								}
 							],
-							"dirFileName": "farbrevolutionen_baustelle",
+							"dirFileName": "Farbrevolutionen",
 							"children": [
 								{
 									"isClone": false,
@@ -477,7 +477,7 @@
 										"LGtF1UPYJceK",
 										"d6RTTfPj1AnT"
 									],
-									"title": "Glorious Revolution / England",
+									"title": "Glorious Revolution / England (1688)",
 									"notePosition": 100,
 									"prefix": null,
 									"isExpanded": false,
@@ -485,7 +485,7 @@
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
-									"dataFileName": "Glorious Revolution  England.html",
+									"dataFileName": "Glorious Revolution  England (.html",
 									"attachments": []
 								}
 							]
