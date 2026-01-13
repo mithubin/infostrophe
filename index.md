@@ -53,9 +53,10 @@ Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt 
 
 Diese Dokumentation folgt einer **defensiven Methodik**:
 
-- **Nur nachweisbare Fakten** – keine Spekulationen, außer in Kommentaren
-- **Westliche Primärquellen** – EU-Berichte, Verfassungen, UN-Dokumente, offizielle Protokolle
+- **Nur nachprüfbare Fakten** – keine Spekulationen, außer in Kommentaren
+- im Schwerpunkt **Westliche Primärquellen** – EU-Berichte, Verfassungen, UN-Dokumente, offizielle Protokolle
 - **Auslassungen zeigen** – nicht bewerten (außer in Kommentaren), sondern dokumentieren was fehlt
+- von KI zusammengestelltes reichhaltiges Material zu verschiedenen Thematiken, das strukturiert wird - vom Erstautor und Mitautoren, die sich dem Projekt anschließen
 - später, spielerisch-kommunikatives Tool:
 -- **Pus-Score** – Politisches Gewicht jeder Auslassung quantifizieren
 
