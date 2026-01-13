@@ -21,6 +21,13 @@
 					"value": "grid",
 					"isInheritable": false,
 					"position": 10
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "sKfaudob1VR6",
+					"isInheritable": false,
+					"position": 20
 				}
 			],
 			"format": "html",
