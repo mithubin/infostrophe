@@ -5,7 +5,7 @@ title: Infostrophe
 
 <style>
 body {
-  background-image: url('/infostrophe/assets/images/background_1.jpg');
+  background-image: url('/infostrophe/assets/images/background_2.jpg');
   background-size: 100% auto;
   background-position: center;
   background-attachment: fixed;
