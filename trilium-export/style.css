@@ -631,27 +631,3 @@
 			margin-left:auto;
 			margin-right:0;
 		}
-/* Navigation Styling */
-body {
-    padding: 20px;
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-}
-
-ul {
-    padding-left: 20px;
-    line-height: 1.6;
-}
-
-li {
-    margin: 5px 0;
-}
-
-a {
-    text-decoration: none;
-    color: #0066cc;
-}
-
-a:hover {
-    text-decoration: underline;
-}
