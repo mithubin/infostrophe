@@ -11,7 +11,7 @@
 			"title": "infostrophe",
 			"notePosition": 50,
 			"prefix": null,
-			"isExpanded": true,
+			"isExpanded": false,
 			"type": "text",
 			"mime": "text/html",
 			"attributes": [
@@ -142,1523 +142,6 @@
 						},
 						{
 							"isClone": false,
-							"noteId": "LGtF1UPYJceK",
-							"notePath": [
-								"Y9nhGuNYOuEF",
-								"lWAJdyBuSfVz",
-								"LGtF1UPYJceK"
-							],
-							"title": "Farbrevolutionen",
-							"notePosition": 50,
-							"prefix": null,
-							"isExpanded": true,
-							"type": "text",
-							"mime": "text/html",
-							"attributes": [
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "cvverwVavOZE",
-									"isInheritable": false,
-									"position": 10
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "hwGy4BjE78T3",
-									"isInheritable": false,
-									"position": 20
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "O2fACFnlPoHu",
-									"isInheritable": false,
-									"position": 30
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "s5oe15YQ8EWn",
-									"isInheritable": false,
-									"position": 40
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "1e5hfmd3GSHW",
-									"isInheritable": false,
-									"position": 50
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "d6RTTfPj1AnT",
-									"isInheritable": false,
-									"position": 60
-								}
-							],
-							"format": "html",
-							"dataFileName": "Farbrevolutionen.html",
-							"attachments": [
-								{
-									"attachmentId": "l2GFin6FRPMM",
-									"title": "deep-gespräch zu farbrevolutionen.pdf",
-									"role": "file",
-									"mime": "application/pdf",
-									"position": 10,
-									"dataFileName": "Farbrevolutionen_deep-gesp.pdf"
-								},
-								{
-									"attachmentId": "uZQi1iWpLVZf",
-									"title": "claude zu Farbrevolution - der Begriff.pdf",
-									"role": "file",
-									"mime": "application/pdf",
-									"position": 10,
-									"dataFileName": "Farbrevolutionen_claude zu.pdf"
-								}
-							],
-							"dirFileName": "Farbrevolutionen",
-							"children": [
-								{
-									"isClone": false,
-									"noteId": "cvverwVavOZE",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"cvverwVavOZE"
-									],
-									"title": "Beispiele von Interventionen",
-									"notePosition": 50,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "book",
-									"mime": "",
-									"attributes": [],
-									"attachments": [],
-									"dirFileName": "Beispiele von Interventionen",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "jhxVeYATKfcY",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"cvverwVavOZE",
-												"jhxVeYATKfcY"
-											],
-											"title": "Lybien (2011)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "relation",
-													"name": "internalLink",
-													"value": "CjzAfVdqWrIa",
-													"isInheritable": false,
-													"position": 10
-												}
-											],
-											"format": "html",
-											"dataFileName": "Lybien (2011).html",
-											"attachments": [],
-											"dirFileName": "Lybien (2011)",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "CjzAfVdqWrIa",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"cvverwVavOZE",
-														"jhxVeYATKfcY",
-														"CjzAfVdqWrIa"
-													],
-													"title": "Lockerbie & La Belle (1988/1986)",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "Lockerbie & La Belle (19881986.html",
-													"attachments": []
-												}
-											]
-										},
-										{
-											"isClone": false,
-											"noteId": "5jXyR6RPD7o2",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"cvverwVavOZE",
-												"5jXyR6RPD7o2"
-											],
-											"title": "Chile (1973)",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Chile (1973).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "VuYMDPitzJuo",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"cvverwVavOZE",
-												"VuYMDPitzJuo"
-											],
-											"title": "Guatemala (1954)",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Guatemala (1954).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "u0cbqjTJBUFr",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"cvverwVavOZE",
-												"u0cbqjTJBUFr"
-											],
-											"title": "Hawaï (1893)",
-											"notePosition": 40,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Hawaï (1893).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "wF6kKd7aumRN",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"cvverwVavOZE",
-												"wF6kKd7aumRN"
-											],
-											"title": "Opium-Kriege (1839-1860)",
-											"notePosition": 50,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Opium-Kriege (1839-1860).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "JWku9dnJJ8pj",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"cvverwVavOZE",
-												"JWku9dnJJ8pj"
-											],
-											"title": "Beispiele von frühen Farbrevolutionen",
-											"notePosition": 60,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "book",
-											"mime": "",
-											"attributes": [],
-											"attachments": [],
-											"dirFileName": "Beispiele von frühen Farbrevolutionen",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "d6RTTfPj1AnT",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"cvverwVavOZE",
-														"JWku9dnJJ8pj",
-														"d6RTTfPj1AnT"
-													],
-													"title": "Glorious Revolution / England (1688)",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "color",
-															"value": "#4de699",
-															"isInheritable": false,
-															"position": 10
-														}
-													],
-													"format": "html",
-													"dataFileName": "Glorious Revolution  England (.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "1e5hfmd3GSHW",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"cvverwVavOZE",
-														"JWku9dnJJ8pj",
-														"1e5hfmd3GSHW"
-													],
-													"title": "Jakobiner & französische Revolution",
-													"notePosition": 20,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "color",
-															"value": "#4de699",
-															"isInheritable": false,
-															"position": 10
-														}
-													],
-													"format": "html",
-													"dataFileName": "Jakobiner & französische Revol.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "s5oe15YQ8EWn",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"cvverwVavOZE",
-														"JWku9dnJJ8pj",
-														"s5oe15YQ8EWn"
-													],
-													"title": "Solidarność ?",
-													"notePosition": 30,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "color",
-															"value": "#4de699",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "relation",
-															"name": "internalLink",
-															"value": "43GxTWIW7xyW",
-															"isInheritable": false,
-															"position": 20
-														}
-													],
-													"format": "html",
-													"dataFileName": "Solidarność.html",
-													"attachments": [],
-													"dirFileName": "Solidarność",
-													"children": [
-														{
-															"isClone": false,
-															"noteId": "aQaCz9xkxhIQ",
-															"notePath": [
-																"Y9nhGuNYOuEF",
-																"lWAJdyBuSfVz",
-																"LGtF1UPYJceK",
-																"cvverwVavOZE",
-																"JWku9dnJJ8pj",
-																"s5oe15YQ8EWn",
-																"aQaCz9xkxhIQ"
-															],
-															"title": "Von Solidarność zu Gene Sharp und den Farbrevolutionen",
-															"notePosition": 10,
-															"prefix": null,
-															"isExpanded": false,
-															"type": "text",
-															"mime": "text/html",
-															"attributes": [
-																{
-																	"type": "relation",
-																	"name": "internalLink",
-																	"value": "43GxTWIW7xyW",
-																	"isInheritable": false,
-																	"position": 10
-																}
-															],
-															"format": "html",
-															"dataFileName": "Von Solidarność zu Gene Sharp .html",
-															"attachments": []
-														},
-														{
-															"isClone": false,
-															"noteId": "43GxTWIW7xyW",
-															"notePath": [
-																"Y9nhGuNYOuEF",
-																"lWAJdyBuSfVz",
-																"LGtF1UPYJceK",
-																"cvverwVavOZE",
-																"JWku9dnJJ8pj",
-																"s5oe15YQ8EWn",
-																"43GxTWIW7xyW"
-															],
-															"title": "Quellen zu Solidarność & Gene Sharp",
-															"notePosition": 20,
-															"prefix": null,
-															"isExpanded": false,
-															"type": "text",
-															"mime": "text/html",
-															"attributes": [],
-															"format": "html",
-															"dataFileName": "Quellen zu Solidarność & Gene .html",
-															"attachments": []
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "ym3nmzrIEz2v",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"ym3nmzrIEz2v"
-									],
-									"title": "farbrevolutionen_aufstellung I",
-									"notePosition": 70,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#4de699",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "farbrevolutionen_aufstellung I.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "cWl2okN2fyWk",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"cWl2okN2fyWk"
-									],
-									"title": "farbrevolutionen_aufstellung II",
-									"notePosition": 80,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#4de699",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "1_farbrevolutionen_aufstellung I.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "doiqNa8GGWsG",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"doiqNa8GGWsG"
-									],
-									"title": "farbrevolutionen_aufstellung III",
-									"notePosition": 90,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#4de699",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "2_farbrevolutionen_aufstellung I.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "hwGy4BjE78T3",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"hwGy4BjE78T3"
-									],
-									"title": "farbrevolutionen_exportfirma otpor! / canvas",
-									"notePosition": 100,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "relation",
-											"name": "internalLink",
-											"value": "5BEjTX6mLVB6",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "farbrevolutionen_exportfirma o.html",
-									"attachments": [],
-									"dirFileName": "farbrevolutionen_exportfirma otpor!  canvas",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "5BEjTX6mLVB6",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"hwGy4BjE78T3",
-												"5BEjTX6mLVB6"
-											],
-											"title": "Gene Sharp",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Gene Sharp.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "fghwzVqkarPZ",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"fghwzVqkarPZ"
-									],
-									"title": "Gedanken zu Farbrevolutionen",
-									"notePosition": 110,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#4de699",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "Gedanken zu Farbrevolutionen.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "QeO3yOaD97mu",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"LGtF1UPYJceK",
-										"QeO3yOaD97mu"
-									],
-									"title": "Think-Tanks, Stiftungen und NGOs - Einleitung",
-									"notePosition": 120,
-									"prefix": null,
-									"isExpanded": true,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "relation",
-											"name": "internalLink",
-											"value": "V96zEmIJ1ePq",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "relation",
-											"name": "internalLink",
-											"value": "62ecgSkcnB8g",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "relation",
-											"name": "internalLink",
-											"value": "AOYvh2r8Hqxf",
-											"isInheritable": false,
-											"position": 30
-										}
-									],
-									"format": "html",
-									"dataFileName": "Think-Tanks, Stiftungen und NG.html",
-									"attachments": [],
-									"dirFileName": "Think-Tanks, Stiftungen und NGOs - Einleitung",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "62ecgSkcnB8g",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"QeO3yOaD97mu",
-												"62ecgSkcnB8g"
-											],
-											"title": "die Rosen-Revolution, Georgien 2003",
-											"notePosition": 11,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "relation",
-													"name": "internalLink",
-													"value": "o9gZtlzG7xh3",
-													"isInheritable": false,
-													"position": 10
-												}
-											],
-											"format": "html",
-											"dataFileName": "die Rosen-Revolution, Georgien.html",
-											"attachments": [],
-											"dirFileName": "die Rosen-Revolution, Georgien 2003",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "o9gZtlzG7xh3",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"QeO3yOaD97mu",
-														"62ecgSkcnB8g",
-														"o9gZtlzG7xh3"
-													],
-													"title": "Quellen zu Rosen-Revolution",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "Quellen zu Rosen-Revolution.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "AOYvh2r8Hqxf",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"QeO3yOaD97mu",
-														"62ecgSkcnB8g",
-														"AOYvh2r8Hqxf"
-													],
-													"title": "Quellen zu \"eigentlichen Interessen\"",
-													"notePosition": 20,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "Quellen zu eigentlichen Intere.html",
-													"attachments": []
-												}
-											]
-										},
-										{
-											"isClone": false,
-											"noteId": "O2fACFnlPoHu",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"QeO3yOaD97mu",
-												"O2fACFnlPoHu"
-											],
-											"title": "Think-Tanks, Stiftungen und NGOs - Auflistung",
-											"notePosition": 21,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Think-Tanks, Stiftungen und NG.html",
-											"attachments": [],
-											"dirFileName": "Think-Tanks, Stiftungen und NGOs - Auflistung",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "IuTzQv0hBYK2",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"QeO3yOaD97mu",
-														"O2fACFnlPoHu",
-														"IuTzQv0hBYK2"
-													],
-													"title": "Edwin Meese & Heritage Foundation",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "relation",
-															"name": "internalLink",
-															"value": "Lg2rHRHjH2H0",
-															"isInheritable": false,
-															"position": 10
-														}
-													],
-													"format": "html",
-													"dataFileName": "Edwin Meese & Heritage Foundat.html",
-													"attachments": [],
-													"dirFileName": "Edwin Meese & Heritage Foundation",
-													"children": [
-														{
-															"isClone": false,
-															"noteId": "Lg2rHRHjH2H0",
-															"notePath": [
-																"Y9nhGuNYOuEF",
-																"lWAJdyBuSfVz",
-																"LGtF1UPYJceK",
-																"QeO3yOaD97mu",
-																"O2fACFnlPoHu",
-																"IuTzQv0hBYK2",
-																"Lg2rHRHjH2H0"
-															],
-															"title": "Nachtrag",
-															"notePosition": 10,
-															"prefix": null,
-															"isExpanded": false,
-															"type": "text",
-															"mime": "text/html",
-															"attributes": [],
-															"format": "html",
-															"dataFileName": "Nachtrag.html",
-															"attachments": []
-														}
-													]
-												}
-											]
-										},
-										{
-											"isClone": false,
-											"noteId": "fDbOvLSW4l2Y",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"LGtF1UPYJceK",
-												"QeO3yOaD97mu",
-												"fDbOvLSW4l2Y"
-											],
-											"title": "NGOs - venice.ai",
-											"notePosition": 31,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "relation",
-													"name": "internalLink",
-													"value": "HA13HNfIjXDd",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "relation",
-													"name": "internalLink",
-													"value": "IxCMkxU5E8of",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "relation",
-													"name": "internalLink",
-													"value": "G5nwswxLuVBd",
-													"isInheritable": false,
-													"position": 30
-												}
-											],
-											"format": "html",
-											"dataFileName": "NGOs - venice.ai.html",
-											"attachments": [],
-											"dirFileName": "NGOs - venice.ai",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "IxCMkxU5E8of",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"QeO3yOaD97mu",
-														"fDbOvLSW4l2Y",
-														"IxCMkxU5E8of"
-													],
-													"title": "NGO - venice III",
-													"notePosition": 20,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "NGO - venice III.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "G5nwswxLuVBd",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"QeO3yOaD97mu",
-														"fDbOvLSW4l2Y",
-														"G5nwswxLuVBd"
-													],
-													"title": "NGOs für regime-change - venice.ai IV",
-													"notePosition": 30,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "NGOs für regime-change - venic.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "HA13HNfIjXDd",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"QeO3yOaD97mu",
-														"fDbOvLSW4l2Y",
-														"HA13HNfIjXDd"
-													],
-													"title": "NGOs - venice I",
-													"notePosition": 40,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "NGOs - venice I.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "V96zEmIJ1ePq",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"LGtF1UPYJceK",
-														"QeO3yOaD97mu",
-														"fDbOvLSW4l2Y",
-														"V96zEmIJ1ePq"
-													],
-													"title": "NGOs - der Begriff - venice.ai",
-													"notePosition": 50,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "NGOs - der Begriff - venice.ai.html",
-													"attachments": []
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"isClone": false,
-							"noteId": "5QrWfxZWRBz7",
-							"notePath": [
-								"Y9nhGuNYOuEF",
-								"lWAJdyBuSfVz",
-								"5QrWfxZWRBz7"
-							],
-							"title": "Farbrevolutionen <> Geldsystem",
-							"notePosition": 60,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"attributes": [],
-							"format": "html",
-							"dataFileName": "Farbrevolutionen  Geldsystem.html",
-							"attachments": []
-						},
-						{
-							"isClone": false,
-							"noteId": "GMd2GZwKHqdl",
-							"notePath": [
-								"Y9nhGuNYOuEF",
-								"lWAJdyBuSfVz",
-								"GMd2GZwKHqdl"
-							],
-							"title": "Globale Finanzverhältnisse",
-							"notePosition": 90,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"attributes": [],
-							"format": "html",
-							"attachments": [],
-							"dirFileName": "Globale Finanzverhältnisse",
-							"children": [
-								{
-									"isClone": false,
-									"noteId": "N4ev59cONqMS",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"N4ev59cONqMS"
-									],
-									"title": "Dollar-Hegemonie",
-									"notePosition": 10,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Dollar-Hegemonie",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "DzAu3RNlNSln",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"N4ev59cONqMS",
-												"DzAu3RNlNSln"
-											],
-											"title": "Petrodollar-System",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Petrodollar-System.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "s0WcpORCSnEn",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"N4ev59cONqMS",
-												"s0WcpORCSnEn"
-											],
-											"title": "SWIFT-Waffe",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "SWIFT-Waffe.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "fpBX81IWOMi2",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"N4ev59cONqMS",
-												"fpBX81IWOMi2"
-											],
-											"title": "Sanktions-Ökonomie",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Sanktions-Ökonomie.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "XlCybpZVXAgv",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"XlCybpZVXAgv"
-									],
-									"title": "Dedollarisierung (AKTUELL!)",
-									"notePosition": 20,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Dedollarisierung (AKTUELL!)",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "2n3mMGeYYgoJ",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"XlCybpZVXAgv",
-												"2n3mMGeYYgoJ"
-											],
-											"title": "BRICS-Währung",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "BRICS-Währung.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "iwfoWhXubKvR",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"XlCybpZVXAgv",
-												"iwfoWhXubKvR"
-											],
-											"title": "China-Saudi Yuan-Deals",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "China-Saudi Yuan-Deals.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "GxPC92dqAA1w",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"XlCybpZVXAgv",
-												"GxPC92dqAA1w"
-											],
-											"title": "Russland-Indien Rubel-Rupie",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Russland-Indien Rubel-Rupie.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "5rranomzU5ZF",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"5rranomzU5ZF"
-									],
-									"title": "IWF/Weltbank",
-									"notePosition": 30,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "IWFWeltbank",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "zzxwqBXZk3wA",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"5rranomzU5ZF",
-												"zzxwqBXZk3wA"
-											],
-											"title": "Strukturanpassungsprogramme",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Strukturanpassungsprogramme.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "esdeufZYTQF3",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"5rranomzU5ZF",
-												"esdeufZYTQF3"
-											],
-											"title": "Privatisierungs-Zwang",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Privatisierungs-Zwang.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "sWKUms8yzwJY",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"5rranomzU5ZF",
-												"sWKUms8yzwJY"
-											],
-											"title": "Schuldenfalle",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Schuldenfalle.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "kjedseKBrgv4",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"kjedseKBrgv4"
-									],
-									"title": "Digitale Währungen",
-									"notePosition": 40,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Digitale Währungen",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "mZ6jDH6Eludr",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"mZ6jDH6Eludr"
-											],
-											"title": "CBDC (Digital Euro)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "CBDC (Digital Euro).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "2OrgFtE0Lq6c",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"2OrgFtE0Lq6c"
-											],
-											"title": "Bargeldabschaffung",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Bargeldabschaffung.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "lB5CgpkQiyhp",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"lB5CgpkQiyhp"
-											],
-											"title": "Programmierbarkeit = Kontrolle",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Programmierbarkeit = Kontrolle.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "NQuG63khuw05",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"NQuG63khuw05"
-											],
-											"title": "Verschiedene Coins (NICHT CDBC)",
-											"notePosition": 40,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Verschiedene Coins (NICHT CDBC.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "RV8CsGPlYlFY",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"RV8CsGPlYlFY"
-									],
-									"title": "2008 Financial Crisis",
-									"notePosition": 50,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "2008 Financial Crisis",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "wpqJB5oZJ1Qn",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"RV8CsGPlYlFY",
-												"wpqJB5oZJ1Qn"
-											],
-											"title": "Keine Banker im Gefängnis",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Keine Banker im Gefängnis.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "crO4YeYoCj4m",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"RV8CsGPlYlFY",
-												"crO4YeYoCj4m"
-											],
-											"title": "Too Big To Fail",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Too Big To Fail.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "rSaizp8fEbmU",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"RV8CsGPlYlFY",
-												"rSaizp8fEbmU"
-											],
-											"title": "Bailouts vs. Austerität",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Bailouts vs. Austerität.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "Yjvgw1GBHZln",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"Yjvgw1GBHZln"
-									],
-									"title": "CFA",
-									"notePosition": 60,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "CFA.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "D6YW9E3ULUhM",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"D6YW9E3ULUhM"
-									],
-									"title": "Rohmaterial Finanzgeschichte",
-									"notePosition": 70,
-									"prefix": null,
-									"isExpanded": true,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "Rohmaterial Finanzgeschichte.html",
-									"attachments": [],
-									"dirFileName": "Rohmaterial Finanzgeschichte",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "7oLMkgjSs7Ln",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"D6YW9E3ULUhM",
-												"7oLMkgjSs7Ln"
-											],
-											"title": "andere geldsysteme (historisch)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": true,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "andere geldsysteme (historisch.html",
-											"attachments": [],
-											"dirFileName": "andere geldsysteme (historisch)",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "5u1Ox8226qPr",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"GMd2GZwKHqdl",
-														"D6YW9E3ULUhM",
-														"7oLMkgjSs7Ln",
-														"5u1Ox8226qPr"
-													],
-													"title": "andere geldsystem tiefer...",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": true,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "andere geldsystem tiefer.html",
-													"attachments": [],
-													"dirFileName": "andere geldsystem tiefer",
-													"children": [
-														{
-															"isClone": false,
-															"noteId": "2Owx1AFH6yB1",
-															"notePath": [
-																"Y9nhGuNYOuEF",
-																"lWAJdyBuSfVz",
-																"GMd2GZwKHqdl",
-																"D6YW9E3ULUhM",
-																"7oLMkgjSs7Ln",
-																"5u1Ox8226qPr",
-																"2Owx1AFH6yB1"
-															],
-															"title": "\"verschwörung...\"",
-															"notePosition": 10,
-															"prefix": null,
-															"isExpanded": false,
-															"type": "text",
-															"mime": "text/html",
-															"attributes": [],
-															"format": "html",
-															"dataFileName": "verschwörung.html",
-															"attachments": []
-														}
-													]
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"isClone": false,
 							"noteId": "yiOs0cBNKAnV",
 							"notePath": [
 								"Y9nhGuNYOuEF",
@@ -1666,7 +149,7 @@
 								"yiOs0cBNKAnV"
 							],
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
-							"notePosition": 230,
+							"notePosition": 50,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3707,6 +2190,1511 @@
 						},
 						{
 							"isClone": false,
+							"noteId": "LGtF1UPYJceK",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"LGtF1UPYJceK"
+							],
+							"title": "Farbrevolutionen",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "cvverwVavOZE",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "hwGy4BjE78T3",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "O2fACFnlPoHu",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "s5oe15YQ8EWn",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "1e5hfmd3GSHW",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "d6RTTfPj1AnT",
+									"isInheritable": false,
+									"position": 60
+								}
+							],
+							"format": "html",
+							"dataFileName": "Farbrevolutionen.html",
+							"attachments": [
+								{
+									"attachmentId": "l2GFin6FRPMM",
+									"title": "deep-gespräch zu farbrevolutionen.pdf",
+									"role": "file",
+									"mime": "application/pdf",
+									"position": 10,
+									"dataFileName": "Farbrevolutionen_deep-gesp.pdf"
+								},
+								{
+									"attachmentId": "uZQi1iWpLVZf",
+									"title": "claude zu Farbrevolution - der Begriff.pdf",
+									"role": "file",
+									"mime": "application/pdf",
+									"position": 10,
+									"dataFileName": "Farbrevolutionen_claude zu.pdf"
+								}
+							],
+							"dirFileName": "Farbrevolutionen",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "cvverwVavOZE",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"cvverwVavOZE"
+									],
+									"title": "Beispiele von Interventionen",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "book",
+									"mime": "",
+									"attributes": [],
+									"attachments": [],
+									"dirFileName": "Beispiele von Interventionen",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "jhxVeYATKfcY",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"jhxVeYATKfcY"
+											],
+											"title": "Lybien (2011)",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "CjzAfVdqWrIa",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Lybien (2011).html",
+											"attachments": [],
+											"dirFileName": "Lybien (2011)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "CjzAfVdqWrIa",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"jhxVeYATKfcY",
+														"CjzAfVdqWrIa"
+													],
+													"title": "Lockerbie & La Belle (1988/1986)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Lockerbie & La Belle (19881986.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "5jXyR6RPD7o2",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"5jXyR6RPD7o2"
+											],
+											"title": "Chile (1973)",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Chile (1973).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "VuYMDPitzJuo",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"VuYMDPitzJuo"
+											],
+											"title": "Guatemala (1954)",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Guatemala (1954).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "u0cbqjTJBUFr",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"u0cbqjTJBUFr"
+											],
+											"title": "Hawaï (1893)",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Hawaï (1893).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "wF6kKd7aumRN",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"wF6kKd7aumRN"
+											],
+											"title": "Opium-Kriege (1839-1860)",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Opium-Kriege (1839-1860).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "JWku9dnJJ8pj",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"JWku9dnJJ8pj"
+											],
+											"title": "Beispiele von frühen Farbrevolutionen",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "book",
+											"mime": "",
+											"attributes": [],
+											"attachments": [],
+											"dirFileName": "Beispiele von frühen Farbrevolutionen",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "d6RTTfPj1AnT",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"JWku9dnJJ8pj",
+														"d6RTTfPj1AnT"
+													],
+													"title": "Glorious Revolution / England (1688)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Glorious Revolution  England (.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "1e5hfmd3GSHW",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"JWku9dnJJ8pj",
+														"1e5hfmd3GSHW"
+													],
+													"title": "Jakobiner & französische Revolution",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Jakobiner & französische Revol.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "s5oe15YQ8EWn",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"JWku9dnJJ8pj",
+														"s5oe15YQ8EWn"
+													],
+													"title": "Solidarność ?",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "relation",
+															"name": "internalLink",
+															"value": "43GxTWIW7xyW",
+															"isInheritable": false,
+															"position": 20
+														}
+													],
+													"format": "html",
+													"dataFileName": "Solidarność.html",
+													"attachments": [],
+													"dirFileName": "Solidarność",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "aQaCz9xkxhIQ",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"LGtF1UPYJceK",
+																"cvverwVavOZE",
+																"JWku9dnJJ8pj",
+																"s5oe15YQ8EWn",
+																"aQaCz9xkxhIQ"
+															],
+															"title": "Von Solidarność zu Gene Sharp und den Farbrevolutionen",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "relation",
+																	"name": "internalLink",
+																	"value": "43GxTWIW7xyW",
+																	"isInheritable": false,
+																	"position": 10
+																}
+															],
+															"format": "html",
+															"dataFileName": "Von Solidarność zu Gene Sharp .html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "43GxTWIW7xyW",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"LGtF1UPYJceK",
+																"cvverwVavOZE",
+																"JWku9dnJJ8pj",
+																"s5oe15YQ8EWn",
+																"43GxTWIW7xyW"
+															],
+															"title": "Quellen zu Solidarność & Gene Sharp",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Quellen zu Solidarność & Gene .html",
+															"attachments": []
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "ym3nmzrIEz2v",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"ym3nmzrIEz2v"
+									],
+									"title": "farbrevolutionen_aufstellung I",
+									"notePosition": 70,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "farbrevolutionen_aufstellung I.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "cWl2okN2fyWk",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"cWl2okN2fyWk"
+									],
+									"title": "farbrevolutionen_aufstellung II",
+									"notePosition": 80,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "1_farbrevolutionen_aufstellung I.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "doiqNa8GGWsG",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"doiqNa8GGWsG"
+									],
+									"title": "farbrevolutionen_aufstellung III",
+									"notePosition": 90,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "2_farbrevolutionen_aufstellung I.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "hwGy4BjE78T3",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"hwGy4BjE78T3"
+									],
+									"title": "farbrevolutionen_exportfirma otpor! / canvas",
+									"notePosition": 100,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "5BEjTX6mLVB6",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "farbrevolutionen_exportfirma o.html",
+									"attachments": [],
+									"dirFileName": "farbrevolutionen_exportfirma otpor!  canvas",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "5BEjTX6mLVB6",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"hwGy4BjE78T3",
+												"5BEjTX6mLVB6"
+											],
+											"title": "Gene Sharp",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Gene Sharp.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "fghwzVqkarPZ",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"fghwzVqkarPZ"
+									],
+									"title": "Gedanken zu Farbrevolutionen",
+									"notePosition": 110,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "Gedanken zu Farbrevolutionen.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "QeO3yOaD97mu",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"QeO3yOaD97mu"
+							],
+							"title": "Think-Tanks, Stiftungen und NGOs - Einleitung",
+							"notePosition": 80,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "V96zEmIJ1ePq",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "62ecgSkcnB8g",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "AOYvh2r8Hqxf",
+									"isInheritable": false,
+									"position": 30
+								}
+							],
+							"format": "html",
+							"dataFileName": "Think-Tanks, Stiftungen und NG.html",
+							"attachments": [],
+							"dirFileName": "Think-Tanks, Stiftungen und NGOs - Einleitung",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "62ecgSkcnB8g",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"QeO3yOaD97mu",
+										"62ecgSkcnB8g"
+									],
+									"title": "die Rosen-Revolution, Georgien 2003",
+									"notePosition": 11,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "o9gZtlzG7xh3",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "die Rosen-Revolution, Georgien.html",
+									"attachments": [],
+									"dirFileName": "die Rosen-Revolution, Georgien 2003",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "o9gZtlzG7xh3",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"QeO3yOaD97mu",
+												"62ecgSkcnB8g",
+												"o9gZtlzG7xh3"
+											],
+											"title": "Quellen zu Rosen-Revolution",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zu Rosen-Revolution.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "AOYvh2r8Hqxf",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"QeO3yOaD97mu",
+												"62ecgSkcnB8g",
+												"AOYvh2r8Hqxf"
+											],
+											"title": "Quellen zu \"eigentlichen Interessen\"",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zu eigentlichen Intere.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "O2fACFnlPoHu",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"QeO3yOaD97mu",
+										"O2fACFnlPoHu"
+									],
+									"title": "Think-Tanks, Stiftungen und NGOs - Auflistung",
+									"notePosition": 21,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Think-Tanks, Stiftungen und NG.html",
+									"attachments": [],
+									"dirFileName": "Think-Tanks, Stiftungen und NGOs - Auflistung",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "IuTzQv0hBYK2",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"QeO3yOaD97mu",
+												"O2fACFnlPoHu",
+												"IuTzQv0hBYK2"
+											],
+											"title": "Edwin Meese & Heritage Foundation",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "Lg2rHRHjH2H0",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Edwin Meese & Heritage Foundat.html",
+											"attachments": [],
+											"dirFileName": "Edwin Meese & Heritage Foundation",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "Lg2rHRHjH2H0",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"QeO3yOaD97mu",
+														"O2fACFnlPoHu",
+														"IuTzQv0hBYK2",
+														"Lg2rHRHjH2H0"
+													],
+													"title": "Nachtrag",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Nachtrag.html",
+													"attachments": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "fDbOvLSW4l2Y",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"QeO3yOaD97mu",
+										"fDbOvLSW4l2Y"
+									],
+									"title": "NGOs - venice.ai",
+									"notePosition": 31,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "HA13HNfIjXDd",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "IxCMkxU5E8of",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "G5nwswxLuVBd",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
+									"format": "html",
+									"dataFileName": "NGOs - venice.ai.html",
+									"attachments": [],
+									"dirFileName": "NGOs - venice.ai",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "IxCMkxU5E8of",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"QeO3yOaD97mu",
+												"fDbOvLSW4l2Y",
+												"IxCMkxU5E8of"
+											],
+											"title": "NGO - venice III",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "NGO - venice III.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "G5nwswxLuVBd",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"QeO3yOaD97mu",
+												"fDbOvLSW4l2Y",
+												"G5nwswxLuVBd"
+											],
+											"title": "NGOs für regime-change - venice.ai IV",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "NGOs für regime-change - venic.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "HA13HNfIjXDd",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"QeO3yOaD97mu",
+												"fDbOvLSW4l2Y",
+												"HA13HNfIjXDd"
+											],
+											"title": "NGOs - venice I",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "NGOs - venice I.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "V96zEmIJ1ePq",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"QeO3yOaD97mu",
+												"fDbOvLSW4l2Y",
+												"V96zEmIJ1ePq"
+											],
+											"title": "NGOs - der Begriff - venice.ai",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "NGOs - der Begriff - venice.ai.html",
+											"attachments": []
+										}
+									]
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "5QrWfxZWRBz7",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"5QrWfxZWRBz7"
+							],
+							"title": "Farbrevolutionen <> Geldsystem",
+							"notePosition": 90,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Farbrevolutionen  Geldsystem.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "GMd2GZwKHqdl",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"GMd2GZwKHqdl"
+							],
+							"title": "Globale Finanzverhältnisse",
+							"notePosition": 120,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"attachments": [],
+							"dirFileName": "Globale Finanzverhältnisse",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "N4ev59cONqMS",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"GMd2GZwKHqdl",
+										"N4ev59cONqMS"
+									],
+									"title": "Dollar-Hegemonie",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "Dollar-Hegemonie",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "DzAu3RNlNSln",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"N4ev59cONqMS",
+												"DzAu3RNlNSln"
+											],
+											"title": "Petrodollar-System",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Petrodollar-System.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "s0WcpORCSnEn",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"N4ev59cONqMS",
+												"s0WcpORCSnEn"
+											],
+											"title": "SWIFT-Waffe",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "SWIFT-Waffe.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "fpBX81IWOMi2",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"N4ev59cONqMS",
+												"fpBX81IWOMi2"
+											],
+											"title": "Sanktions-Ökonomie",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Sanktions-Ökonomie.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "XlCybpZVXAgv",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"GMd2GZwKHqdl",
+										"XlCybpZVXAgv"
+									],
+									"title": "Dedollarisierung (AKTUELL!)",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "Dedollarisierung (AKTUELL!)",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "2n3mMGeYYgoJ",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"XlCybpZVXAgv",
+												"2n3mMGeYYgoJ"
+											],
+											"title": "BRICS-Währung",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "BRICS-Währung.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "iwfoWhXubKvR",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"XlCybpZVXAgv",
+												"iwfoWhXubKvR"
+											],
+											"title": "China-Saudi Yuan-Deals",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "China-Saudi Yuan-Deals.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "GxPC92dqAA1w",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"XlCybpZVXAgv",
+												"GxPC92dqAA1w"
+											],
+											"title": "Russland-Indien Rubel-Rupie",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Russland-Indien Rubel-Rupie.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "5rranomzU5ZF",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"GMd2GZwKHqdl",
+										"5rranomzU5ZF"
+									],
+									"title": "IWF/Weltbank",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "IWFWeltbank",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "zzxwqBXZk3wA",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"5rranomzU5ZF",
+												"zzxwqBXZk3wA"
+											],
+											"title": "Strukturanpassungsprogramme",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Strukturanpassungsprogramme.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "esdeufZYTQF3",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"5rranomzU5ZF",
+												"esdeufZYTQF3"
+											],
+											"title": "Privatisierungs-Zwang",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Privatisierungs-Zwang.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "sWKUms8yzwJY",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"5rranomzU5ZF",
+												"sWKUms8yzwJY"
+											],
+											"title": "Schuldenfalle",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Schuldenfalle.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "kjedseKBrgv4",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"GMd2GZwKHqdl",
+										"kjedseKBrgv4"
+									],
+									"title": "Digitale Währungen",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "Digitale Währungen",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "mZ6jDH6Eludr",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"kjedseKBrgv4",
+												"mZ6jDH6Eludr"
+											],
+											"title": "CBDC (Digital Euro)",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "CBDC (Digital Euro).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "2OrgFtE0Lq6c",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"kjedseKBrgv4",
+												"2OrgFtE0Lq6c"
+											],
+											"title": "Bargeldabschaffung",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Bargeldabschaffung.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "lB5CgpkQiyhp",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"kjedseKBrgv4",
+												"lB5CgpkQiyhp"
+											],
+											"title": "Programmierbarkeit = Kontrolle",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Programmierbarkeit = Kontrolle.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "NQuG63khuw05",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"kjedseKBrgv4",
+												"NQuG63khuw05"
+											],
+											"title": "Verschiedene Coins (NICHT CDBC)",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Verschiedene Coins (NICHT CDBC.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "RV8CsGPlYlFY",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"GMd2GZwKHqdl",
+										"RV8CsGPlYlFY"
+									],
+									"title": "2008 Financial Crisis",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "2008 Financial Crisis",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "wpqJB5oZJ1Qn",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"RV8CsGPlYlFY",
+												"wpqJB5oZJ1Qn"
+											],
+											"title": "Keine Banker im Gefängnis",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Keine Banker im Gefängnis.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "crO4YeYoCj4m",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"RV8CsGPlYlFY",
+												"crO4YeYoCj4m"
+											],
+											"title": "Too Big To Fail",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Too Big To Fail.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "rSaizp8fEbmU",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"RV8CsGPlYlFY",
+												"rSaizp8fEbmU"
+											],
+											"title": "Bailouts vs. Austerität",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Bailouts vs. Austerität.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "Yjvgw1GBHZln",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"GMd2GZwKHqdl",
+										"Yjvgw1GBHZln"
+									],
+									"title": "CFA",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "CFA.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "D6YW9E3ULUhM",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"GMd2GZwKHqdl",
+										"D6YW9E3ULUhM"
+									],
+									"title": "Rohmaterial Finanzgeschichte",
+									"notePosition": 70,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Rohmaterial Finanzgeschichte.html",
+									"attachments": [],
+									"dirFileName": "Rohmaterial Finanzgeschichte",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "7oLMkgjSs7Ln",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"GMd2GZwKHqdl",
+												"D6YW9E3ULUhM",
+												"7oLMkgjSs7Ln"
+											],
+											"title": "andere geldsysteme (historisch)",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "andere geldsysteme (historisch.html",
+											"attachments": [],
+											"dirFileName": "andere geldsysteme (historisch)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "5u1Ox8226qPr",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"GMd2GZwKHqdl",
+														"D6YW9E3ULUhM",
+														"7oLMkgjSs7Ln",
+														"5u1Ox8226qPr"
+													],
+													"title": "andere geldsystem tiefer...",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "andere geldsystem tiefer.html",
+													"attachments": [],
+													"dirFileName": "andere geldsystem tiefer",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "2Owx1AFH6yB1",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"GMd2GZwKHqdl",
+																"D6YW9E3ULUhM",
+																"7oLMkgjSs7Ln",
+																"5u1Ox8226qPr",
+																"2Owx1AFH6yB1"
+															],
+															"title": "\"verschwörung...\"",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "verschwörung.html",
+															"attachments": []
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"isClone": false,
 							"noteId": "TnCobanrUWMQ",
 							"notePath": [
 								"Y9nhGuNYOuEF",
@@ -3714,7 +3702,7 @@
 								"TnCobanrUWMQ"
 							],
 							"title": "Ukraine-Russland-Krieg",
-							"notePosition": 260,
+							"notePosition": 290,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4609,7 +4597,7 @@
 								"jIq54pBixtUm"
 							],
 							"title": "Gaza-Krieg & Israel-Palästina-Komplex",
-							"notePosition": 270,
+							"notePosition": 300,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -5147,7 +5135,7 @@
 								"zUxzquhF2AnU"
 							],
 							"title": "USA-Venezuela",
-							"notePosition": 280,
+							"notePosition": 310,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -5382,7 +5370,7 @@
 								"3DvikU3hVkb6"
 							],
 							"title": "Iran-Komplex",
-							"notePosition": 300,
+							"notePosition": 330,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
