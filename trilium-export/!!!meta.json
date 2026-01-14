@@ -151,7 +151,7 @@
 							"title": "Farbrevolutionen",
 							"notePosition": 50,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -570,7 +570,15 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
 									"format": "html",
 									"dataFileName": "farbrevolutionen_aufstellung I.html",
 									"attachments": []
@@ -590,7 +598,15 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
 									"format": "html",
 									"dataFileName": "1_farbrevolutionen_aufstellung I.html",
 									"attachments": []
@@ -610,7 +626,15 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
 									"format": "html",
 									"dataFileName": "2_farbrevolutionen_aufstellung I.html",
 									"attachments": []
@@ -682,10 +706,353 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
 									"format": "html",
 									"dataFileName": "Gedanken zu Farbrevolutionen.html",
 									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "QeO3yOaD97mu",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"QeO3yOaD97mu"
+									],
+									"title": "Think-Tanks, Stiftungen und NGOs - Einleitung",
+									"notePosition": 120,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "V96zEmIJ1ePq",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "62ecgSkcnB8g",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "AOYvh2r8Hqxf",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
+									"format": "html",
+									"dataFileName": "Think-Tanks, Stiftungen und NG.html",
+									"attachments": [],
+									"dirFileName": "Think-Tanks, Stiftungen und NGOs - Einleitung",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "62ecgSkcnB8g",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"QeO3yOaD97mu",
+												"62ecgSkcnB8g"
+											],
+											"title": "die Rosen-Revolution, Georgien 2003",
+											"notePosition": 11,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "o9gZtlzG7xh3",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "die Rosen-Revolution, Georgien.html",
+											"attachments": [],
+											"dirFileName": "die Rosen-Revolution, Georgien 2003",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "o9gZtlzG7xh3",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"QeO3yOaD97mu",
+														"62ecgSkcnB8g",
+														"o9gZtlzG7xh3"
+													],
+													"title": "Quellen zu Rosen-Revolution",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Quellen zu Rosen-Revolution.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "AOYvh2r8Hqxf",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"QeO3yOaD97mu",
+														"62ecgSkcnB8g",
+														"AOYvh2r8Hqxf"
+													],
+													"title": "Quellen zu \"eigentlichen Interessen\"",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Quellen zu eigentlichen Intere.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "O2fACFnlPoHu",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"QeO3yOaD97mu",
+												"O2fACFnlPoHu"
+											],
+											"title": "Think-Tanks, Stiftungen und NGOs - Auflistung",
+											"notePosition": 21,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Think-Tanks, Stiftungen und NG.html",
+											"attachments": [],
+											"dirFileName": "Think-Tanks, Stiftungen und NGOs - Auflistung",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "IuTzQv0hBYK2",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"QeO3yOaD97mu",
+														"O2fACFnlPoHu",
+														"IuTzQv0hBYK2"
+													],
+													"title": "Edwin Meese & Heritage Foundation",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "relation",
+															"name": "internalLink",
+															"value": "Lg2rHRHjH2H0",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Edwin Meese & Heritage Foundat.html",
+													"attachments": [],
+													"dirFileName": "Edwin Meese & Heritage Foundation",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "Lg2rHRHjH2H0",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"LGtF1UPYJceK",
+																"QeO3yOaD97mu",
+																"O2fACFnlPoHu",
+																"IuTzQv0hBYK2",
+																"Lg2rHRHjH2H0"
+															],
+															"title": "Nachtrag",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Nachtrag.html",
+															"attachments": []
+														}
+													]
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "fDbOvLSW4l2Y",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"QeO3yOaD97mu",
+												"fDbOvLSW4l2Y"
+											],
+											"title": "NGOs - venice.ai",
+											"notePosition": 31,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "HA13HNfIjXDd",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IxCMkxU5E8of",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "G5nwswxLuVBd",
+													"isInheritable": false,
+													"position": 30
+												}
+											],
+											"format": "html",
+											"dataFileName": "NGOs - venice.ai.html",
+											"attachments": [],
+											"dirFileName": "NGOs - venice.ai",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "IxCMkxU5E8of",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"QeO3yOaD97mu",
+														"fDbOvLSW4l2Y",
+														"IxCMkxU5E8of"
+													],
+													"title": "NGO - venice III",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "NGO - venice III.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "G5nwswxLuVBd",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"QeO3yOaD97mu",
+														"fDbOvLSW4l2Y",
+														"G5nwswxLuVBd"
+													],
+													"title": "NGOs für regime-change - venice.ai IV",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "NGOs für regime-change - venic.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "HA13HNfIjXDd",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"QeO3yOaD97mu",
+														"fDbOvLSW4l2Y",
+														"HA13HNfIjXDd"
+													],
+													"title": "NGOs - venice I",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "NGOs - venice I.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "V96zEmIJ1ePq",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"QeO3yOaD97mu",
+														"fDbOvLSW4l2Y",
+														"V96zEmIJ1ePq"
+													],
+													"title": "NGOs - der Begriff - venice.ai",
+													"notePosition": 50,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "NGOs - der Begriff - venice.ai.html",
+													"attachments": []
+												}
+											]
+										}
+									]
 								}
 							]
 						},
@@ -5276,80 +5643,6 @@
 											"attributes": [],
 											"format": "html",
 											"dataFileName": "Kriegseskalationsrisiko.html",
-											"attachments": []
-										}
-									]
-								}
-							]
-						},
-						{
-							"isClone": false,
-							"noteId": "O2fACFnlPoHu",
-							"notePath": [
-								"Y9nhGuNYOuEF",
-								"lWAJdyBuSfVz",
-								"O2fACFnlPoHu"
-							],
-							"title": "Think-Tanks, Stiftungen und NGOs",
-							"notePosition": 320,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"attributes": [],
-							"format": "html",
-							"dataFileName": "Think-Tanks, Stiftungen und NG.html",
-							"attachments": [],
-							"dirFileName": "Think-Tanks, Stiftungen und NGOs",
-							"children": [
-								{
-									"isClone": false,
-									"noteId": "IuTzQv0hBYK2",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"O2fACFnlPoHu",
-										"IuTzQv0hBYK2"
-									],
-									"title": "Edwin Meese & Heritage Foundation",
-									"notePosition": 10,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "relation",
-											"name": "internalLink",
-											"value": "Lg2rHRHjH2H0",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "Edwin Meese & Heritage Foundat.html",
-									"attachments": [],
-									"dirFileName": "Edwin Meese & Heritage Foundation",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "Lg2rHRHjH2H0",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"O2fACFnlPoHu",
-												"IuTzQv0hBYK2",
-												"Lg2rHRHjH2H0"
-											],
-											"title": "Nachtrag",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Nachtrag.html",
 											"attachments": []
 										}
 									]
