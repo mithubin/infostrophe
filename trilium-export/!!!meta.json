@@ -151,7 +151,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 70,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -197,6 +197,13 @@
 											"value": "Q2wunah1QkTT",
 											"isInheritable": false,
 											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "zT5BFqRBwMvY",
+											"isInheritable": false,
+											"position": 20
 										}
 									],
 									"format": "html",
@@ -905,7 +912,7 @@
 												"LXz9gXaH9bte",
 												"iv1qklz5JsBD"
 											],
-											"title": "Kritik an & Einflussnahme auf Wahlen",
+											"title": "Kritik an & Einflussnahme auf Wahlen (roh)",
 											"notePosition": 80,
 											"prefix": null,
 											"isExpanded": false,
@@ -918,6 +925,13 @@
 													"value": "grid",
 													"isInheritable": false,
 													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#4de699",
+													"isInheritable": false,
+													"position": 20
 												}
 											],
 											"format": "html",
@@ -964,7 +978,7 @@
 													"dataFileName": "4_Kritik an & Einflussnahme .pdf"
 												}
 											],
-											"dirFileName": "Kritik an & Einflussnahme auf Wahlen",
+											"dirFileName": "Kritik an & Einflussnahme auf Wahlen (roh)",
 											"children": [
 												{
 													"isClone": false,
@@ -1407,7 +1421,7 @@
 											"title": "Diskreditierung von Russland, Russen und russischer Kultur",
 											"notePosition": 100,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -1441,7 +1455,15 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
 													"format": "html",
 													"attachments": [],
 													"dirFileName": "Innenpolitische Repression",
@@ -1623,7 +1645,15 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
 													"format": "html",
 													"attachments": [],
 													"dirFileName": "Morde & Vergiftungen",
@@ -1762,7 +1792,15 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
 													"format": "html",
 													"attachments": [],
 													"dirFileName": "Militärische Aktionen",
@@ -1901,7 +1939,15 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
 													"format": "html",
 													"attachments": [],
 													"dirFileName": "Hybrid Warfare-Narrativ",
@@ -2017,7 +2063,15 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
 													"format": "html",
 													"attachments": [],
 													"dirFileName": "Sonstiges",
@@ -2087,7 +2141,15 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#4de699",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
 													"format": "html",
 													"dataFileName": "Öl, Gas, Rohstoffe als Druckmi.html",
 													"attachments": []
@@ -2199,7 +2261,7 @@
 							"title": "Farbrevolutionen",
 							"notePosition": 80,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -2216,13 +2278,6 @@
 									"value": "hwGy4BjE78T3",
 									"isInheritable": false,
 									"position": 20
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "O2fACFnlPoHu",
-									"isInheritable": false,
-									"position": 30
 								},
 								{
 									"type": "relation",
@@ -2244,6 +2299,20 @@
 									"value": "d6RTTfPj1AnT",
 									"isInheritable": false,
 									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "62ecgSkcnB8g",
+									"isInheritable": false,
+									"position": 70
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "QeO3yOaD97mu",
+									"isInheritable": false,
+									"position": 80
 								}
 							],
 							"format": "html",
@@ -2280,7 +2349,7 @@
 									"title": "Beispiele von Interventionen",
 									"notePosition": 50,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -2438,7 +2507,7 @@
 											"title": "Beispiele von frühen Farbrevolutionen",
 											"notePosition": 60,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "book",
 											"mime": "",
 											"attributes": [],
@@ -2780,7 +2849,7 @@
 							"title": "Think-Tanks, Stiftungen und NGOs - Einleitung",
 							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -3103,7 +3172,7 @@
 							"title": "Farbrevolutionen <> Geldsystem",
 							"notePosition": 100,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [],
