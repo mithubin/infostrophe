@@ -11,7 +11,7 @@
 			"title": "infostrophe",
 			"notePosition": 50,
 			"prefix": null,
-			"isExpanded": false,
+			"isExpanded": true,
 			"type": "text",
 			"mime": "text/html",
 			"attributes": [
@@ -149,7 +149,7 @@
 								"yiOs0cBNKAnV"
 							],
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
-							"notePosition": 50,
+							"notePosition": 70,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -2197,7 +2197,7 @@
 								"LGtF1UPYJceK"
 							],
 							"title": "Farbrevolutionen",
-							"notePosition": 70,
+							"notePosition": 80,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -2778,7 +2778,7 @@
 								"QeO3yOaD97mu"
 							],
 							"title": "Think-Tanks, Stiftungen und NGOs - Einleitung",
-							"notePosition": 80,
+							"notePosition": 90,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3101,9 +3101,9 @@
 								"5QrWfxZWRBz7"
 							],
 							"title": "Farbrevolutionen <> Geldsystem",
-							"notePosition": 90,
+							"notePosition": 100,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [],
@@ -3120,7 +3120,7 @@
 								"GMd2GZwKHqdl"
 							],
 							"title": "Globale Finanzverhältnisse",
-							"notePosition": 120,
+							"notePosition": 130,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3702,7 +3702,7 @@
 								"TnCobanrUWMQ"
 							],
 							"title": "Ukraine-Russland-Krieg",
-							"notePosition": 290,
+							"notePosition": 300,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4597,7 +4597,7 @@
 								"jIq54pBixtUm"
 							],
 							"title": "Gaza-Krieg & Israel-Palästina-Komplex",
-							"notePosition": 300,
+							"notePosition": 310,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -5135,7 +5135,7 @@
 								"zUxzquhF2AnU"
 							],
 							"title": "USA-Venezuela",
-							"notePosition": 310,
+							"notePosition": 320,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -5370,7 +5370,7 @@
 								"3DvikU3hVkb6"
 							],
 							"title": "Iran-Komplex",
-							"notePosition": 330,
+							"notePosition": 340,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
