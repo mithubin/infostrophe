@@ -39,11 +39,25 @@ body::before {
 
 "Infostrophe" versucht sich am Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
 
-Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt. Gelegentlich wird die Dokumentation ge-updatet.
+Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt.
 
-Idealerweise hilft sie Bewusstsein zu für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu wecken. Sie kann als Grundlage für Themen-Ideen und Recherche-Arbeiten professioneller Medienschaffenden dienen.
+Einige Zweige sind gut ausgearbeitet, die Vorarbeit der KI ist nachstrukturiert und zumindest einige Quellen überprüft. Andere Zweige sind mit dem Roh-Material der KI-Recherche gefüllt, andere nur mit den vermutlich relevanten Stichpunkten. Wenn etwas weiter ausgearbeitet ist, wird die Dokumentation ge-updatet.
 
-Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen. Eine wichtige Rolle spielt die KI "Claude" (Anthropic), deren Arbeit immer gekennzeichnet ist.
+## Roter Faden...
+
+Bei der Arbeit entsteht ein möglicher roter Faden - "möglich", weil verschiedene Rote Fäden formulierbar wären. Dieser ist also nicht zwingend, aber der gewählte wäre ein Weg aus "Platos Höhle" - nach Sicht des Autors. Er beginnt bei augenfälligen, aber kollektiv ignorierten Widersprüchen in der eigenen Umgebung (der EU) und führt über weniger wahrgenommene politisch-finanzielle Vorgänge zum verknüpfenden Verständnis des geopolitischen Schachspiels. Ein Schachspiel, das an Dynamik gewinnt und die über Generationen eher beobachtenden EU-Länder stärker ins Spiel und damit das Erleben deutlicher Veränderungen bringt. Um die Metapher weiterzuführen - in jedem Schachspiel gibt es Opfer, Bauernopfer und geopferte Offiziere. Die Figuren in einem Schachspiel sind passiv den Entscheidungen des Spielers oder der Spielerin unterworfen, und wir können uns fragen, ob wir einem Welt-Spiel folgen wollen, das das genau so sieht, oder ob "wir", die einfachen Menschen, die Bürger, die Fliehenden und Schutzsuchenden, die Vertrauten und die Fremden, unsere Zukunft nicht nur als Schicksal betrachten, sondern selbst mitgestalten wollen.
+
+Ist eine Gesellschaft jenseits eines blutigen und rücksichtslosen neoliberalen Kapitalismus vorstellbar? Können neue Modelle des Zusammenlebens und -wirtschaftens, des Austausches der Früchte unserer Arbeit, unserer Anstrengungen gefunden werden?
+
+## ...zu den Medien.
+
+Bei der Beantwortung dieser Fragen spielt das Hintergrund-Narrativ, das immanente Verständnis unsere Kultur, unseren Seins eine große Rolle - also auch die Werkzeuge der Kommunikation und der Diskussion, der Entwicklung unseres kollektiven Verständnisses: die Medien. Die Medien in ihrer am weitest gefassten Form sind die Mittler (Wortwurzel) zwischen uns und zwischen uns und unserem Sein, unserer Zukunft.
+
+Idealerweise hilft diese Arbeit, Bewusstsein für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu wecken. Sie kann als Grundlage für Themen-Ideen und Recherche-Arbeiten professioneller Medienschaffenden dienen.
+
+###Technisches
+
+Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen. Eine wichtige Rolle spielt die KI "Claude" (Anthropic), deren Arbeit in den ausgearbeiteten Zweigen immer gekennzeichnet ist (in den Rohsammlungen nicht unbedingt).
 
 **→ <a href="/infostrophe/trilium-export/" target="_blank" rel="noopener">Zur Dokumentation</a>**
 
