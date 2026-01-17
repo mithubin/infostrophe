@@ -37,7 +37,7 @@ body::before {
 
 ## Systematische Medienanalyse
 
-"Infostrophe" versucht sich am Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards - Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu wichtigen politischen und geopolitischen Themen.
+"Infostrophe" versucht sich am Sichtbar-Machen von Auslassungen, Verdrehungen und Doppelstandards - gewichtigen Abwesenheiten von Bericht und Diskussion in der westlichen Medienberichterstattung zu großen politischen und geopolitischen Themen.
 
 Die Dokumentation ist NICHT vollständig und wird es wahrscheinlich NIE sein - sie ist als teilbare Arbeit-in-Fortschritt gedacht und wird zudem von den Entwicklungen immer wieder überholt.
 
