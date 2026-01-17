@@ -135,7 +135,7 @@ Beispiel-Zitation:
 verfügbar unter https://mithubin.github.io/infostrophe/
 lizenziert unter CC BY-SA 4.0.
 
-Hintergrundbild basierend auf einem Foto von [Frank Minjarez auf pexels](https://www.pexels.com/search/frank%20minjarez%20newspaper/)
+Hintergrundbild basierend auf Fotos von [Frank Minjarez](https://www.pexels.com/search/frank%20minjarez%20newspaper/) und [Ahmed Akacha](https://www.pexels.com/search/ahmed-akacha-/), beide auf [pexels](https://www.pexels.com/).
 
 ---
 
