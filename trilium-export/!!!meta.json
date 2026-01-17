@@ -7510,7 +7510,7 @@
 					"title": "C) Historisch UND Nachwirkend",
 					"notePosition": 170,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -8351,7 +8351,7 @@
 							"title": "12. Afghanistan-Krieg (2001-2021)",
 							"notePosition": 30,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [],
@@ -8435,7 +8435,7 @@
 									"title": "Afghanistan Papers (2019)",
 									"notePosition": 20,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
@@ -9420,29 +9420,24 @@
 					"attributes": [],
 					"format": "html",
 					"dataFileName": "Quellenliste.html",
-					"attachments": [],
-					"dirFileName": "Quellenliste",
-					"children": [
-						{
-							"isClone": false,
-							"noteId": "3FQndjpAoFtr",
-							"notePath": [
-								"Y9nhGuNYOuEF",
-								"VsbdcWXgdm0S",
-								"3FQndjpAoFtr"
-							],
-							"title": "Quellenverzeichnis - Infostrophe",
-							"notePosition": 10,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"attributes": [],
-							"format": "html",
-							"dataFileName": "Quellenverzeichnis - Infostrop.html",
-							"attachments": []
-						}
-					]
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "XUkfkFpJOXF7",
+					"notePath": [
+						"Y9nhGuNYOuEF",
+						"XUkfkFpJOXF7"
+					],
+					"title": "Neue Notiz",
+					"notePosition": 190,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "mindMap",
+					"mime": "application/json",
+					"attributes": [],
+					"dataFileName": "Neue Notiz.json",
+					"attachments": []
 				}
 			]
 		},
