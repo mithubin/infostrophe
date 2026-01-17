@@ -1,0 +1,3 @@
+'tqdm' already seems to be installed. Not modifying existing installation in
+'/home/milan/.local/share/pipx/venvs/tqdm'. Pass '--force' to force
+installation.

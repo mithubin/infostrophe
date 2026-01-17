@@ -9396,6 +9396,46 @@
 							]
 						}
 					]
+				},
+				{
+					"isClone": false,
+					"noteId": "VsbdcWXgdm0S",
+					"notePath": [
+						"Y9nhGuNYOuEF",
+						"VsbdcWXgdm0S"
+					],
+					"title": "Quellenliste",
+					"notePosition": 180,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Quellenliste.html",
+					"attachments": [],
+					"dirFileName": "Quellenliste",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "3FQndjpAoFtr",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"VsbdcWXgdm0S",
+								"3FQndjpAoFtr"
+							],
+							"title": "Quellenverzeichnis - Infostrophe",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Quellenverzeichnis - Infostrop.html",
+							"attachments": []
+						}
+					]
 				}
 			]
 		},
