@@ -51,11 +51,11 @@ Ist eine Gesellschaft jenseits eines blutigen und rücksichtslosen neoliberalen 
 
 ## ...zu den Medien.
 
-Bei der Beantwortung dieser Fragen spielt das Hintergrund-Narrativ, das immanente Verständnis unsere Kultur, unseren Seins eine große Rolle - also auch die Werkzeuge der Kommunikation und der Diskussion, der Entwicklung unseres kollektiven Verständnisses: die Medien. Die Medien in ihrer am weitest gefassten Form sind die Mittler (Wortwurzel) zwischen uns und zwischen uns und unserem Sein, unserer Zukunft.
+Bei der Beantwortung dieser Fragen spielt das Hintergrund-Narrativ, das immanente Verständnis unsere Kultur, unseren Seins eine große Rolle - also auch die Werkzeuge der Kommunikation und der Diskussion, der Entwicklung unseres kollektiven Verständnisses: die Medien. Die Medien in ihrer am weitest gefassten Form sind die Mittler [!Wortwurzel] zwischen uns und zwischen uns und unserem Sein, unserer Zukunft.
 
 Idealerweise hilft diese Arbeit, Bewusstsein für die Dringlichkeit einer Medien-Reform im Sinne einer pluralen und freien, sich entwickelnden Gesellschaft zu wecken. Sie kann als Grundlage für Themen-Ideen und Recherche-Arbeiten professioneller Medienschaffenden dienen.
 
-###Technisches
+### Technisches
 
 Infostrophe wird im Notiz-Programm Trillium-Notes verfasst, und wer das Projekt selbst bearbeiten und entwickeln will, kann den aktuellen Stand als Trillium-Export-Datei bekommen. Eine wichtige Rolle spielt die KI "Claude" (Anthropic), deren Arbeit in den ausgearbeiteten Zweigen immer gekennzeichnet ist (in den Rohsammlungen nicht unbedingt).
 
