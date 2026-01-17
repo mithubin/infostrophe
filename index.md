@@ -136,9 +136,9 @@ verfügbar unter https://mithubin.github.io/infostrophe/
 lizenziert unter CC BY-SA 4.0.
 
 Hintergrundbild basierend auf Fotos von 
-<a href="https://www.pexels.com/@frank-minjarez" target="_blank" rel="noopener">Frank Minjarez</a> 
+<a href="https://www.pexels.com/search/frank%20minjarez%20newspaper/" target="_blank" rel="noopener">Frank Minjarez</a> 
 und 
-<a href="https://www.pexels.com/@ahmed-akacha" target="_blank" rel="noopener">Ahmed Akacha</a>, 
+<a href="https://www.pexels.com/search/ahmed%20akacha/" target="_blank" rel="noopener">Ahmed Akacha</a>, 
 beide auf <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a>.
 
 ---
