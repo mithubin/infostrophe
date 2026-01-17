@@ -28,6 +28,13 @@
 					"value": "sKfaudob1VR6",
 					"isInheritable": false,
 					"position": 20
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "Raz9wpN4qjbA",
+					"isInheritable": false,
+					"position": 30
 				}
 			],
 			"format": "html",
