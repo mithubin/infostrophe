@@ -88,7 +88,7 @@
 					"title": "Roter Faden",
 					"notePosition": 100,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -102,7 +102,100 @@
 					],
 					"format": "html",
 					"dataFileName": "Roter Faden.html",
-					"attachments": []
+					"attachments": [],
+					"dirFileName": "Roter Faden",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "itgs4WpYSsyA",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"Raz9wpN4qjbA",
+								"itgs4WpYSsyA"
+							],
+							"title": "Roter-Faden in Linkform",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "yiOs0cBNKAnV",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "LXz9gXaH9bte",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "TnCobanrUWMQ",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "QeO3yOaD97mu",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "LGtF1UPYJceK",
+									"isInheritable": false,
+									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "Q2wunah1QkTT",
+									"isInheritable": false,
+									"position": 70
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "5QrWfxZWRBz7",
+									"isInheritable": false,
+									"position": 80
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "GMd2GZwKHqdl",
+									"isInheritable": false,
+									"position": 90
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "XhFhPRSXJR2p",
+									"isInheritable": false,
+									"position": 120
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "lbE81WKVDr24",
+									"isInheritable": false,
+									"position": 130
+								}
+							],
+							"format": "html",
+							"dataFileName": "Roter-Faden in Linkform.html",
+							"attachments": []
+						}
+					]
 				},
 				{
 					"isClone": false,
@@ -114,7 +207,7 @@
 					"title": "A) Akut Virulent",
 					"notePosition": 120,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "book",
 					"mime": "",
 					"attributes": [
@@ -184,7 +277,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 70,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -220,7 +313,7 @@
 									"title": "offene Fragen zur EU",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -5751,7 +5844,7 @@
 					"title": "B) Stark Nachwirkend",
 					"notePosition": 160,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -6113,8 +6206,17 @@
 							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
-							"attributes": [],
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "Cul5C0teN6FT",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
 							"format": "html",
+							"dataFileName": "Überwachung & Big-Tech-Zensur.html",
 							"attachments": [],
 							"dirFileName": "Überwachung & Big-Tech-Zensur",
 							"children": [
@@ -7518,7 +7620,7 @@
 					"title": "C) Historisch UND Nachwirkend",
 					"notePosition": 170,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -9422,7 +9524,7 @@
 					"title": "Quellenliste",
 					"notePosition": 180,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
