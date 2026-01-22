@@ -88,7 +88,7 @@
 					"title": "Roter Faden",
 					"notePosition": 100,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -277,7 +277,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 70,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -313,7 +313,7 @@
 									"title": "offene Fragen zur EU",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -5567,195 +5567,129 @@
 							"title": "Iran-Komplex",
 							"notePosition": 340,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
-							"attributes": [],
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vwYPDO2Xgdw7",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "H56Sq6Ys5Y45",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
 							"format": "html",
+							"dataFileName": "Iran-Komplex.html",
 							"attachments": [],
 							"dirFileName": "Iran-Komplex",
 							"children": [
 								{
 									"isClone": false,
-									"noteId": "kSOQW7ukHghd",
+									"noteId": "U59F4Z7IL5VA",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"3DvikU3hVkb6",
-										"kSOQW7ukHghd"
+										"U59F4Z7IL5VA"
 									],
-									"title": "Atomdeal (JCPOA)",
-									"notePosition": 10,
+									"title": "Was den Iran heute \"bewegt\"",
+									"notePosition": 40,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Atomdeal (JCPOA)",
-									"children": [
+									"attributes": [
 										{
-											"isClone": false,
-											"noteId": "Mfowmec2gdSx",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"3DvikU3hVkb6",
-												"kSOQW7ukHghd",
-												"Mfowmec2gdSx"
-											],
-											"title": "2015: Obama-Deal",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "2015 Obama-Deal.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "NsN4PuSog5ew",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"3DvikU3hVkb6",
-												"kSOQW7ukHghd",
-												"NsN4PuSog5ew"
-											],
-											"title": "2018: Trump-Austritt",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "2018 Trump-Austritt.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "QxNTThp7a9Wb",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"3DvikU3hVkb6",
-												"kSOQW7ukHghd",
-												"QxNTThp7a9Wb"
-											],
-											"title": "IAEA: Iran hielt sich",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "IAEA Iran hielt sich.html",
-											"attachments": []
+											"type": "relation",
+											"name": "internalLink",
+											"value": "oZERq53QYLNm",
+											"isInheritable": false,
+											"position": 10
 										}
-									]
+									],
+									"format": "html",
+									"dataFileName": "Was den Iran heute bewegt.html",
+									"attachments": []
 								},
 								{
 									"isClone": false,
-									"noteId": "AnPm85SQjxjk",
+									"noteId": "oZERq53QYLNm",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"3DvikU3hVkb6",
-										"AnPm85SQjxjk"
+										"oZERq53QYLNm"
 									],
-									"title": "Sanktionsregime",
-									"notePosition": 20,
+									"title": "7. Oktober 2023 (\"Operation Al-Aqsa Flood\") ",
+									"notePosition": 50,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
-									"attachments": [],
-									"dirFileName": "Sanktionsregime",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "L8Hq8vBuyUbG",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"3DvikU3hVkb6",
-												"AnPm85SQjxjk",
-												"L8Hq8vBuyUbG"
-											],
-											"title": "Wirtschaftskrieg",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Wirtschaftskrieg.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "ZPjhPkafxUnY",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"3DvikU3hVkb6",
-												"AnPm85SQjxjk",
-												"ZPjhPkafxUnY"
-											],
-											"title": "Humanitäre Kosten",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Humanitäre Kosten.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "SJoCEit7OWoR",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"3DvikU3hVkb6",
-												"AnPm85SQjxjk",
-												"SJoCEit7OWoR"
-											],
-											"title": "Regime-Change-Absicht",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Regime-Change-Absicht.html",
-											"attachments": []
-										}
-									]
+									"dataFileName": "7. Oktober 2023 (Operation Al-.html",
+									"attachments": []
 								},
 								{
 									"isClone": false,
-									"noteId": "quiTyUCUnOo3",
+									"noteId": "H56Sq6Ys5Y45",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"3DvikU3hVkb6",
-										"quiTyUCUnOo3"
+										"H56Sq6Ys5Y45"
 									],
-									"title": "Soleimani-Ermordung (3. Jan 2020)",
-									"notePosition": 30,
+									"title": "Quellen für die aktuelleren Vorgänge zum Iran",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Quellen für die aktuelleren Vo.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "vwYPDO2Xgdw7",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"3DvikU3hVkb6",
+										"vwYPDO2Xgdw7"
+									],
+									"title": "Quellen für den historischen Geschichtsbogen zum Iran",
+									"notePosition": 70,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Quellen für den historischen G.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "KYeGuMLTWuaY",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"3DvikU3hVkb6",
+										"KYeGuMLTWuaY"
+									],
+									"title": "konzept (alt)",
+									"notePosition": 80,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -5763,19 +5697,19 @@
 									"attributes": [],
 									"format": "html",
 									"attachments": [],
-									"dirFileName": "Soleimani-Ermordung (3. Jan 2020)",
+									"dirFileName": "konzept (alt)",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "M0WKCqRQtsfV",
+											"noteId": "quiTyUCUnOo3",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"3DvikU3hVkb6",
-												"quiTyUCUnOo3",
-												"M0WKCqRQtsfV"
+												"KYeGuMLTWuaY",
+												"quiTyUCUnOo3"
 											],
-											"title": "Drohnenangriff Bagdad",
+											"title": "Soleimani-Ermordung (3. Jan 2020)",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -5783,20 +5717,88 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Drohnenangriff Bagdad.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Soleimani-Ermordung (3. Jan 2020)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "M0WKCqRQtsfV",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"quiTyUCUnOo3",
+														"M0WKCqRQtsfV"
+													],
+													"title": "Drohnenangriff Bagdad",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Drohnenangriff Bagdad.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "TJ9vHbQ58ZZC",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"quiTyUCUnOo3",
+														"TJ9vHbQ58ZZC"
+													],
+													"title": "Völkerrechtsbruch",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Völkerrechtsbruch.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "Ulfk8jiMt84b",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"quiTyUCUnOo3",
+														"Ulfk8jiMt84b"
+													],
+													"title": "Kriegseskalationsrisiko",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Kriegseskalationsrisiko.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "TJ9vHbQ58ZZC",
+											"noteId": "AnPm85SQjxjk",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"3DvikU3hVkb6",
-												"quiTyUCUnOo3",
-												"TJ9vHbQ58ZZC"
+												"KYeGuMLTWuaY",
+												"AnPm85SQjxjk"
 											],
-											"title": "Völkerrechtsbruch",
+											"title": "Sanktionsregime",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
@@ -5804,20 +5806,88 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Völkerrechtsbruch.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Sanktionsregime",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "L8Hq8vBuyUbG",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"AnPm85SQjxjk",
+														"L8Hq8vBuyUbG"
+													],
+													"title": "Wirtschaftskrieg",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Wirtschaftskrieg.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "ZPjhPkafxUnY",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"AnPm85SQjxjk",
+														"ZPjhPkafxUnY"
+													],
+													"title": "Humanitäre Kosten",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Humanitäre Kosten.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "SJoCEit7OWoR",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"AnPm85SQjxjk",
+														"SJoCEit7OWoR"
+													],
+													"title": "Regime-Change-Absicht",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Regime-Change-Absicht.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "Ulfk8jiMt84b",
+											"noteId": "kSOQW7ukHghd",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"3DvikU3hVkb6",
-												"quiTyUCUnOo3",
-												"Ulfk8jiMt84b"
+												"KYeGuMLTWuaY",
+												"kSOQW7ukHghd"
 											],
-											"title": "Kriegseskalationsrisiko",
+											"title": "Atomdeal (JCPOA)",
 											"notePosition": 30,
 											"prefix": null,
 											"isExpanded": false,
@@ -5825,8 +5895,76 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Kriegseskalationsrisiko.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Atomdeal (JCPOA)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "Mfowmec2gdSx",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"kSOQW7ukHghd",
+														"Mfowmec2gdSx"
+													],
+													"title": "2015: Obama-Deal",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "2015 Obama-Deal.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "NsN4PuSog5ew",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"kSOQW7ukHghd",
+														"NsN4PuSog5ew"
+													],
+													"title": "2018: Trump-Austritt",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "2018 Trump-Austritt.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "QxNTThp7a9Wb",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"3DvikU3hVkb6",
+														"KYeGuMLTWuaY",
+														"kSOQW7ukHghd",
+														"QxNTThp7a9Wb"
+													],
+													"title": "IAEA: Iran hielt sich",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "IAEA Iran hielt sich.html",
+													"attachments": []
+												}
+											]
 										}
 									]
 								}
@@ -5844,7 +5982,7 @@
 					"title": "B) Stark Nachwirkend",
 					"notePosition": 160,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -7620,7 +7758,7 @@
 					"title": "C) Historisch UND Nachwirkend",
 					"notePosition": 170,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
