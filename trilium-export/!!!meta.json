@@ -233,10 +233,18 @@
 							"title": "Regelbasierte Weltordnung",
 							"notePosition": 30,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
-							"attributes": [],
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "wIbqjLjm3HxY",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
 							"format": "html",
 							"dataFileName": "Regelbasierte Weltordnung.html",
 							"attachments": [
@@ -263,6 +271,29 @@
 									"mime": "application/pdf",
 									"position": 10,
 									"dataFileName": "2_Regelbasierte Weltordnung_.pdf"
+								}
+							],
+							"dirFileName": "Regelbasierte Weltordnung",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "wIbqjLjm3HxY",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"yDAlOdEacXtb",
+										"wIbqjLjm3HxY"
+									],
+									"title": "TRUMP JANUAR 2026: \"EIGENE MORAL\" ÜBER VÖLKERRECHT",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "TRUMP JANUAR 2026 EIGENE MORAL.html",
+									"attachments": []
 								}
 							]
 						},
@@ -5603,7 +5634,7 @@
 									"title": "Was den Iran heute \"bewegt\"",
 									"notePosition": 40,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
