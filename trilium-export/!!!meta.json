@@ -2432,13 +2432,6 @@
 								{
 									"type": "relation",
 									"name": "internalLink",
-									"value": "hwGy4BjE78T3",
-									"isInheritable": false,
-									"position": 20
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
 									"value": "s5oe15YQ8EWn",
 									"isInheritable": false,
 									"position": 40
@@ -2470,6 +2463,13 @@
 									"value": "QeO3yOaD97mu",
 									"isInheritable": false,
 									"position": 80
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "hwGy4BjE78T3",
+									"isInheritable": false,
+									"position": 90
 								}
 							],
 							"format": "html",
@@ -2477,11 +2477,11 @@
 							"attachments": [
 								{
 									"attachmentId": "l2GFin6FRPMM",
-									"title": "deep-gespräch zu farbrevolutionen.pdf",
+									"title": "deepseek-gespräch zu farbrevolutionen.pdf",
 									"role": "file",
 									"mime": "application/pdf",
 									"position": 10,
-									"dataFileName": "Farbrevolutionen_deep-gesp.pdf"
+									"dataFileName": "Farbrevolutionen_deepseek-.pdf"
 								},
 								{
 									"attachmentId": "uZQi1iWpLVZf",
