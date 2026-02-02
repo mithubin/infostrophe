@@ -172,13 +172,6 @@
 								{
 									"type": "relation",
 									"name": "internalLink",
-									"value": "GMd2GZwKHqdl",
-									"isInheritable": false,
-									"position": 90
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
 									"value": "XhFhPRSXJR2p",
 									"isInheritable": false,
 									"position": 120
@@ -224,6 +217,25 @@
 					"children": [
 						{
 							"isClone": false,
+							"noteId": "PMTXMLJfutC8",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"PMTXMLJfutC8"
+							],
+							"title": "Live-Beobachtung - was sich tut",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Live-Beobachtung - was sich tu.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
 							"noteId": "yDAlOdEacXtb",
 							"notePath": [
 								"Y9nhGuNYOuEF",
@@ -231,9 +243,9 @@
 								"yDAlOdEacXtb"
 							],
 							"title": "Regelbasierte Weltordnung",
-							"notePosition": 30,
+							"notePosition": 40,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -263,14 +275,6 @@
 									"mime": "application/pdf",
 									"position": 10,
 									"dataFileName": "1_Regelbasierte Weltordnung_.pdf"
-								},
-								{
-									"attachmentId": "yIbKdciMMF7h",
-									"title": "claude zur regelbasierten weltordnung.pdf",
-									"role": "file",
-									"mime": "application/pdf",
-									"position": 10,
-									"dataFileName": "2_Regelbasierte Weltordnung_.pdf"
 								}
 							],
 							"dirFileName": "Regelbasierte Weltordnung",
@@ -306,7 +310,7 @@
 								"yiOs0cBNKAnV"
 							],
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
-							"notePosition": 70,
+							"notePosition": 80,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -344,7 +348,7 @@
 									"title": "offene Fragen zur EU",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -358,9 +362,9 @@
 										{
 											"type": "relation",
 											"name": "internalLink",
-											"value": "zT5BFqRBwMvY",
+											"value": "AtzpRT6Vk4Br",
 											"isInheritable": false,
-											"position": 20
+											"position": 30
 										}
 									],
 									"format": "html",
@@ -440,44 +444,12 @@
 													"dataFileName": "Strukturelle Demokratiedef.pdf"
 												},
 												{
-													"attachmentId": "HYP70inYkOCd",
-													"title": "claude_Folgeneinschätzungen der griechischen Austeritätspolitik.odt",
-													"role": "file",
-													"mime": "application/vnd.oasis.opendocument.text",
-													"position": 10,
-													"dataFileName": "Strukturelle Demokratiedef.odt"
-												},
-												{
-													"attachmentId": "kBWjDSa95W9r",
-													"title": "deep zu EZB.pdf",
-													"role": "file",
-													"mime": "application/pdf",
-													"position": 10,
-													"dataFileName": "1_Strukturelle Demokratiedef.pdf"
-												},
-												{
-													"attachmentId": "OpS92Fd5QVZO",
-													"title": "deep zu EZBII.pdf",
-													"role": "file",
-													"mime": "application/pdf",
-													"position": 10,
-													"dataFileName": "2_Strukturelle Demokratiedef.pdf"
-												},
-												{
 													"attachmentId": "oUbQWBiPCUTM",
 													"title": "deep zu EZBII.pdf",
 													"role": "file",
 													"mime": "application/pdf",
 													"position": 10,
-													"dataFileName": "3_Strukturelle Demokratiedef.pdf"
-												},
-												{
-													"attachmentId": "sLgZtmUftUX7",
-													"title": "claude_Folgeneinschätzungen der griechischen Austeritätspolitik.pdf",
-													"role": "file",
-													"mime": "application/pdf",
-													"position": 10,
-													"dataFileName": "4_Strukturelle Demokratiedef.pdf"
+													"dataFileName": "1_Strukturelle Demokratiedef.pdf"
 												}
 											],
 											"dirFileName": "Strukturelle Demokratiedefizite",
@@ -703,7 +675,7 @@
 											"title": "Meinungsäußerung & Zensur",
 											"notePosition": 70,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [],
@@ -766,79 +738,120 @@
 												},
 												{
 													"isClone": false,
-													"noteId": "zT5BFqRBwMvY",
+													"noteId": "AtzpRT6Vk4Br",
 													"notePath": [
 														"Y9nhGuNYOuEF",
 														"lWAJdyBuSfVz",
 														"yiOs0cBNKAnV",
 														"LXz9gXaH9bte",
 														"Cul5C0teN6FT",
-														"zT5BFqRBwMvY"
+														"AtzpRT6Vk4Br"
 													],
-													"title": "3. Zensur: Sanktionen gegen einfache Menschen (auch EU-Bürger) wegen Meinungsäußerungen",
-													"notePosition": 60,
+													"title": "3. Zensur: EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
+													"notePosition": 61,
 													"prefix": null,
-													"isExpanded": false,
+													"isExpanded": true,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
 														{
 															"type": "label",
 															"name": "color",
-															"value": "#e64d4d",
+															"value": "#e6994d",
 															"isInheritable": false,
 															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "good",
-															"value": "",
-															"isInheritable": false,
-															"position": 20
 														}
 													],
 													"format": "html",
-													"dataFileName": "3. Zensur Sanktionen gegen ein.html",
-													"attachments": [
+													"dataFileName": "3. Zensur EU-Sanktionen gegen .html",
+													"attachments": [],
+													"dirFileName": "3. Zensur EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
+													"children": [
 														{
-															"attachmentId": "0WgDuUqrWR4s",
-															"title": "Übersicht_zu_Nathalie_Yamb_EU_Sanktionen_Juni_2025.pdf",
-															"role": "file",
-															"mime": "application/pdf",
-															"position": 10,
-															"dataFileName": "3. Zensur Sanktionen gegen.pdf"
+															"isClone": false,
+															"noteId": "VICBFkVNso1E",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"AtzpRT6Vk4Br",
+																"VICBFkVNso1E"
+															],
+															"title": "Betroffene Personen",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Betroffene Personen.html",
+															"attachments": []
 														},
 														{
-															"attachmentId": "cF9EClNw9xwS",
-															"title": "Kommentierte Auszüge aus EU DECISION (CFSP) 2024-2643.pdf",
-															"role": "file",
-															"mime": "application/pdf",
-															"position": 10,
-															"dataFileName": "1_3. Zensur Sanktionen gegen.pdf"
+															"isClone": false,
+															"noteId": "KxU556WCbn3c",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"AtzpRT6Vk4Br",
+																"KxU556WCbn3c"
+															],
+															"title": "Was fehlt in der Diskussion?",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Was fehlt in der Diskussion.html",
+															"attachments": []
 														},
 														{
-															"attachmentId": "cTJYJPWgBqgu",
-															"title": "Kommentierte Auszüge aus EU_Regulation_269-2014.pdf",
-															"role": "file",
-															"mime": "application/pdf",
-															"position": 10,
-															"dataFileName": "2_3. Zensur Sanktionen gegen.pdf"
-														},
-														{
-															"attachmentId": "g9VS6hYdh4yy",
-															"title": "EU_Regulation_269-2014_Wichtige_Auszuege.pdf",
-															"role": "file",
-															"mime": "application/pdf",
-															"position": 10,
-															"dataFileName": "3_3. Zensur Sanktionen gegen.pdf"
-														},
-														{
-															"attachmentId": "giMdlZ8d367x",
-															"title": "anti_spiegel_logo-1.png",
-															"role": "image",
-															"mime": "image/jpg",
-															"position": 10,
-															"dataFileName": "3. Zensur Sanktionen gegen.png"
+															"isClone": false,
+															"noteId": "nQLHtnIFC1hI",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"AtzpRT6Vk4Br",
+																"nQLHtnIFC1hI"
+															],
+															"title": "Quellen zu EU-Sanktionen gegen...",
+															"notePosition": 40,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Quellen zu EU-Sanktionen gegen.html",
+															"attachments": [
+																{
+																	"attachmentId": "5oau8KfdUht4",
+																	"title": "Kommentierte Auszüge aus EU_Regulation_269-2014.pdf",
+																	"role": "file",
+																	"mime": "application/pdf",
+																	"position": 10,
+																	"dataFileName": "Quellen zu EU-Sanktionen g.pdf"
+																},
+																{
+																	"attachmentId": "wPGPEKVpZGOl",
+																	"title": "Kommentierte Auszüge aus EU DECISION (CFSP) 2024-2643.pdf",
+																	"role": "file",
+																	"mime": "application/pdf",
+																	"position": 10,
+																	"dataFileName": "1_Quellen zu EU-Sanktionen g.pdf"
+																}
+															]
 														}
 													]
 												},
@@ -854,7 +867,7 @@
 														"XqK20K0h1TSk"
 													],
 													"title": "Zensur - Material_übrig?",
-													"notePosition": 70,
+													"notePosition": 80,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
@@ -1038,7 +1051,7 @@
 														"UF6XU2iGn2SJ"
 													],
 													"title": "Debanking",
-													"notePosition": 80,
+													"notePosition": 90,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
@@ -1072,7 +1085,7 @@
 											"title": "Kritik an & Einflussnahme auf Wahlen (roh)",
 											"notePosition": 80,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -1489,7 +1502,17 @@
 													"mime": "text/html",
 													"attributes": [],
 													"format": "html",
-													"attachments": [],
+													"dataFileName": "Rumänien.html",
+													"attachments": [
+														{
+															"attachmentId": "f4JnnUWM6x2C",
+															"title": "KI-Forschung zu den Wahlen 2024/25 in Rumänien.pdf",
+															"role": "file",
+															"mime": "application/pdf",
+															"position": 10,
+															"dataFileName": "Rumänien_KI-Forschung zu d.pdf"
+														}
+													],
 													"dirFileName": "Rumänien",
 													"children": [
 														{
@@ -2416,7 +2439,7 @@
 								"LGtF1UPYJceK"
 							],
 							"title": "Farbrevolutionen",
-							"notePosition": 80,
+							"notePosition": 90,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3004,7 +3027,7 @@
 								"QeO3yOaD97mu"
 							],
 							"title": "Think-Tanks, Stiftungen und NGOs - Einleitung",
-							"notePosition": 90,
+							"notePosition": 100,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3327,7 +3350,7 @@
 								"5QrWfxZWRBz7"
 							],
 							"title": "Farbrevolutionen <> Geldsystem",
-							"notePosition": 100,
+							"notePosition": 110,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3339,139 +3362,107 @@
 						},
 						{
 							"isClone": false,
-							"noteId": "GMd2GZwKHqdl",
+							"noteId": "styqig7L0Wmj",
 							"notePath": [
 								"Y9nhGuNYOuEF",
 								"lWAJdyBuSfVz",
-								"GMd2GZwKHqdl"
+								"styqig7L0Wmj"
 							],
 							"title": "Globale Finanzverhältnisse",
-							"notePosition": 130,
+							"notePosition": 150,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
-							"attributes": [],
+							"attributes": [
+								{
+									"type": "label",
+									"name": "color",
+									"value": "#e6994d",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "label",
+									"name": "ausgearbeitet",
+									"value": "",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
 							"format": "html",
+							"dataFileName": "Globale Finanzverhältnisse.html",
 							"attachments": [],
 							"dirFileName": "Globale Finanzverhältnisse",
 							"children": [
 								{
 									"isClone": false,
-									"noteId": "N4ev59cONqMS",
+									"noteId": "Hf8f5dP7AMz0",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"N4ev59cONqMS"
+										"styqig7L0Wmj",
+										"Hf8f5dP7AMz0"
 									],
-									"title": "Dollar-Hegemonie",
+									"title": "Geld - Eine historische Perspektive",
 									"notePosition": 10,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Dollar-Hegemonie",
-									"children": [
+									"attributes": [
 										{
-											"isClone": false,
-											"noteId": "DzAu3RNlNSln",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"N4ev59cONqMS",
-												"DzAu3RNlNSln"
-											],
-											"title": "Petrodollar-System",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Petrodollar-System.html",
-											"attachments": []
+											"type": "relation",
+											"name": "internalLink",
+											"value": "vNOdB664hQct",
+											"isInheritable": false,
+											"position": 10
 										},
 										{
-											"isClone": false,
-											"noteId": "s0WcpORCSnEn",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"N4ev59cONqMS",
-												"s0WcpORCSnEn"
-											],
-											"title": "SWIFT-Waffe",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "SWIFT-Waffe.html",
-											"attachments": []
+											"type": "relation",
+											"name": "internalLink",
+											"value": "I40uWY8B8kHN",
+											"isInheritable": false,
+											"position": 20
 										},
 										{
-											"isClone": false,
-											"noteId": "fpBX81IWOMi2",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"N4ev59cONqMS",
-												"fpBX81IWOMi2"
-											],
-											"title": "Sanktions-Ökonomie",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Sanktions-Ökonomie.html",
-											"attachments": []
+											"type": "relation",
+											"name": "internalLink",
+											"value": "ni8balvzO1vk",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "hDa3fpnk92FZ",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "ausgearbeitet",
+											"value": "",
+											"isInheritable": false,
+											"position": 10
 										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "XlCybpZVXAgv",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"XlCybpZVXAgv"
 									],
-									"title": "Dedollarisierung (AKTUELL!)",
-									"notePosition": 20,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
 									"format": "html",
+									"dataFileName": "Geld - Eine historische Perspe.html",
 									"attachments": [],
-									"dirFileName": "Dedollarisierung (AKTUELL!)",
+									"dirFileName": "Geld - Eine historische Perspektive",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "2n3mMGeYYgoJ",
+											"noteId": "FSZMYh6MCnaW",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"XlCybpZVXAgv",
-												"2n3mMGeYYgoJ"
+												"styqig7L0Wmj",
+												"Hf8f5dP7AMz0",
+												"FSZMYh6MCnaW"
 											],
-											"title": "BRICS-Währung",
+											"title": "Was fehlt in der Diskussion?",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -3479,275 +3470,397 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "BRICS-Währung.html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "iwfoWhXubKvR",
+											"noteId": "qnBg7CXzlopU",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"XlCybpZVXAgv",
-												"iwfoWhXubKvR"
+												"styqig7L0Wmj",
+												"Hf8f5dP7AMz0",
+												"qnBg7CXzlopU"
 											],
-											"title": "China-Saudi Yuan-Deals",
+											"title": "Frühe Geldsysteme weltweit",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "hDa3fpnk92FZ",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
 											"format": "html",
-											"dataFileName": "China-Saudi Yuan-Deals.html",
-											"attachments": []
+											"dataFileName": "Frühe Geldsysteme weltweit.html",
+											"attachments": [],
+											"dirFileName": "Frühe Geldsysteme weltweit",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "gmftprKRxQbt",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"Hf8f5dP7AMz0",
+														"qnBg7CXzlopU",
+														"gmftprKRxQbt"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "ausgearbeitet",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "GxPC92dqAA1w",
+											"noteId": "vNOdB664hQct",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"XlCybpZVXAgv",
-												"GxPC92dqAA1w"
+												"styqig7L0Wmj",
+												"Hf8f5dP7AMz0",
+												"vNOdB664hQct"
 											],
-											"title": "Russland-Indien Rubel-Rupie",
+											"title": "Islamisches Geldsystem: 1400 Jahre ohne Zins",
 											"notePosition": 30,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Russland-Indien Rubel-Rupie.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "5rranomzU5ZF",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"5rranomzU5ZF"
-									],
-									"title": "IWF/Weltbank",
-									"notePosition": 30,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "IWFWeltbank",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "zzxwqBXZk3wA",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"5rranomzU5ZF",
-												"zzxwqBXZk3wA"
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "hDa3fpnk92FZ",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												}
 											],
-											"title": "Strukturanpassungsprogramme",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
 											"format": "html",
-											"dataFileName": "Strukturanpassungsprogramme.html",
-											"attachments": []
+											"dataFileName": "Islamisches Geldsystem 1400 Ja.html",
+											"attachments": [],
+											"dirFileName": "Islamisches Geldsystem 1400 Jahre ohne Zins",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "K8z6EAIxPXu3",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"Hf8f5dP7AMz0",
+														"vNOdB664hQct",
+														"K8z6EAIxPXu3"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "ausgearbeitet",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "esdeufZYTQF3",
+											"noteId": "I40uWY8B8kHN",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"5rranomzU5ZF",
-												"esdeufZYTQF3"
+												"styqig7L0Wmj",
+												"Hf8f5dP7AMz0",
+												"I40uWY8B8kHN"
 											],
-											"title": "Privatisierungs-Zwang",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Privatisierungs-Zwang.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "sWKUms8yzwJY",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"5rranomzU5ZF",
-												"sWKUms8yzwJY"
-											],
-											"title": "Schuldenfalle",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Schuldenfalle.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "kjedseKBrgv4",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"kjedseKBrgv4"
-									],
-									"title": "Digitale Währungen",
-									"notePosition": 40,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Digitale Währungen",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "mZ6jDH6Eludr",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"mZ6jDH6Eludr"
-											],
-											"title": "CBDC (Digital Euro)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "CBDC (Digital Euro).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "2OrgFtE0Lq6c",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"2OrgFtE0Lq6c"
-											],
-											"title": "Bargeldabschaffung",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Bargeldabschaffung.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "lB5CgpkQiyhp",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"lB5CgpkQiyhp"
-											],
-											"title": "Programmierbarkeit = Kontrolle",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Programmierbarkeit = Kontrolle.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "NQuG63khuw05",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"kjedseKBrgv4",
-												"NQuG63khuw05"
-											],
-											"title": "Verschiedene Coins (NICHT CDBC)",
+											"title": "Brakteaten: Das Goldene Mittelalter (1150-1450)",
 											"notePosition": 40,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "hDa3fpnk92FZ",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
 											"format": "html",
-											"dataFileName": "Verschiedene Coins (NICHT CDBC.html",
+											"dataFileName": "Brakteaten Das Goldene Mittela.html",
+											"attachments": [],
+											"dirFileName": "Brakteaten Das Goldene Mittelalter (1150-1450)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "3tg1DnCVG7wD",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"Hf8f5dP7AMz0",
+														"I40uWY8B8kHN",
+														"3tg1DnCVG7wD"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "ni8balvzO1vk",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"Hf8f5dP7AMz0",
+												"ni8balvzO1vk"
+											],
+											"title": "Wörgl-Experiment: Das Wunder von Wörgl (1932-1933)",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "hDa3fpnk92FZ",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Wörgl-Experiment Das Wunder vo.html",
+											"attachments": [],
+											"dirFileName": "Wörgl-Experiment Das Wunder von Wörgl (1932-1933)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "CE6uZwPP06iI",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"Hf8f5dP7AMz0",
+														"ni8balvzO1vk",
+														"CE6uZwPP06iI"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "ausgearbeitet",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "hDa3fpnk92FZ",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"Hf8f5dP7AMz0",
+												"hDa3fpnk92FZ"
+											],
+											"title": "Quellen: Historische Geldsysteme",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Quellen Historische Geldsystem.html",
 											"attachments": []
 										}
 									]
 								},
 								{
 									"isClone": false,
-									"noteId": "RV8CsGPlYlFY",
+									"noteId": "3R5bRG3LFIIi",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"RV8CsGPlYlFY"
+										"styqig7L0Wmj",
+										"3R5bRG3LFIIi"
 									],
-									"title": "2008 Financial Crisis",
-									"notePosition": 50,
+									"title": "Entstehung des Finanzkapitalismus: Von Venedig bis Wall Street",
+									"notePosition": 30,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "ausgearbeitet",
+											"value": "",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "IIbO1NShQcAN",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "C4SwZEvpZqUu",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "9jw7OL9AsPBv",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "QFK6uNFHvBCS",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "eedSBFB2Mm9S",
+											"isInheritable": false,
+											"position": 60
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "03IMvHde4rEI",
+											"isInheritable": false,
+											"position": 70
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "VIqVBr9vQAn0",
+											"isInheritable": false,
+											"position": 80
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "601VFly6DMHg",
+											"isInheritable": false,
+											"position": 90
+										}
+									],
 									"format": "html",
+									"dataFileName": "Entstehung des Finanzkapitalis.html",
 									"attachments": [],
-									"dirFileName": "2008 Financial Crisis",
+									"dirFileName": "Entstehung des Finanzkapitalismus Von Venedig bis Wall Street",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "wpqJB5oZJ1Qn",
+											"noteId": "QKytyKBTEPaJ",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"RV8CsGPlYlFY",
-												"wpqJB5oZJ1Qn"
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"QKytyKBTEPaJ"
 											],
-											"title": "Keine Banker im Gefängnis",
+											"title": "Was fehlt in der Diskussion?",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -3755,105 +3868,1042 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Keine Banker im Gefängnis.html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "crO4YeYoCj4m",
+											"noteId": "o4WqzyVDO1xA",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"RV8CsGPlYlFY",
-												"crO4YeYoCj4m"
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"o4WqzyVDO1xA"
 											],
-											"title": "Too Big To Fail",
+											"title": "Italienische Stadtstaaten: Wo der Finanzkapitalismus begann",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
 											"format": "html",
-											"dataFileName": "Too Big To Fail.html",
+											"dataFileName": "Italienische Stadtstaaten Wo d.html",
+											"attachments": [],
+											"dirFileName": "Italienische Stadtstaaten Wo der Finanzkapitalismus begann",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "Kbbg6jOBui1P",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"o4WqzyVDO1xA",
+														"Kbbg6jOBui1P"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "1bOBAjUOHCsJ",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"1bOBAjUOHCsJ"
+											],
+											"title": "City of London: Der Staat im Staate",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "bue5CZOCl70V",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "City of London Der Staat im St.html",
+											"attachments": [],
+											"dirFileName": "City of London Der Staat im Staate",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "Pje0wsPqmkwf",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"1bOBAjUOHCsJ",
+														"Pje0wsPqmkwf"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "eedSBFB2Mm9S",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"eedSBFB2Mm9S"
+											],
+											"title": "Fugger & Frühkapitalismus: Wenn Banker Kaiser machen",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Fugger & Frühkapitalismus Wenn.html",
+											"attachments": [],
+											"dirFileName": "Fugger & Frühkapitalismus Wenn Banker Kaiser machen",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "vEqsAgpwfldT",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"eedSBFB2Mm9S",
+														"vEqsAgpwfldT"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "03IMvHde4rEI",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"03IMvHde4rEI"
+											],
+											"title": "Amsterdam & VOC: Die Geburt der Börse",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Amsterdam & VOC Die Geburt der.html",
+											"attachments": [],
+											"dirFileName": "Amsterdam & VOC Die Geburt der Börse",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "4zcwmht37ncx",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"03IMvHde4rEI",
+														"4zcwmht37ncx"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "C4SwZEvpZqUu",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"C4SwZEvpZqUu"
+											],
+											"title": "Bank of England 1694: Das Privatbank-Monopol",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "Bank of England 1694 Das Priva.html",
+											"attachments": [],
+											"dirFileName": "Bank of England 1694 Das Privatbank-Monopol",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "YeM6W0k3IDcR",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"C4SwZEvpZqUu",
+														"YeM6W0k3IDcR"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "ausgearbeitet",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "9jw7OL9AsPBv",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"9jw7OL9AsPBv"
+											],
+											"title": "Federal Reserve 1913: Jekyll Island & das Kartell",
+											"notePosition": 100,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "Federal Reserve 1913 Jekyll Is.html",
+											"attachments": [],
+											"dirFileName": "Federal Reserve 1913 Jekyll Island & das Kartell",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "fXOeH7ONmsRn",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"9jw7OL9AsPBv",
+														"fXOeH7ONmsRn"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "ausgearbeitet",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "QFK6uNFHvBCS",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"QFK6uNFHvBCS"
+											],
+											"title": "Bretton Woods 1944: Dollar-Hegemonie & IWF/Weltbank",
+											"notePosition": 110,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "WzDnD2vTFV8Y",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 30
+												}
+											],
+											"format": "html",
+											"dataFileName": "Bretton Woods 1944 Dollar-Hege.html",
+											"attachments": [],
+											"dirFileName": "Bretton Woods 1944 Dollar-Hegemonie & IWFWeltbank",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "Q8zWqp5ZwxfD",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"QFK6uNFHvBCS",
+														"Q8zWqp5ZwxfD"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "tOcHE7cO17kT",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"tOcHE7cO17kT"
+											],
+											"title": "CFA-Franc: Neokoloniale Währungsknebelung",
+											"notePosition": 120,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "LW2tHiiS5dAR",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "CFA-Franc Neokoloniale Währung.html",
+											"attachments": [],
+											"dirFileName": "CFA-Franc Neokoloniale Währungsknebelung",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "FjxD18YrTt5M",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"tOcHE7cO17kT",
+														"FjxD18YrTt5M"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "WzDnD2vTFV8Y",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"WzDnD2vTFV8Y"
+											],
+											"title": "Nixon-Schock 1971: Das Ende des Gold-Standards",
+											"notePosition": 130,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "Nixon-Schock 1971 Das Ende des.html",
+											"attachments": [],
+											"dirFileName": "Nixon-Schock 1971 Das Ende des Gold-Standards",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "XLKbg2ykbCJd",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"WzDnD2vTFV8Y",
+														"XLKbg2ykbCJd"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "ausgearbeitet",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "VIqVBr9vQAn0",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"VIqVBr9vQAn0"
+											],
+											"title": "1973: Petrodollar & \"Loi Rothschild\" - ein Wendepunkt",
+											"notePosition": 150,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "1973 Petrodollar & Loi Rothsch.html",
+											"attachments": [],
+											"dirFileName": "1973 Petrodollar & Loi Rothschild - ein Wendepunkt",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "BNteOhfXxzoZ",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"VIqVBr9vQAn0",
+														"BNteOhfXxzoZ"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "601VFly6DMHg",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"601VFly6DMHg"
+											],
+											"title": "Finanzkrise 2008: Wer zahlt?",
+											"notePosition": 160,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "IIbO1NShQcAN",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Finanzkrise 2008 Wer zahlt.html",
+											"attachments": [],
+											"dirFileName": "Finanzkrise 2008 Wer zahlt",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "LCW21t1l6KCY",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"3R5bRG3LFIIi",
+														"601VFly6DMHg",
+														"LCW21t1l6KCY"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "IIbO1NShQcAN",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"IIbO1NShQcAN"
+											],
+											"title": "Quellen: Kapitalismus 1200-2020",
+											"notePosition": 200,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Quellen Kapitalismus 1200-2020.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "rSaizp8fEbmU",
+											"noteId": "bue5CZOCl70V",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"RV8CsGPlYlFY",
-												"rSaizp8fEbmU"
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"bue5CZOCl70V"
 											],
-											"title": "Bailouts vs. Austerität",
-											"notePosition": 30,
+											"title": "Quellen: City of London",
+											"notePosition": 210,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Bailouts vs. Austerität.html",
+											"dataFileName": "Quellen City of London.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "LW2tHiiS5dAR",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"3R5bRG3LFIIi",
+												"LW2tHiiS5dAR"
+											],
+											"title": "Quellen: CFA-Franc",
+											"notePosition": 220,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen CFA-Franc.html",
 											"attachments": []
 										}
 									]
 								},
 								{
 									"isClone": false,
-									"noteId": "Yjvgw1GBHZln",
+									"noteId": "PzWgrTVDqdNF",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"Yjvgw1GBHZln"
+										"styqig7L0Wmj",
+										"PzWgrTVDqdNF"
 									],
-									"title": "CFA",
-									"notePosition": 60,
+									"title": "Finanzinstrumente: Von Aktien zu Derivaten - Die Eskalation der Abstraktion",
+									"notePosition": 50,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "G3PU2p7yuC5J",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "L13A2m3ojVzr",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "2qC8tc0vm72g",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "V3ZOE0Ku2Tc0",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "LaFG57aHFncy",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "3eaBlxmRGqlz",
+											"isInheritable": false,
+											"position": 70
+										}
+									],
 									"format": "html",
-									"dataFileName": "CFA.html",
-									"attachments": []
+									"dataFileName": "Finanzinstrumente Von Aktien z.html",
+									"attachments": [],
+									"dirFileName": "Finanzinstrumente Von Aktien zu Derivaten - Die Eskalation der Abstraktion",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "G3PU2p7yuC5J",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"PzWgrTVDqdNF",
+												"G3PU2p7yuC5J"
+											],
+											"title": "Aktien: Von Eigentumsanteilen zu Spekulationsobjekten",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "3eaBlxmRGqlz",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Aktien Von Eigentumsanteilen z.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "L13A2m3ojVzr",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"PzWgrTVDqdNF",
+												"L13A2m3ojVzr"
+											],
+											"title": "Anleihen & Staatsschulden: $50 Billionen Zinsen seit 1973",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "3eaBlxmRGqlz",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Anleihen & Staatsschulden $50 .html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "2qC8tc0vm72g",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"PzWgrTVDqdNF",
+												"2qC8tc0vm72g"
+											],
+											"title": "Futures & Optionen: Vom Risikoschutz zur Spekulation",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "3eaBlxmRGqlz",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Futures & Optionen Vom Risikos.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "V3ZOE0Ku2Tc0",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"PzWgrTVDqdNF",
+												"V3ZOE0Ku2Tc0"
+											],
+											"title": "Verbriefungen: Wie Risiken versteckt und verkauft werden",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "3eaBlxmRGqlz",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Verbriefungen Wie Risiken vers.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "LaFG57aHFncy",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"PzWgrTVDqdNF",
+												"LaFG57aHFncy"
+											],
+											"title": "Derivate: $1 Quadrillion Zeitbombe",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "3eaBlxmRGqlz",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Derivate $1 Quadrillion Zeitbo.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "3eaBlxmRGqlz",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"PzWgrTVDqdNF",
+												"3eaBlxmRGqlz"
+											],
+											"title": "Quellen: Finanzinstrumente",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen Finanzinstrumente.html",
+											"attachments": []
+										}
+									]
 								},
 								{
 									"isClone": false,
-									"noteId": "D6YW9E3ULUhM",
+									"noteId": "ojdavkXJVIvV",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
-										"GMd2GZwKHqdl",
-										"D6YW9E3ULUhM"
+										"styqig7L0Wmj",
+										"ojdavkXJVIvV"
 									],
-									"title": "Rohmaterial Finanzgeschichte",
-									"notePosition": 70,
+									"title": "Kapitalschübe & Absaugung: Wohin fließt der Reichtum?",
+									"notePosition": 60,
 									"prefix": null,
 									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "5HNx1PpVpMJP",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "ewIyquTfcqH9",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "L13A2m3ojVzr",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "601VFly6DMHg",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "WzDnD2vTFV8Y",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "wMhyqlqeUKmV",
+											"isInheritable": false,
+											"position": 60
+										}
+									],
 									"format": "html",
-									"dataFileName": "Rohmaterial Finanzgeschichte.html",
+									"dataFileName": "Kapitalschübe & Absaugung Wohi.html",
 									"attachments": [],
-									"dirFileName": "Rohmaterial Finanzgeschichte",
+									"dirFileName": "Kapitalschübe & Absaugung Wohin fließt der Reichtum",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "7oLMkgjSs7Ln",
+											"noteId": "yUcT5C0bZCjn",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
-												"GMd2GZwKHqdl",
-												"D6YW9E3ULUhM",
-												"7oLMkgjSs7Ln"
+												"styqig7L0Wmj",
+												"ojdavkXJVIvV",
+												"yUcT5C0bZCjn"
 											],
-											"title": "andere geldsysteme (historisch)",
+											"title": "400-Jahre Bilanz",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": true,
@@ -3861,59 +4911,496 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "andere geldsysteme (historisch.html",
 											"attachments": [],
-											"dirFileName": "andere geldsysteme (historisch)",
+											"dirFileName": "400-Jahre Bilanz",
 											"children": [
 												{
 													"isClone": false,
-													"noteId": "5u1Ox8226qPr",
+													"noteId": "9zFfEyR2SZ70",
 													"notePath": [
 														"Y9nhGuNYOuEF",
 														"lWAJdyBuSfVz",
-														"GMd2GZwKHqdl",
-														"D6YW9E3ULUhM",
-														"7oLMkgjSs7Ln",
-														"5u1Ox8226qPr"
+														"styqig7L0Wmj",
+														"ojdavkXJVIvV",
+														"yUcT5C0bZCjn",
+														"9zFfEyR2SZ70"
 													],
-													"title": "andere geldsystem tiefer...",
+													"title": "ponzi-view",
 													"notePosition": 10,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
+													"type": "render",
+													"mime": "",
+													"attributes": [
+														{
+															"type": "relation",
+															"name": "renderNote",
+															"value": "TCq7naxpTLUX",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"dataFileName": "ponzi-view.dat",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "TCq7naxpTLUX",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"ojdavkXJVIvV",
+														"yUcT5C0bZCjn",
+														"TCq7naxpTLUX"
+													],
+													"title": "ponzi-code",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "code",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "renderNote",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "iconClass",
+															"value": "bx bxs-color",
+															"isInheritable": false,
+															"position": 20
+														}
+													],
+													"dataFileName": "ponzi-code.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "5HNx1PpVpMJP",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"ojdavkXJVIvV",
+												"5HNx1PpVpMJP"
+											],
+											"title": "Koloniale Plünderung: $66 Billionen Transfer",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "lny8FWhkKNbg",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "Koloniale Plünderung $66 Billi.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "ewIyquTfcqH9",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"ojdavkXJVIvV",
+												"ewIyquTfcqH9"
+											],
+											"title": "Kriegsfinanzierung als Geschäftsmodell",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "lny8FWhkKNbg",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Kriegsfinanzierung als Geschäf.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "0ErsrONwkQqF",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"ojdavkXJVIvV",
+												"0ErsrONwkQqF"
+											],
+											"title": "Steueroasen: Wo der Reichtum verschwindet",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "lny8FWhkKNbg",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Steueroasen Wo der Reichtum ve.html",
+											"attachments": [],
+											"dirFileName": "Steueroasen Wo der Reichtum verschwindet",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "pipDtkyuuAvB",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"ojdavkXJVIvV",
+														"0ErsrONwkQqF",
+														"pipDtkyuuAvB"
+													],
+													"title": "Liste der Steueroasen weltweit",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [],
 													"format": "html",
-													"dataFileName": "andere geldsystem tiefer.html",
-													"attachments": [],
-													"dirFileName": "andere geldsystem tiefer",
-													"children": [
-														{
-															"isClone": false,
-															"noteId": "2Owx1AFH6yB1",
-															"notePath": [
-																"Y9nhGuNYOuEF",
-																"lWAJdyBuSfVz",
-																"GMd2GZwKHqdl",
-																"D6YW9E3ULUhM",
-																"7oLMkgjSs7Ln",
-																"5u1Ox8226qPr",
-																"2Owx1AFH6yB1"
-															],
-															"title": "\"verschwörung...\"",
-															"notePosition": 10,
-															"prefix": null,
-															"isExpanded": false,
-															"type": "text",
-															"mime": "text/html",
-															"attributes": [],
-															"format": "html",
-															"dataFileName": "verschwörung.html",
-															"attachments": []
-														}
-													]
+													"dataFileName": "Liste der Steueroasen weltweit.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "9ZVQEWh1dv1B",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"styqig7L0Wmj",
+														"ojdavkXJVIvV",
+														"0ErsrONwkQqF",
+														"9ZVQEWh1dv1B"
+													],
+													"title": "Quellen: Steueroasen",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Quellen Steueroasen.html",
+													"attachments": []
 												}
 											]
+										},
+										{
+											"isClone": false,
+											"noteId": "wMhyqlqeUKmV",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"ojdavkXJVIvV",
+												"wMhyqlqeUKmV"
+											],
+											"title": "Der Absaugungs-Effekt: Wie Kapital einseitig fließt",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "lny8FWhkKNbg",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Der Absaugungs-Effekt Wie Kapi.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "HoIY5v72spUT",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"ojdavkXJVIvV",
+												"HoIY5v72spUT"
+											],
+											"title": "Derivate-Blase: Die Endphase?",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "LaFG57aHFncy",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "lny8FWhkKNbg",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "Derivate-Blase Die Endphase.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "lny8FWhkKNbg",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"ojdavkXJVIvV",
+												"lny8FWhkKNbg"
+											],
+											"title": "Quellen: Kapitalschübe & Absaugung",
+											"notePosition": 90,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "lny8FWhkKNbg",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Quellen Kapitalschübe & Absaug.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "V8QZibWH1hv0",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"styqig7L0Wmj",
+										"V8QZibWH1hv0"
+									],
+									"title": "Alternative Systeme & ihr (vorläufiges) Ende",
+									"notePosition": 70,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "Alternative Systeme & ihr (vor.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "5q3Ut8dmHd0t",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"styqig7L0Wmj",
+										"5q3Ut8dmHd0t"
+									],
+									"title": "Wie viele Fragwürdigkeiten?",
+									"notePosition": 80,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "Wie viele Fragwürdigkeiten.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "hZBfSUFyg7bU",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"styqig7L0Wmj",
+										"hZBfSUFyg7bU"
+									],
+									"title": "Alternative Systeme & ihr (vorläufiges) Ende",
+									"notePosition": 90,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "I40uWY8B8kHN",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "ni8balvzO1vk",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "vNOdB664hQct",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "3DvikU3hVkb6",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "MrKP32TxNYy7",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "tOcHE7cO17kT",
+											"isInheritable": false,
+											"position": 60
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "VIqVBr9vQAn0",
+											"isInheritable": false,
+											"position": 70
+										},
+										{
+											"type": "label",
+											"name": "ausgearbeitet",
+											"value": "",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "UTybvCZXbMez",
+											"isInheritable": false,
+											"position": 90
+										}
+									],
+									"format": "html",
+									"dataFileName": "1_Alternative Systeme & ihr (vor.html",
+									"attachments": [],
+									"dirFileName": "Alternative Systeme & ihr (vorläufiges) Ende",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "0A4C87HVJOBS",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"hZBfSUFyg7bU",
+												"0A4C87HVJOBS"
+											],
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "ausgearbeitet",
+													"value": "",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "UTybvCZXbMez",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"hZBfSUFyg7bU",
+												"UTybvCZXbMez"
+											],
+											"title": "Quellen: Alternative Systeme",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen Alternative Systeme.html",
+											"attachments": []
 										}
 									]
 								}
@@ -3928,7 +5415,7 @@
 								"TnCobanrUWMQ"
 							],
 							"title": "Ukraine-Russland-Krieg",
-							"notePosition": 300,
+							"notePosition": 350,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4247,35 +5734,51 @@
 								},
 								{
 									"isClone": false,
-									"noteId": "P7s39i8cDSqN",
+									"noteId": "uYulhAca7Tuf",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"TnCobanrUWMQ",
-										"P7s39i8cDSqN"
+										"uYulhAca7Tuf"
 									],
-									"title": "Minsk I & II (2014-2015)",
-									"notePosition": 40,
+									"title": "Minsk-Abkommen: Zeitgewinn für Ukraine-Bewaffnung",
+									"notePosition": 50,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#e6994d",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "aus",
+											"value": "",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
 									"format": "html",
+									"dataFileName": "Minsk-Abkommen Zeitgewinn für .html",
 									"attachments": [],
-									"dirFileName": "Minsk I & II (2014-2015)",
+									"dirFileName": "Minsk-Abkommen Zeitgewinn für Ukraine-Bewaffnung",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "MDI93CkokSTE",
+											"noteId": "qvqaq7gTbXV2",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"TnCobanrUWMQ",
-												"P7s39i8cDSqN",
-												"MDI93CkokSTE"
+												"uYulhAca7Tuf",
+												"qvqaq7gTbXV2"
 											],
-											"title": "Merkel: Zeitgewinn für Ukraine-Bewaffnung",
+											"title": "Was fehlt zu den Minsk-Abkommen?",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -4283,20 +5786,20 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Merkel Zeitgewinn für Ukraine-.html",
+											"dataFileName": "Was fehlt zu den Minsk-Abkomme.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "BjI41B0QcMCT",
+											"noteId": "K7eldk3B4NiK",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"TnCobanrUWMQ",
-												"P7s39i8cDSqN",
-												"BjI41B0QcMCT"
+												"uYulhAca7Tuf",
+												"K7eldk3B4NiK"
 											],
-											"title": "Hollande bestätigt",
+											"title": "Quellen zu den Minsk-Abkommen",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
@@ -4304,8 +5807,104 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Hollande bestätigt.html",
+											"dataFileName": "Quellen zu den Minsk-Abkommen.html",
 											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "wFvFSrhCR7TY",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"TnCobanrUWMQ",
+										"wFvFSrhCR7TY"
+									],
+									"title": "Nord Stream-Sprengung 2022: Wechselnde Narrative",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "au",
+											"value": "",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#e6994d",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "ausgearbeitet",
+											"value": "",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
+									"format": "html",
+									"dataFileName": "Nord Stream-Sprengung 2022 Wec.html",
+									"attachments": [],
+									"dirFileName": "Nord Stream-Sprengung 2022 Wechselnde Narrative",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "p1mZUUrkJ1lL",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"TnCobanrUWMQ",
+												"wFvFSrhCR7TY",
+												"p1mZUUrkJ1lL"
+											],
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "r0z1WVwwxBDz",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"TnCobanrUWMQ",
+												"wFvFSrhCR7TY",
+												"r0z1WVwwxBDz"
+											],
+											"title": "Quellen: Nord Stream-Sprengung",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen Nord Stream-Sprengung.html",
+											"attachments": [
+												{
+													"attachmentId": "FqhkErK58svv",
+													"title": "Hersh20230208-How-America-Took-Out-The-Nord-Stream-Pipeline.pdf",
+													"role": "file",
+													"mime": "application/pdf",
+													"position": 10,
+													"dataFileName": "Quellen Nord Stream-Spreng.pdf"
+												}
+											]
 										}
 									]
 								},
@@ -4319,7 +5918,7 @@
 										"IBZH4SUUvf37"
 									],
 									"title": "Nordstream-Sprengung (Sept 2022)",
-									"notePosition": 50,
+									"notePosition": 70,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4399,14 +5998,6 @@
 													"mime": "application/pdf",
 													"position": 10,
 													"dataFileName": "Kaum diskutierte Aspekte_H.pdf"
-												},
-												{
-													"attachmentId": "vIEpEx7Ue8Tp",
-													"title": "Nordstream-Sprengung (Sept 2022).opml",
-													"role": "file",
-													"mime": "text/x-opml+xml",
-													"position": 10,
-													"dataFileName": "Kaum diskutierte Aspekte_.opml"
 												}
 											],
 											"dirFileName": "Kaum diskutierte Aspekte",
@@ -4468,7 +6059,7 @@
 										"5IB6pINXp3Bg"
 									],
 									"title": "Russische Invasion (24. Feb 2022)",
-									"notePosition": 70,
+									"notePosition": 90,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4488,7 +6079,7 @@
 										"r77gRuqPIX9x"
 									],
 									"title": "Personen ukrainisches Establishment",
-									"notePosition": 80,
+									"notePosition": 100,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4636,7 +6227,7 @@
 										"OJWwgxb6YEKg"
 									],
 									"title": "Oligarchen",
-									"notePosition": 90,
+									"notePosition": 110,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4742,7 +6333,7 @@
 										"MfpWqzZJrix8"
 									],
 									"title": "Hunter Biden & Burisma (ab April 2014)",
-									"notePosition": 100,
+									"notePosition": 120,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4762,7 +6353,7 @@
 										"V9wCuyQpR5HU"
 									],
 									"title": "Joe Biden & Schokin-Entlassung (2016)",
-									"notePosition": 110,
+									"notePosition": 130,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4782,7 +6373,7 @@
 										"bJKSqLORatTZ"
 									],
 									"title": "Geoffrey Pyatt (US-Botschafter 2013-2016)",
-									"notePosition": 120,
+									"notePosition": 140,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4802,7 +6393,7 @@
 										"xHw9lrPUIUNX"
 									],
 									"title": "Victoria Nuland (US-Staatssekretärin)",
-									"notePosition": 130,
+									"notePosition": 150,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -4810,6 +6401,26 @@
 									"attributes": [],
 									"format": "html",
 									"dataFileName": "Victoria Nuland (US-Staatssekr.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "2BqbV7RIfotm",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"TnCobanrUWMQ",
+										"2BqbV7RIfotm"
+									],
+									"title": "Neocons",
+									"notePosition": 151,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Neocons.html",
 									"attachments": []
 								}
 							]
@@ -4822,8 +6433,8 @@
 								"lWAJdyBuSfVz",
 								"jIq54pBixtUm"
 							],
-							"title": "Gaza-Krieg & Israel-Palästina-Komplex",
-							"notePosition": 310,
+							"title": "Israel-Palästina-Komplex, Gaza-Krieg",
+							"notePosition": 360,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -4849,72 +6460,102 @@
 									"value": "bx bx-book",
 									"isInheritable": false,
 									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "iCnKa74JYjpY",
+									"isInheritable": false,
+									"position": 70
 								}
 							],
 							"format": "html",
-							"attachments": [
-								{
-									"attachmentId": "SHmQ0blayQz8",
-									"title": "canvas-export.svg",
-									"role": "image",
-									"mime": "image/svg+xml",
-									"position": 0,
-									"dataFileName": "Gaza-Krieg & Israel-Paläst.svg"
-								}
-							],
-							"dirFileName": "Gaza-Krieg & Israel-Palästina-Komplex",
+							"dataFileName": "Israel-Palästina-Komplex, Gaza.html",
+							"attachments": [],
+							"dirFileName": "Israel-Palästina-Komplex, Gaza-Krieg",
 							"children": [
 								{
 									"isClone": false,
-									"noteId": "SNQhFozu61GE",
+									"noteId": "HmTQEkmw0bqN",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"jIq54pBixtUm",
-										"SNQhFozu61GE"
+										"HmTQEkmw0bqN"
 									],
-									"title": "7. Oktober 2023 (Hamas-Angriff)",
-									"notePosition": 10,
+									"title": "Komplexität des Konflikts",
+									"notePosition": 130,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "zXfhRERIS16L",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "IbKKB8nhkR9q",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
 									"format": "html",
-									"dataFileName": "7. Oktober 2023 (Hamas-Angriff.html",
+									"dataFileName": "Komplexität des Konflikts.html",
 									"attachments": []
 								},
 								{
 									"isClone": false,
-									"noteId": "o4YT0bZIZV3l",
+									"noteId": "IbKKB8nhkR9q",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"jIq54pBixtUm",
-										"o4YT0bZIZV3l"
+										"IbKKB8nhkR9q"
 									],
-									"title": "Israelische Reaktion",
-									"notePosition": 20,
+									"title": "- mehr als komplex:",
+									"notePosition": 160,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "TnCobanrUWMQ",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "2BqbV7RIfotm",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
 									"format": "html",
+									"dataFileName": "- mehr als komplex.html",
 									"attachments": [],
-									"dirFileName": "Israelische Reaktion",
+									"dirFileName": "- mehr als komplex",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "OfvWMIQ3yV38",
+											"noteId": "0XpgJMZtNPdR",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"o4YT0bZIZV3l",
-												"OfvWMIQ3yV38"
+												"IbKKB8nhkR9q",
+												"0XpgJMZtNPdR"
 											],
-											"title": "40.000+ Tote",
+											"title": "Interessensebenen",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -4922,84 +6563,43 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "40.000+ Tote.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "QBrlOuV97yh2",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"jIq54pBixtUm",
-												"o4YT0bZIZV3l",
-												"QBrlOuV97yh2"
-											],
-											"title": "Genozid-Vorwürfe (ICC, ICJ)",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Genozid-Vorwürfe (ICC, ICJ).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "SlLMqHTl8ech",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"jIq54pBixtUm",
-												"o4YT0bZIZV3l",
-												"SlLMqHTl8ech"
-											],
-											"title": "Kriegsverbrechen-Dokumentation",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Kriegsverbrechen-Dokumentation.html",
+											"dataFileName": "Interessensebenen.html",
 											"attachments": []
 										}
 									]
 								},
 								{
 									"isClone": false,
-									"noteId": "T09Rgm2rBUjJ",
+									"noteId": "iQQsr7EDtezq",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"jIq54pBixtUm",
-										"T09Rgm2rBUjJ"
+										"iQQsr7EDtezq"
 									],
-									"title": "AIPAC-Einfluss USA",
-									"notePosition": 30,
+									"title": "- kaum glaublich, aber weiterführend",
+									"notePosition": 200,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
+									"dataFileName": "- kaum glaublich, aber weiterf.html",
 									"attachments": [],
-									"dirFileName": "AIPAC-Einfluss USA",
+									"dirFileName": "- kaum glaublich, aber weiterführend",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "HSSZ8nBf7YYW",
+											"noteId": "YfpmMulPAlUK",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"T09Rgm2rBUjJ",
-												"HSSZ8nBf7YYW"
+												"iQQsr7EDtezq",
+												"YfpmMulPAlUK"
 											],
-											"title": "$100+ Millionen Kampagnen-Spenden",
+											"title": "Parallele: native Americans - Palästinenser",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -5007,20 +6607,20 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "$100+ Millionen Kampagnen-Spen.html",
+											"dataFileName": "Parallele native Americans - P.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "WmwH3wJBBSsU",
+											"noteId": "jOEQEFovL3ak",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"T09Rgm2rBUjJ",
-												"WmwH3wJBBSsU"
+												"iQQsr7EDtezq",
+												"jOEQEFovL3ak"
 											],
-											"title": "Primaries gegen Kritiker",
+											"title": "weitere Beziehungen",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
@@ -5028,43 +6628,22 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Primaries gegen Kritiker.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "rqUddZX7QfvS",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"jIq54pBixtUm",
-												"T09Rgm2rBUjJ",
-												"rqUddZX7QfvS"
-											],
-											"title": "Mearsheimer/Walt Israel Lobby",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "MearsheimerWalt Israel Lobby.html",
+											"dataFileName": "weitere Beziehungen.html",
 											"attachments": []
 										}
 									]
 								},
 								{
 									"isClone": false,
-									"noteId": "WLsC1BvDsdZg",
+									"noteId": "rv9FxHP5Rw5C",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"jIq54pBixtUm",
-										"WLsC1BvDsdZg"
+										"rv9FxHP5Rw5C"
 									],
-									"title": "Medien-Bias",
-									"notePosition": 40,
+									"title": "aus der Sicht der Palästinenser",
+									"notePosition": 210,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -5072,19 +6651,19 @@
 									"attributes": [],
 									"format": "html",
 									"attachments": [],
-									"dirFileName": "Medien-Bias",
+									"dirFileName": "aus der Sicht der Palästinenser",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "jVP0lVVNrjS8",
+											"noteId": "bOasSwQShV5r",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"WLsC1BvDsdZg",
-												"jVP0lVVNrjS8"
+												"rv9FxHP5Rw5C",
+												"bOasSwQShV5r"
 											],
-											"title": "Human Shields Narrativ",
+											"title": "Palästina - Vorgeschichte zusammengefasst",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -5092,84 +6671,262 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Human Shields Narrativ.html",
-											"attachments": []
+											"dataFileName": "Palästina - Vorgeschichte zusa.html",
+											"attachments": [],
+											"dirFileName": "Palästina - Vorgeschichte zusammengefasst",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "HldZvWndkOGE",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"jIq54pBixtUm",
+														"rv9FxHP5Rw5C",
+														"bOasSwQShV5r",
+														"HldZvWndkOGE"
+													],
+													"title": "Palästina - detaillierte Vorgeschichte",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Palästina - detaillierte Vorge.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "v5YfdfQTwNQh",
+											"noteId": "yb70liboeJHw",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"WLsC1BvDsdZg",
-												"v5YfdfQTwNQh"
+												"rv9FxHP5Rw5C",
+												"yb70liboeJHw"
 											],
-											"title": "Unterreporting ziviler Opfer",
+											"title": "Palästina - Beginn der Moderne Strang A",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "1wGqCkPIdukO",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
 											"format": "html",
-											"dataFileName": "Unterreporting ziviler Opfer.html",
-											"attachments": []
+											"dataFileName": "Palästina - Beginn der Moderne.html",
+											"attachments": [],
+											"dirFileName": "Palästina - Beginn der Moderne Strang A",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "1wGqCkPIdukO",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"jIq54pBixtUm",
+														"rv9FxHP5Rw5C",
+														"yb70liboeJHw",
+														"1wGqCkPIdukO"
+													],
+													"title": "\"ALIYAH\" (עלייה)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "ALIYAH (עלייה).html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "P1gPrEE9Uvft",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"jIq54pBixtUm",
+														"rv9FxHP5Rw5C",
+														"yb70liboeJHw",
+														"P1gPrEE9Uvft"
+													],
+													"title": "Antisemitismus und Politik in Russland im 19. Jhdt.",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Antisemitismus und Politik in .html",
+													"attachments": [],
+													"dirFileName": "Antisemitismus und Politik in Russland im 19. Jhdt",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "mVwGomgV5zoY",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"jIq54pBixtUm",
+																"rv9FxHP5Rw5C",
+																"yb70liboeJHw",
+																"P1gPrEE9Uvft",
+																"mVwGomgV5zoY"
+															],
+															"title": "Russland - \"Farbrevolutionäre Einmischung\" seitens England",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Russland - Farbrevolutionäre E.html",
+															"attachments": []
+														}
+													]
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "lm8UJTSAqxv9",
+											"noteId": "PNxXKyx4weaP",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"WLsC1BvDsdZg",
-												"lm8UJTSAqxv9"
+												"rv9FxHP5Rw5C",
+												"PNxXKyx4weaP"
 											],
-											"title": "Antizionismus = Antisemitismus",
-											"notePosition": 30,
+											"title": "Palästina - Beginn der Moderne Strang B",
+											"notePosition": 21,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Antizionismus = Antisemitismus.html",
-											"attachments": []
+											"dataFileName": "1_Palästina - Beginn der Moderne.html",
+											"attachments": [],
+											"dirFileName": "Palästina - Beginn der Moderne Strang B",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "VwSfsgtO4yiR",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"jIq54pBixtUm",
+														"rv9FxHP5Rw5C",
+														"PNxXKyx4weaP",
+														"VwSfsgtO4yiR"
+													],
+													"title": "Balfour-Erklärung 1917",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Balfour-Erklärung 1917.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "mPkOR3by7RrS",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"jIq54pBixtUm",
+														"rv9FxHP5Rw5C",
+														"PNxXKyx4weaP",
+														"mPkOR3by7RrS"
+													],
+													"title": "\"Arabische Welt\" 1917",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Arabische Welt 1917.html",
+													"attachments": [],
+													"dirFileName": "Arabische Welt 1917",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "jhcldaOTabb2",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"jIq54pBixtUm",
+																"rv9FxHP5Rw5C",
+																"PNxXKyx4weaP",
+																"mPkOR3by7RrS",
+																"jhcldaOTabb2"
+															],
+															"title": "Arabische Welt 1917 - Details",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Arabische Welt 1917 - Details.html",
+															"attachments": []
+														}
+													]
+												}
+											]
 										}
 									]
 								},
 								{
 									"isClone": false,
-									"noteId": "wI8fwIQnyZc1",
+									"noteId": "RTeJUuBHKXwx",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"jIq54pBixtUm",
-										"wI8fwIQnyZc1"
+										"RTeJUuBHKXwx"
 									],
-									"title": "Historischer Kontext",
-									"notePosition": 50,
+									"title": "Hintergründe",
+									"notePosition": 230,
 									"prefix": null,
 									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
+									"type": "book",
+									"mime": "",
 									"attributes": [],
-									"format": "html",
 									"attachments": [],
-									"dirFileName": "Historischer Kontext",
+									"dirFileName": "Hintergründe",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "eyGBC6s58wTm",
+											"noteId": "iCnKa74JYjpY",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"wI8fwIQnyZc1",
-												"eyGBC6s58wTm"
+												"RTeJUuBHKXwx",
+												"iCnKa74JYjpY"
 											],
-											"title": "Nakba 1948",
+											"title": "Judentum",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -5177,20 +6934,20 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Nakba 1948.html",
+											"dataFileName": "Judentum.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "hI9EQzgUpeqY",
+											"noteId": "hsd1OsZTud73",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"wI8fwIQnyZc1",
-												"hI9EQzgUpeqY"
+												"RTeJUuBHKXwx",
+												"hsd1OsZTud73"
 											],
-											"title": "Siedlungspolitik Westbank",
+											"title": "Vorgeschichte zu dem Staat Israel",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
@@ -5198,20 +6955,20 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Siedlungspolitik Westbank.html",
+											"dataFileName": "Vorgeschichte zu dem Staat Isr.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "7pUjhfL3G9Iv",
+											"noteId": "zXfhRERIS16L",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"wI8fwIQnyZc1",
-												"7pUjhfL3G9Iv"
+												"RTeJUuBHKXwx",
+												"zXfhRERIS16L"
 											],
-											"title": "Blockade Gaza (seit 2007)",
+											"title": "Israels Rechtsruck",
 											"notePosition": 30,
 											"prefix": null,
 											"isExpanded": false,
@@ -5219,125 +6976,20 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Blockade Gaza (seit 2007).html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "qWNcMc2Gli2z",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"jIq54pBixtUm",
-										"qWNcMc2Gli2z"
-									],
-									"title": "Libanon & Hisbollah",
-									"notePosition": 60,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "Libanon & Hisbollah.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "BPHKZ4oFwxh4",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"jIq54pBixtUm",
-										"BPHKZ4oFwxh4"
-									],
-									"title": "Iran-Konfrontation",
-									"notePosition": 70,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Iran-Konfrontation",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "kuCGgfJl5270",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"jIq54pBixtUm",
-												"BPHKZ4oFwxh4",
-												"kuCGgfJl5270"
-											],
-											"title": "Atomdeal (JCPOA)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Atomdeal (JCPOA).html",
+											"dataFileName": "Israels Rechtsruck.html",
 											"attachments": []
 										},
 										{
 											"isClone": false,
-											"noteId": "JYknDJdSh3J4",
+											"noteId": "oZERq53QYLNm",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"jIq54pBixtUm",
-												"BPHKZ4oFwxh4",
-												"JYknDJdSh3J4"
+												"RTeJUuBHKXwx",
+												"oZERq53QYLNm"
 											],
-											"title": "Sanktionsregime",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Sanktionsregime.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "lCUf6bNn5wWO",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"jIq54pBixtUm",
-												"BPHKZ4oFwxh4",
-												"lCUf6bNn5wWO"
-											],
-											"title": "Soleimani-Ermordung (2020)",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Soleimani-Ermordung (2020).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "WZ3zSBFANl1Q",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"jIq54pBixtUm",
-												"BPHKZ4oFwxh4",
-												"WZ3zSBFANl1Q"
-											],
-											"title": "Angriff auf den Iran und seine Führung - \"12-Tage-Krieg\"",
+											"title": "7. Oktober 2023 (\"Operation Al-Aqsa Flood\") ",
 											"notePosition": 40,
 											"prefix": null,
 											"isExpanded": false,
@@ -5345,10 +6997,50 @@
 											"mime": "text/html",
 											"attributes": [],
 											"format": "html",
-											"dataFileName": "Angriff auf den Iran und seine.html",
+											"dataFileName": "7. Oktober 2023 (Operation Al-.html",
 											"attachments": []
 										}
 									]
+								},
+								{
+									"isClone": false,
+									"noteId": "HKH0BzT9m6eD",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"jIq54pBixtUm",
+										"HKH0BzT9m6eD"
+									],
+									"title": "Quellen zu Israel / Palästina",
+									"notePosition": 240,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Quellen zu Israel  Palästina.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "OwWiyn0ShT6l",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"jIq54pBixtUm",
+										"OwWiyn0ShT6l"
+									],
+									"title": "Zionismus",
+									"notePosition": 260,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Zionismus.html",
+									"attachments": []
 								}
 							]
 						},
@@ -5361,7 +7053,7 @@
 								"zUxzquhF2AnU"
 							],
 							"title": "USA-Venezuela",
-							"notePosition": 320,
+							"notePosition": 370,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -5596,19 +7288,12 @@
 								"3DvikU3hVkb6"
 							],
 							"title": "Iran-Komplex",
-							"notePosition": 340,
+							"notePosition": 390,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "vwYPDO2Xgdw7",
-									"isInheritable": false,
-									"position": 10
-								},
 								{
 									"type": "relation",
 									"name": "internalLink",
@@ -5629,6 +7314,13 @@
 									"value": "1UbTWzMf265W",
 									"isInheritable": false,
 									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "ainCVKwxKtby",
+									"isInheritable": false,
+									"position": 50
 								}
 							],
 							"format": "html",
@@ -5648,7 +7340,7 @@
 									"title": "Was den Iran heute \"bewegt\"",
 									"notePosition": 60,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -5780,22 +7472,30 @@
 								},
 								{
 									"isClone": false,
-									"noteId": "oZERq53QYLNm",
+									"noteId": "ainCVKwxKtby",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"3DvikU3hVkb6",
-										"oZERq53QYLNm"
+										"ainCVKwxKtby"
 									],
-									"title": "7. Oktober 2023 (\"Operation Al-Aqsa Flood\") ",
-									"notePosition": 150,
+									"title": "Sehr kurze Geschichte Persiens",
+									"notePosition": 160,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "vwYPDO2Xgdw7",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
 									"format": "html",
-									"dataFileName": "7. Oktober 2023 (Operation Al-.html",
+									"dataFileName": "Sehr kurze Geschichte Persiens.html",
 									"attachments": []
 								}
 							]
@@ -5810,9 +7510,9 @@
 						"REk17uAbNXHC"
 					],
 					"title": "B) Stark Nachwirkend",
-					"notePosition": 160,
+					"notePosition": 170,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -6925,54 +8625,113 @@
 								},
 								{
 									"isClone": false,
-									"noteId": "KaoKfCE7boZj",
+									"noteId": "VK7JcyCxqLjU",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"REk17uAbNXHC",
 										"4p2vPovw233I",
-										"KaoKfCE7boZj"
+										"VK7JcyCxqLjU"
 									],
-									"title": "RKI-Protokolle",
+									"title": "RKI-Protokolle: Politische Einflussnahme auf Wissenschaft...",
 									"notePosition": 40,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "ausgearbeitet",
+											"value": "",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "9PZ6Ec6NdvjP",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#e6994d",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
 									"format": "html",
-									"dataFileName": "RKI-Protokolle.html",
-									"attachments": [
+									"dataFileName": "RKI-Protokolle Politische Einf.html",
+									"attachments": [],
+									"dirFileName": "RKI-Protokolle Politische Einflussnahme auf Wissenschaft",
+									"children": [
 										{
-											"attachmentId": "3TORBw9RHFqX",
-											"title": "RKI_Protokolle_2023_gesamt.pdf",
-											"role": "file",
-											"mime": "application/pdf",
-											"position": 10,
-											"dataFileName": "RKI-Protokolle_RKI_Protoko.pdf"
+											"isClone": false,
+											"noteId": "xecH8TZJfGqu",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"REk17uAbNXHC",
+												"4p2vPovw233I",
+												"VK7JcyCxqLjU",
+												"xecH8TZJfGqu"
+											],
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
 										},
 										{
-											"attachmentId": "DlC81Tcypycf",
-											"title": "RKI_Protokolle_2022_gesamt.pdf",
-											"role": "file",
-											"mime": "application/pdf",
-											"position": 10,
-											"dataFileName": "1_RKI-Protokolle_RKI_Protoko.pdf"
-										},
-										{
-											"attachmentId": "j67ZPbO5UNac",
-											"title": "RKI_Protokolle_2021_gesamt.pdf",
-											"role": "file",
-											"mime": "application/pdf",
-											"position": 10,
-											"dataFileName": "2_RKI-Protokolle_RKI_Protoko.pdf"
-										},
-										{
-											"attachmentId": "ZnvagvKDL1ns",
-											"title": "RKI_Protokolle_2020_gesamt.pdf",
-											"role": "file",
-											"mime": "application/pdf",
-											"position": 10,
-											"dataFileName": "3_RKI-Protokolle_RKI_Protoko.pdf"
+											"isClone": false,
+											"noteId": "9PZ6Ec6NdvjP",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"REk17uAbNXHC",
+												"4p2vPovw233I",
+												"VK7JcyCxqLjU",
+												"9PZ6Ec6NdvjP"
+											],
+											"title": "Quellen zu den RKI-Protokollen",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zu den RKI-Protokollen.html",
+											"attachments": [
+												{
+													"attachmentId": "4GQabt18QJaf",
+													"title": "RKI_Protokolle_2021_gesamt.pdf",
+													"role": "file",
+													"mime": "application/pdf",
+													"position": 10,
+													"dataFileName": "Quellen zu den RKI-Protoko.pdf"
+												},
+												{
+													"attachmentId": "F6HCMXwU6FzF",
+													"title": "RKI_Protokolle_2022_gesamt.pdf",
+													"role": "file",
+													"mime": "application/pdf",
+													"position": 10,
+													"dataFileName": "1_Quellen zu den RKI-Protoko.pdf"
+												},
+												{
+													"attachmentId": "QjFKYOx7VkQO",
+													"title": "RKI_Protokolle_2020_gesamt.pdf",
+													"role": "file",
+													"mime": "application/pdf",
+													"position": 10,
+													"dataFileName": "2_Quellen zu den RKI-Protoko.pdf"
+												}
+											]
 										}
 									]
 								},
@@ -6986,7 +8745,7 @@
 										"jVcdAWxIF2mj"
 									],
 									"title": "PEI-Protokolle",
-									"notePosition": 41,
+									"notePosition": 51,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7098,7 +8857,7 @@
 										"UEiQpVYnBYue"
 									],
 									"title": "Rolle der STIKO",
-									"notePosition": 50,
+									"notePosition": 60,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7118,7 +8877,7 @@
 										"BKduZfq917wy"
 									],
 									"title": "Laborleck-Hypothese",
-									"notePosition": 60,
+									"notePosition": 70,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7224,7 +8983,7 @@
 										"I12BCtP00JW2"
 									],
 									"title": "Lockdown-Maßnahmen",
-									"notePosition": 80,
+									"notePosition": 90,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7309,7 +9068,7 @@
 										"QVvq4XYNkFo2"
 									],
 									"title": "WHO & Pandemievertrag",
-									"notePosition": 90,
+									"notePosition": 100,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7394,7 +9153,7 @@
 										"wQ92S1RWHfPB"
 									],
 									"title": "Meinungskorridore",
-									"notePosition": 100,
+									"notePosition": 110,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7479,7 +9238,7 @@
 										"ftENXXpD7IEO"
 									],
 									"title": "Impfstoff-Verträge",
-									"notePosition": 110,
+									"notePosition": 120,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7564,7 +9323,7 @@
 										"NjVvp3jtxJX6"
 									],
 									"title": "Untersuchungsauschüsse",
-									"notePosition": 120,
+									"notePosition": 130,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
@@ -7586,9 +9345,9 @@
 						"XhFhPRSXJR2p"
 					],
 					"title": "C) Historisch UND Nachwirkend",
-					"notePosition": 170,
+					"notePosition": 180,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -7604,7 +9363,7 @@
 								"XhFhPRSXJR2p",
 								"UPekDo5OZsvB"
 							],
-							"title": "10. 9/11, Anthrax & War on Terror",
+							"title": "9/11, Anthrax & War on Terror",
 							"notePosition": 10,
 							"prefix": null,
 							"isExpanded": false,
@@ -7612,17 +9371,8 @@
 							"mime": "text/html",
 							"attributes": [],
 							"format": "html",
-							"attachments": [
-								{
-									"attachmentId": "72GPoo41L3NA",
-									"title": "claude zu 9-11.pdf",
-									"role": "file",
-									"mime": "application/pdf",
-									"position": 10,
-									"dataFileName": "10. 911, Anthrax & War on .pdf"
-								}
-							],
-							"dirFileName": "10. 911, Anthrax & War on Terror",
+							"attachments": [],
+							"dirFileName": "911, Anthrax & War on Terror",
 							"children": [
 								{
 									"isClone": false,
@@ -8426,7 +10176,7 @@
 								"XhFhPRSXJR2p",
 								"TTSlwCFm7ttS"
 							],
-							"title": "12. Afghanistan-Krieg (2001-2021)",
+							"title": "Afghanistan-Krieg (2001-2021)",
 							"notePosition": 30,
 							"prefix": null,
 							"isExpanded": false,
@@ -8435,7 +10185,7 @@
 							"attributes": [],
 							"format": "html",
 							"attachments": [],
-							"dirFileName": "12. Afghanistan-Krieg (2001-2021)",
+							"dirFileName": "Afghanistan-Krieg (2001-2021)",
 							"children": [
 								{
 									"isClone": false,
@@ -8830,16 +10580,25 @@
 								"XhFhPRSXJR2p",
 								"MrKP32TxNYy7"
 							],
-							"title": "13. Libyen (2011)",
+							"title": "Libyen (2011)",
 							"notePosition": 40,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
-							"attributes": [],
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "jhxVeYATKfcY",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
 							"format": "html",
+							"dataFileName": "Libyen (2011).html",
 							"attachments": [],
-							"dirFileName": "13. Libyen (2011)",
+							"dirFileName": "Libyen (2011)",
 							"children": [
 								{
 									"isClone": false,
@@ -9129,35 +10888,15 @@
 									"title": "Motiv?",
 									"notePosition": 40,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
+									"dataFileName": "Motiv.html",
 									"attachments": [],
 									"dirFileName": "Motiv",
 									"children": [
-										{
-											"isClone": false,
-											"noteId": "EPB75YwdPBDR",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"TT8LTStZ9VJU",
-												"EPB75YwdPBDR"
-											],
-											"title": "Gold-Dinar-Plan",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Gold-Dinar-Plan.html",
-											"attachments": []
-										},
 										{
 											"isClone": false,
 											"noteId": "l7DQ0K43HwQR",
@@ -9212,7 +10951,7 @@
 								"XhFhPRSXJR2p",
 								"t6HNFuiofThn"
 							],
-							"title": "14. NATO-Expansion (1990-heute)",
+							"title": "NATO-Expansion (1990-heute)",
 							"notePosition": 50,
 							"prefix": null,
 							"isExpanded": false,
@@ -9221,7 +10960,7 @@
 							"attributes": [],
 							"format": "html",
 							"attachments": [],
-							"dirFileName": "14. NATO-Expansion (1990-heute)",
+							"dirFileName": "NATO-Expansion (1990-heute)",
 							"children": [
 								{
 									"isClone": false,
@@ -9490,7 +11229,7 @@
 						"VsbdcWXgdm0S"
 					],
 					"title": "Quellenliste",
-					"notePosition": 180,
+					"notePosition": 190,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -9498,7 +11237,29 @@
 					"attributes": [],
 					"format": "html",
 					"dataFileName": "Quellenliste.html",
-					"attachments": []
+					"attachments": [],
+					"dirFileName": "Quellenliste",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "CnptovhZAwXM",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"VsbdcWXgdm0S",
+								"CnptovhZAwXM"
+							],
+							"title": "Quellen - Infostrophe",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Quellen - Infostrophe.html",
+							"attachments": []
+						}
+					]
 				}
 			]
 		},
