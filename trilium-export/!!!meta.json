@@ -5213,62 +5213,6 @@
 								},
 								{
 									"isClone": false,
-									"noteId": "V8QZibWH1hv0",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"styqig7L0Wmj",
-										"V8QZibWH1hv0"
-									],
-									"title": "Alternative Systeme & ihr (vorläufiges) Ende",
-									"notePosition": 70,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#4de699",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "Alternative Systeme & ihr (vor.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "5q3Ut8dmHd0t",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"styqig7L0Wmj",
-										"5q3Ut8dmHd0t"
-									],
-									"title": "Wie viele Fragwürdigkeiten?",
-									"notePosition": 80,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#4de699",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"format": "html",
-									"dataFileName": "Wie viele Fragwürdigkeiten.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
 									"noteId": "hZBfSUFyg7bU",
 									"notePath": [
 										"Y9nhGuNYOuEF",
@@ -5348,7 +5292,7 @@
 										}
 									],
 									"format": "html",
-									"dataFileName": "1_Alternative Systeme & ihr (vor.html",
+									"dataFileName": "Alternative Systeme & ihr (vor.html",
 									"attachments": [],
 									"dirFileName": "Alternative Systeme & ihr (vorläufiges) Ende",
 									"children": [
@@ -5400,6 +5344,35 @@
 											"attributes": [],
 											"format": "html",
 											"dataFileName": "Quellen Alternative Systeme.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "5q3Ut8dmHd0t",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"styqig7L0Wmj",
+												"hZBfSUFyg7bU",
+												"5q3Ut8dmHd0t"
+											],
+											"title": "Wie viele Fragwürdigkeiten?",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#4de699",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Wie viele Fragwürdigkeiten.html",
 											"attachments": []
 										}
 									]
