@@ -80,15 +80,33 @@
 				},
 				{
 					"isClone": false,
+					"noteId": "8Z8HryWMS5Qh",
+					"notePath": [
+						"Y9nhGuNYOuEF",
+						"8Z8HryWMS5Qh"
+					],
+					"title": "Einführungswort von 'Claude'",
+					"notePosition": 100,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Einführungswort von 'Claude'.html",
+					"attachments": []
+				},
+				{
+					"isClone": false,
 					"noteId": "Raz9wpN4qjbA",
 					"notePath": [
 						"Y9nhGuNYOuEF",
 						"Raz9wpN4qjbA"
 					],
 					"title": "Roter Faden",
-					"notePosition": 100,
+					"notePosition": 110,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -165,16 +183,23 @@
 								{
 									"type": "relation",
 									"name": "internalLink",
-									"value": "XhFhPRSXJR2p",
+									"value": "lbE81WKVDr24",
 									"isInheritable": false,
-									"position": 120
+									"position": 130
 								},
 								{
 									"type": "relation",
 									"name": "internalLink",
-									"value": "lbE81WKVDr24",
+									"value": "styqig7L0Wmj",
 									"isInheritable": false,
-									"position": 130
+									"position": 140
+								},
+								{
+									"type": "label",
+									"name": "color",
+									"value": "#4de699",
+									"isInheritable": false,
+									"position": 150
 								}
 							],
 							"format": "html",
@@ -191,7 +216,7 @@
 						"agQqEaJpSwDd"
 					],
 					"title": "Operation \"Mockingbird\"",
-					"notePosition": 110,
+					"notePosition": 120,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -199,7 +224,164 @@
 					"attributes": [],
 					"format": "html",
 					"dataFileName": "Operation Mockingbird.html",
-					"attachments": []
+					"attachments": [],
+					"dirFileName": "Operation Mockingbird",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "YFjSXVfn7tO6",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"agQqEaJpSwDd",
+								"YFjSXVfn7tO6"
+							],
+							"title": "Methoden & Taktiken von Operation Mockingbird",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "HM7L0h2A3UDj",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"format": "html",
+							"dataFileName": "Methoden & Taktiken von Operat.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "X3ZaZKXkgrZa",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"agQqEaJpSwDd",
+								"X3ZaZKXkgrZa"
+							],
+							"title": "Beteiligte Medienorganisationen - Operation Mockingbird",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "HM7L0h2A3UDj",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Beteiligte Medienorganisatione.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "XOPshYbn5R2P",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"agQqEaJpSwDd",
+								"XOPshYbn5R2P"
+							],
+							"title": "Church Committee (1975) - Die Enthüllung von Operation Mockingbird",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "HM7L0h2A3UDj",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Church Committee (1975) - Die .html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "zD6IGWDmw04b",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"agQqEaJpSwDd",
+								"zD6IGWDmw04b"
+							],
+							"title": "Modernes Mockingbird: Bellingcat, Correctiv & Co",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "HM7L0h2A3UDj",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Modernes Mockingbird Bellingca.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "dCHXy4ZHKHnW",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"agQqEaJpSwDd",
+								"dCHXy4ZHKHnW"
+							],
+							"title": "Was fehlt in der Diskussion zur Operation Mockingbird",
+							"notePosition": 100,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "HM7L0h2A3UDj",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Was fehlt in der Diskussion zu.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "HM7L0h2A3UDj",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"agQqEaJpSwDd",
+								"HM7L0h2A3UDj"
+							],
+							"title": "Quellen zu Operation Mockingbird",
+							"notePosition": 110,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Quellen zu Operation Mockingbi.html",
+							"attachments": []
+						}
+					]
 				},
 				{
 					"isClone": false,
@@ -209,7 +391,7 @@
 						"lWAJdyBuSfVz"
 					],
 					"title": "A) Akut Virulent",
-					"notePosition": 130,
+					"notePosition": 140,
 					"prefix": null,
 					"isExpanded": true,
 					"type": "book",
@@ -2273,7 +2455,7 @@
 							"title": "Farbrevolutionen",
 							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -2590,6 +2772,165 @@
 											"mime": "image/jpg",
 											"position": 10,
 											"dataFileName": "2_Quellen zu Farbrevolutione.jpg"
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "cvverwVavOZE",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"LGtF1UPYJceK",
+										"cvverwVavOZE"
+									],
+									"title": "Andere Beispiele von Interventionen",
+									"notePosition": 170,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "book",
+									"mime": "",
+									"attributes": [],
+									"attachments": [],
+									"dirFileName": "Andere Beispiele von Interventionen",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "jhxVeYATKfcY",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"jhxVeYATKfcY"
+											],
+											"title": "Lybien (2011)",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "CjzAfVdqWrIa",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Lybien (2011).html",
+											"attachments": [],
+											"dirFileName": "Lybien (2011)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "CjzAfVdqWrIa",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"LGtF1UPYJceK",
+														"cvverwVavOZE",
+														"jhxVeYATKfcY",
+														"CjzAfVdqWrIa"
+													],
+													"title": "Lockerbie & La Belle (1988/1986)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Lockerbie & La Belle (19881986.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "5jXyR6RPD7o2",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"5jXyR6RPD7o2"
+											],
+											"title": "Chile (1973)",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Chile (1973).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "VuYMDPitzJuo",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"VuYMDPitzJuo"
+											],
+											"title": "Guatemala (1954)",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Guatemala (1954).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "u0cbqjTJBUFr",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"u0cbqjTJBUFr"
+											],
+											"title": "Hawaï (1893)",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Hawaï (1893).html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "wF6kKd7aumRN",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"LGtF1UPYJceK",
+												"cvverwVavOZE",
+												"wF6kKd7aumRN"
+											],
+											"title": "Opium-Kriege (1839-1860)",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Opium-Kriege (1839-1860).html",
+											"attachments": []
 										}
 									]
 								}
@@ -7069,7 +7410,7 @@
 						"REk17uAbNXHC"
 					],
 					"title": "B) Stark Nachwirkend",
-					"notePosition": 180,
+					"notePosition": 190,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -8911,9 +9252,9 @@
 						"XhFhPRSXJR2p"
 					],
 					"title": "C) Historisch UND Nachwirkend",
-					"notePosition": 190,
+					"notePosition": 200,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -10154,6 +10495,13 @@
 							"mime": "text/html",
 							"attributes": [
 								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "jhxVeYATKfcY",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
 									"type": "label",
 									"name": "color",
 									"value": "#4de5e6",
@@ -10795,9 +11143,9 @@
 						"VsbdcWXgdm0S"
 					],
 					"title": "Quellenliste",
-					"notePosition": 200,
+					"notePosition": 210,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
