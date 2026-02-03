@@ -11145,7 +11145,7 @@
 					"title": "Quellenliste",
 					"notePosition": 210,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
