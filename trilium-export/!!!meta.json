@@ -106,7 +106,7 @@
 					"title": "Roter Faden",
 					"notePosition": 110,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -218,7 +218,7 @@
 					"title": "Operation \"Mockingbird\"",
 					"notePosition": 120,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
@@ -364,24 +364,82 @@
 						},
 						{
 							"isClone": false,
-							"noteId": "HM7L0h2A3UDj",
+							"noteId": "5Wz5s9XUXvzi",
 							"notePath": [
 								"Y9nhGuNYOuEF",
 								"agQqEaJpSwDd",
-								"HM7L0h2A3UDj"
+								"5Wz5s9XUXvzi"
 							],
-							"title": "Quellen zu Operation Mockingbird",
-							"notePosition": 110,
+							"title": "\"Drähte\" deutscher Medien",
+							"notePosition": 120,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [],
 							"format": "html",
-							"dataFileName": "Quellen zu Operation Mockingbi.html",
-							"attachments": []
+							"dataFileName": "Drähte deutscher Medien.html",
+							"attachments": [
+								{
+									"attachmentId": "gdSzv95CEeLL",
+									"title": "49.webp",
+									"role": "image",
+									"mime": "image/webp",
+									"position": 10,
+									"dataFileName": "Drähte deutscher Medien_4.webp"
+								},
+								{
+									"attachmentId": "SUkyNpan0QTn",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Drähte deutscher Medien_im.jpg"
+								}
+							],
+							"dirFileName": "Drähte deutscher Medien",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "4x0aSzBt2LGI",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"agQqEaJpSwDd",
+										"5Wz5s9XUXvzi",
+										"4x0aSzBt2LGI"
+									],
+									"title": "Quellen zu \"Drähte deutscher Medien\"",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Quellen zu Drähte deutscher Me.html",
+									"attachments": []
+								}
+							]
 						}
 					]
+				},
+				{
+					"isClone": false,
+					"noteId": "HM7L0h2A3UDj",
+					"notePath": [
+						"Y9nhGuNYOuEF",
+						"HM7L0h2A3UDj"
+					],
+					"title": "Quellen zu Operation Mockingbird",
+					"notePosition": 140,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Quellen zu Operation Mockingbi.html",
+					"attachments": []
 				},
 				{
 					"isClone": false,
@@ -391,7 +449,7 @@
 						"lWAJdyBuSfVz"
 					],
 					"title": "A) Akut Virulent",
-					"notePosition": 140,
+					"notePosition": 150,
 					"prefix": null,
 					"isExpanded": true,
 					"type": "book",
@@ -7410,7 +7468,7 @@
 						"REk17uAbNXHC"
 					],
 					"title": "B) Stark Nachwirkend",
-					"notePosition": 190,
+					"notePosition": 200,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -9252,7 +9310,7 @@
 						"XhFhPRSXJR2p"
 					],
 					"title": "C) Historisch UND Nachwirkend",
-					"notePosition": 200,
+					"notePosition": 210,
 					"prefix": null,
 					"isExpanded": true,
 					"type": "text",
@@ -11132,6 +11190,228 @@
 									]
 								}
 							]
+						},
+						{
+							"isClone": false,
+							"noteId": "Jen0jvdLJQ1S",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"XhFhPRSXJR2p",
+								"Jen0jvdLJQ1S"
+							],
+							"title": "NSU-Komplex (D)",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "NSU-Komplex (D).html",
+							"attachments": [],
+							"dirFileName": "NSU-Komplex (D)",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "V02fUrhSpZHK",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"V02fUrhSpZHK"
+									],
+									"title": "NSU: Was bis heute unklar ist",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "NSU Was bis heute unklar ist.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "BRy4NrRZbvtr",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"BRy4NrRZbvtr"
+									],
+									"title": "Das NSU-Netzwerk: 129 Unterstützer",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Das NSU-Netzwerk 129 Unterstüt.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "CuHLMMc9yihU",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"CuHLMMc9yihU"
+									],
+									"title": "Verhinderte Festnahmen: Hätte der NSU gestoppt werden können?",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Verhinderte Festnahmen Hätte d.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "1plVj7uPnpjw",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"1plVj7uPnpjw"
+									],
+									"title": "V-Männer im NSU-Umfeld: Wie nah war der Verfassungsschutz?",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "V-Männer im NSU-Umfeld Wie nah.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "rT0S33IYYijO",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"rT0S33IYYijO"
+									],
+									"title": "Andreas Temme: Der Verfassungsschützer am Tatort",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Andreas Temme Der Verfassungss.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "SMbpEiBsqQ5p",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"SMbpEiBsqQ5p"
+									],
+									"title": "NSU: Aktenvernichtung - \"Operation Konfetti\"",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "NSU Aktenvernichtung - Operati.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "sd6Foh9dhshn",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"sd6Foh9dhshn"
+									],
+									"title": "NSU-Komplex: Was fehlt zur vollständigen Aufklärung",
+									"notePosition": 70,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "NSU-Komplex Was fehlt zur voll.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "w8uaDBjaHFSB",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"w8uaDBjaHFSB"
+									],
+									"title": "NSU: Todesfälle im Zeugenumfeld",
+									"notePosition": 90,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "NSU Todesfälle im Zeugenumfeld.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "OgkOpb7GCNTl",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"OgkOpb7GCNTl"
+									],
+									"title": "NSU: Mysteriöse Todesfälle von Zeugen",
+									"notePosition": 100,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "NSU Mysteriöse Todesfälle von .html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "iomMa9JsMNNQ",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"iomMa9JsMNNQ"
+									],
+									"title": "Quellen zum NSU-Komplex",
+									"notePosition": 110,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Quellen zum NSU-Komplex.html",
+									"attachments": []
+								}
+							]
 						}
 					]
 				},
@@ -11143,9 +11423,9 @@
 						"VsbdcWXgdm0S"
 					],
 					"title": "Quellenliste",
-					"notePosition": 210,
+					"notePosition": 220,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
