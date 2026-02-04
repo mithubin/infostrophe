@@ -10923,7 +10923,7 @@
 								"XhFhPRSXJR2p",
 								"t6HNFuiofThn"
 							],
-							"title": "NATO-Expansion (1990-heute)",
+							"title": "NATO-Expansion (1990 - heute)",
 							"notePosition": 50,
 							"prefix": null,
 							"isExpanded": false,
@@ -10932,7 +10932,7 @@
 							"attributes": [],
 							"format": "html",
 							"attachments": [],
-							"dirFileName": "NATO-Expansion (1990-heute)",
+							"dirFileName": "NATO-Expansion (1990 - heute)",
 							"children": [
 								{
 									"isClone": false,
@@ -11202,7 +11202,7 @@
 							"title": "NSU-Komplex (D)",
 							"notePosition": 60,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [],
@@ -11220,7 +11220,7 @@
 										"Jen0jvdLJQ1S",
 										"V02fUrhSpZHK"
 									],
-									"title": "NSU: Was bis heute unklar ist",
+									"title": "Was bis heute unklar ist",
 									"notePosition": 10,
 									"prefix": null,
 									"isExpanded": false,
@@ -11228,7 +11228,7 @@
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
-									"dataFileName": "NSU Was bis heute unklar ist.html",
+									"dataFileName": "Was bis heute unklar ist.html",
 									"attachments": []
 								},
 								{
@@ -11280,7 +11280,7 @@
 										"Jen0jvdLJQ1S",
 										"1plVj7uPnpjw"
 									],
-									"title": "V-Männer im NSU-Umfeld: Wie nah war der Verfassungsschutz?",
+									"title": "V-Männer im NSU-Umfeld",
 									"notePosition": 40,
 									"prefix": null,
 									"isExpanded": false,
@@ -11288,7 +11288,7 @@
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
-									"dataFileName": "V-Männer im NSU-Umfeld Wie nah.html",
+									"dataFileName": "V-Männer im NSU-Umfeld.html",
 									"attachments": []
 								},
 								{
@@ -11320,7 +11320,7 @@
 										"Jen0jvdLJQ1S",
 										"SMbpEiBsqQ5p"
 									],
-									"title": "NSU: Aktenvernichtung - \"Operation Konfetti\"",
+									"title": "Aktenvernichtung - \"Operation Konfetti\"",
 									"notePosition": 60,
 									"prefix": null,
 									"isExpanded": false,
@@ -11328,47 +11328,7 @@
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
-									"dataFileName": "NSU Aktenvernichtung - Operati.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "sd6Foh9dhshn",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"XhFhPRSXJR2p",
-										"Jen0jvdLJQ1S",
-										"sd6Foh9dhshn"
-									],
-									"title": "NSU-Komplex: Was fehlt zur vollständigen Aufklärung",
-									"notePosition": 70,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "NSU-Komplex Was fehlt zur voll.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "w8uaDBjaHFSB",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"XhFhPRSXJR2p",
-										"Jen0jvdLJQ1S",
-										"w8uaDBjaHFSB"
-									],
-									"title": "NSU: Todesfälle im Zeugenumfeld",
-									"notePosition": 90,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "NSU Todesfälle im Zeugenumfeld.html",
+									"dataFileName": "Aktenvernichtung - Operation K.html",
 									"attachments": []
 								},
 								{
@@ -11380,7 +11340,7 @@
 										"Jen0jvdLJQ1S",
 										"OgkOpb7GCNTl"
 									],
-									"title": "NSU: Mysteriöse Todesfälle von Zeugen",
+									"title": "Mysteriöse Todesfälle von Zeugen",
 									"notePosition": 100,
 									"prefix": null,
 									"isExpanded": true,
@@ -11388,7 +11348,27 @@
 									"mime": "text/html",
 									"attributes": [],
 									"format": "html",
-									"dataFileName": "NSU Mysteriöse Todesfälle von .html",
+									"dataFileName": "Mysteriöse Todesfälle von Zeug.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "sd6Foh9dhshn",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"Jen0jvdLJQ1S",
+										"sd6Foh9dhshn"
+									],
+									"title": "Was fehlt zur vollständigen Aufklärung",
+									"notePosition": 110,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Was fehlt zur vollständigen Au.html",
 									"attachments": []
 								},
 								{
@@ -11401,7 +11381,7 @@
 										"iomMa9JsMNNQ"
 									],
 									"title": "Quellen zum NSU-Komplex",
-									"notePosition": 110,
+									"notePosition": 120,
 									"prefix": null,
 									"isExpanded": false,
 									"type": "text",
