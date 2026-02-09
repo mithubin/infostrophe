@@ -661,7 +661,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 80,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -732,7 +732,7 @@
 									"title": "offene Fragen zur EU",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -1474,7 +1474,7 @@
 											"title": "Meinungsäußerung & Zensur",
 											"notePosition": 70,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -1978,7 +1978,7 @@
 													"title": "Zensur - Material_übrig?",
 													"notePosition": 100,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [],
@@ -15689,1106 +15689,2237 @@
 							"children": [
 								{
 									"isClone": false,
-									"noteId": "tn3xDf3nGMsf",
+									"noteId": "XHZBuNVsyDCl",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"lbE81WKVDr24",
-										"tn3xDf3nGMsf"
+										"XHZBuNVsyDCl"
 									],
-									"title": "NSA/Five Eyes",
-									"notePosition": 10,
+									"title": "Ereignisse",
+									"notePosition": 160,
 									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
+									"isExpanded": true,
+									"type": "book",
+									"mime": "",
 									"attributes": [],
-									"format": "html",
 									"attachments": [],
-									"dirFileName": "NSAFive Eyes",
+									"dirFileName": "Ereignisse",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "5VutX8q8R0XS",
+											"noteId": "7Woi1gdFxj9U",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"tn3xDf3nGMsf",
-												"5VutX8q8R0XS"
+												"XHZBuNVsyDCl",
+												"7Woi1gdFxj9U"
 											],
-											"title": "Prism, Tempora, XKeyscore",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Prism, Tempora, XKeyscore.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "JPct2KT6wnBZ",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"tn3xDf3nGMsf",
-												"JPct2KT6wnBZ"
-											],
-											"title": "Merkel-Handy",
+											"title": "Chelsea Manning (2010)",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
+											"attributes": [],
 											"format": "html",
-											"dataFileName": "Merkel-Handy.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Chelsea Manning (2010)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "V0dmepwEduhI",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"7Woi1gdFxj9U",
+														"V0dmepwEduhI"
+													],
+													"title": "7 Jahre Gefängnis",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "7 Jahre Gefängnis.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "gJkbnjEjSmef",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"7Woi1gdFxj9U",
+														"gJkbnjEjSmef"
+													],
+													"title": "Folter in Haft",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Folter in Haft.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "Hr8QdDfieQ2J",
+											"noteId": "4d03S7zGx8NE",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"tn3xDf3nGMsf",
-												"Hr8QdDfieQ2J"
+												"XHZBuNVsyDCl",
+												"4d03S7zGx8NE"
 											],
-											"title": "35 Staatsführer überwacht",
+											"title": "Assange-Verfolgung",
 											"notePosition": 30,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
+											"attributes": [],
 											"format": "html",
-											"dataFileName": "35 Staatsführer überwacht.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "k2TT5OBiSGo3",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"k2TT5OBiSGo3"
-									],
-									"title": "Twitter Files (2022-2023)",
-									"notePosition": 20,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Twitter Files (2022-2023)",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "jgFIVLoeTeU5",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"k2TT5OBiSGo3",
-												"jgFIVLoeTeU5"
-											],
-											"title": "FBI-Direktkontakte",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
+											"attachments": [],
+											"dirFileName": "Assange-Verfolgung",
+											"children": [
 												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
+													"isClone": false,
+													"noteId": "uuswysfkEydA",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"4d03S7zGx8NE",
+														"uuswysfkEydA"
+													],
+													"title": "Collateral Murder Video",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Collateral Murder Video.html",
+													"attachments": []
 												},
 												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
+													"isClone": false,
+													"noteId": "tZg1kM4n2LUd",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"4d03S7zGx8NE",
+														"tZg1kM4n2LUd"
+													],
+													"title": "Vault 7 (CIA-Hacking)",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Vault 7 (CIA-Hacking).html",
+													"attachments": []
 												},
 												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
+													"isClone": false,
+													"noteId": "ak9DNsCCJjTK",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"4d03S7zGx8NE",
+														"ak9DNsCCJjTK"
+													],
+													"title": "Folter-Haftbedingungen",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Folter-Haftbedingungen.html",
+													"attachments": []
 												},
 												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
+													"isClone": false,
+													"noteId": "mpdsJgWFIhpy",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"4d03S7zGx8NE",
+														"mpdsJgWFIhpy"
+													],
+													"title": "Pressefreiheits-Implikationen",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Pressefreiheits-Implikationen.html",
+													"attachments": []
 												}
-											],
-											"format": "html",
-											"dataFileName": "FBI-Direktkontakte.html",
-											"attachments": []
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "IYSgrEKgBc5t",
+											"noteId": "flLsgKG5VTpa",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"k2TT5OBiSGo3",
-												"IYSgrEKgBc5t"
+												"XHZBuNVsyDCl",
+												"flLsgKG5VTpa"
 											],
-											"title": "DNC-Koordination",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "DNC-Koordination.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "MEJDzDX2IiQw",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"k2TT5OBiSGo3",
-												"MEJDzDX2IiQw"
-											],
-											"title": "COVID-Zensur",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "COVID-Zensur.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "gfw5reKEAGR3",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"gfw5reKEAGR3"
-									],
-									"title": "Hunter Biden Laptop (Okt 2020)",
-									"notePosition": 30,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Hunter Biden Laptop (Okt 2020)",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "vnZ7SjsFLVUP",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"gfw5reKEAGR3",
-												"vnZ7SjsFLVUP"
-											],
-											"title": "51 Intel Officials (Russian disinfo)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "51 Intel Officials (Russian di.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "brNRE5GAxNsa",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"gfw5reKEAGR3",
-												"brNRE5GAxNsa"
-											],
-											"title": "Twitter/Facebook Suppression",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "TwitterFacebook Suppression.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "dHiqcflb2Oot",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"gfw5reKEAGR3",
-												"dHiqcflb2Oot"
-											],
-											"title": "Später authentisch bestätigt",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Später authentisch bestätigt.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "4d03S7zGx8NE",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"4d03S7zGx8NE"
-									],
-									"title": "Assange-Verfolgung",
-									"notePosition": 40,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Assange-Verfolgung",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "uuswysfkEydA",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"4d03S7zGx8NE",
-												"uuswysfkEydA"
-											],
-											"title": "Collateral Murder Video",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Collateral Murder Video.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "tZg1kM4n2LUd",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"4d03S7zGx8NE",
-												"tZg1kM4n2LUd"
-											],
-											"title": "Vault 7 (CIA-Hacking)",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Vault 7 (CIA-Hacking).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "ak9DNsCCJjTK",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"4d03S7zGx8NE",
-												"ak9DNsCCJjTK"
-											],
-											"title": "Folter-Haftbedingungen",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Folter-Haftbedingungen.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "mpdsJgWFIhpy",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"lbE81WKVDr24",
-												"4d03S7zGx8NE",
-												"mpdsJgWFIhpy"
-											],
-											"title": "Pressefreiheits-Implikationen",
+											"title": "Snowden (2013)",
 											"notePosition": 40,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
+											"attributes": [],
 											"format": "html",
-											"dataFileName": "Pressefreiheits-Implikationen.html",
+											"attachments": [],
+											"dirFileName": "Snowden (2013)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "3FzQjW5Kk1xX",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"flLsgKG5VTpa",
+														"3FzQjW5Kk1xX"
+													],
+													"title": "Exil in Russland",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Exil in Russland.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "bcsWnsT7pJhc",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"flLsgKG5VTpa",
+														"bcsWnsT7pJhc"
+													],
+													"title": "30+ Jahre Haft drohen",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "30+ Jahre Haft drohen.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "QQJcyZwu1kat",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"lbE81WKVDr24",
+												"XHZBuNVsyDCl",
+												"QQJcyZwu1kat"
+											],
+											"title": "Epstein (2019)",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Epstein (2019).html",
 											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "gfw5reKEAGR3",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"lbE81WKVDr24",
+												"XHZBuNVsyDCl",
+												"gfw5reKEAGR3"
+											],
+											"title": "Hunter Biden Laptop (Okt 2020)",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"attachments": [],
+											"dirFileName": "Hunter Biden Laptop (Okt 2020)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "vnZ7SjsFLVUP",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"gfw5reKEAGR3",
+														"vnZ7SjsFLVUP"
+													],
+													"title": "51 Intel Officials (Russian disinfo)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "51 Intel Officials (Russian di.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "brNRE5GAxNsa",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"gfw5reKEAGR3",
+														"brNRE5GAxNsa"
+													],
+													"title": "Twitter/Facebook Suppression",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "TwitterFacebook Suppression.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "dHiqcflb2Oot",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"gfw5reKEAGR3",
+														"dHiqcflb2Oot"
+													],
+													"title": "Später authentisch bestätigt",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Später authentisch bestätigt.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "k2TT5OBiSGo3",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"lbE81WKVDr24",
+												"XHZBuNVsyDCl",
+												"k2TT5OBiSGo3"
+											],
+											"title": "Twitter Files (2022-2023)",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"attachments": [],
+											"dirFileName": "Twitter Files (2022-2023)",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "jgFIVLoeTeU5",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"k2TT5OBiSGo3",
+														"jgFIVLoeTeU5"
+													],
+													"title": "FBI-Direktkontakte",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "FBI-Direktkontakte.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "IYSgrEKgBc5t",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"k2TT5OBiSGo3",
+														"IYSgrEKgBc5t"
+													],
+													"title": "DNC-Koordination",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "DNC-Koordination.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "MEJDzDX2IiQw",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"XHZBuNVsyDCl",
+														"k2TT5OBiSGo3",
+														"MEJDzDX2IiQw"
+													],
+													"title": "COVID-Zensur",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "COVID-Zensur.html",
+													"attachments": []
+												}
+											]
 										}
 									]
 								},
 								{
 									"isClone": false,
-									"noteId": "flLsgKG5VTpa",
+									"noteId": "gS8w8EffSPWW",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"lWAJdyBuSfVz",
 										"lbE81WKVDr24",
-										"flLsgKG5VTpa"
+										"gS8w8EffSPWW"
 									],
-									"title": "Snowden (2013)",
-									"notePosition": 50,
+									"title": "Organisationen",
+									"notePosition": 170,
 									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
+									"isExpanded": true,
+									"type": "book",
+									"mime": "",
 									"attributes": [],
-									"format": "html",
 									"attachments": [],
-									"dirFileName": "Snowden (2013)",
+									"dirFileName": "Organisationen",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "3FzQjW5Kk1xX",
+											"noteId": "AoXTjPXxtMJS",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"flLsgKG5VTpa",
-												"3FzQjW5Kk1xX"
+												"gS8w8EffSPWW",
+												"AoXTjPXxtMJS"
 											],
-											"title": "Exil in Russland",
+											"title": "ARPA, DARPA",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
 												{
 													"type": "label",
 													"name": "status",
-													"value": "angedacht",
+													"value": "entwurf",
 													"isInheritable": false,
 													"position": 10
 												},
 												{
 													"type": "label",
 													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
+													"value": "Claude",
 													"isInheritable": false,
 													"position": 30
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
-													"value": "inhalte",
+													"value": "quellen",
 													"isInheritable": false,
 													"position": 40
 												},
 												{
 													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
+													"name": "kategorie",
+													"value": "vorbemerkungen",
 													"isInheritable": false,
 													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
 												}
 											],
 											"format": "html",
-											"dataFileName": "Exil in Russland.html",
-											"attachments": []
+											"dataFileName": "ARPA, DARPA.html",
+											"attachments": [],
+											"dirFileName": "ARPA, DARPA",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "TSmUnsSDla2K",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"AoXTjPXxtMJS",
+														"TSmUnsSDla2K"
+													],
+													"title": "Analyse",
+													"notePosition": 11,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "inhalte",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "hauptkarte",
+															"value": "",
+															"isInheritable": false,
+															"position": 20
+														}
+													],
+													"format": "html",
+													"dataFileName": "Analyse.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "yLqD4hRmwure",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"AoXTjPXxtMJS",
+														"yLqD4hRmwure"
+													],
+													"title": "Was fehlt",
+													"notePosition": 21,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "wasfehlt",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "Q9aZaNP8aIxX",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"AoXTjPXxtMJS",
+														"Q9aZaNP8aIxX"
+													],
+													"title": "Fazit",
+													"notePosition": 31,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Fazit.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "pLHHK0q4Q6OS",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"AoXTjPXxtMJS",
+														"pLHHK0q4Q6OS"
+													],
+													"title": "Quellen",
+													"notePosition": 41,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "quellen",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Quellen.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "bcsWnsT7pJhc",
+											"noteId": "tn3xDf3nGMsf",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"flLsgKG5VTpa",
-												"bcsWnsT7pJhc"
+												"gS8w8EffSPWW",
+												"tn3xDf3nGMsf"
 											],
-											"title": "30+ Jahre Haft drohen",
+											"title": "NSA/Five Eyes",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"attachments": [],
+											"dirFileName": "NSAFive Eyes",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "5VutX8q8R0XS",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"tn3xDf3nGMsf",
+														"5VutX8q8R0XS"
+													],
+													"title": "Prism, Tempora, XKeyscore",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Prism, Tempora, XKeyscore.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "JPct2KT6wnBZ",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"tn3xDf3nGMsf",
+														"JPct2KT6wnBZ"
+													],
+													"title": "Merkel-Handy",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Merkel-Handy.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "Hr8QdDfieQ2J",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"tn3xDf3nGMsf",
+														"Hr8QdDfieQ2J"
+													],
+													"title": "35 Staatsführer überwacht",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "35 Staatsführer überwacht.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "jPiLBQJGJoPf",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"lbE81WKVDr24",
+												"gS8w8EffSPWW",
+												"jPiLBQJGJoPf"
+											],
+											"title": "google",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
 											"attributes": [
 												{
 													"type": "label",
 													"name": "status",
-													"value": "angedacht",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 10
 												},
 												{
 													"type": "label",
-													"name": "autor",
-													"value": "Milan",
+													"name": "review_kommentar",
+													"value": "der artikel von Nafeez Amid steht schon für sich, aber breiter aufgestellt und zusammengefasst wäre besser",
+													"isInheritable": false,
+													"position": 50
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "vorbemerkungen",
+													"isInheritable": false,
+													"position": 60
+												}
+											],
+											"format": "html",
+											"dataFileName": "google.html",
+											"attachments": [
+												{
+													"attachmentId": "gKF3inpc1kmq",
+													"title": "Why Google made the NSA.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
+													"role": "file",
+													"mime": "application/octet-stream",
+													"position": 10,
+													"dataFileName": "google_Why Google made the NSA.bin"
+												},
+												{
+													"attachmentId": "N2Oyv0Wn5dkc",
+													"title": "Why Google made the NSA_byNafeezAhmed_INSURGEintelligence_Medium.pdf",
+													"role": "file",
+													"mime": "application/pdf",
+													"position": 10,
+													"dataFileName": "google_Why Google made the.pdf"
+												},
+												{
+													"attachmentId": "osSQh7tCVaB0",
+													"title": "How the CIA made Google._byNafeezAhmed_INSURGEintelligence_Medium.pdf",
+													"role": "file",
+													"mime": "application/pdf",
+													"position": 10,
+													"dataFileName": "INSURGEintelligence_Medium.pdf"
+												},
+												{
+													"attachmentId": "vnp2oe4ULMBq",
+													"title": "How the CIA made Google.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
+													"role": "file",
+													"mime": "application/octet-stream",
+													"position": 10,
+													"dataFileName": "google_How the CIA made Google.bin"
+												}
+											],
+											"dirFileName": "google",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "5swJHXabZelX",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"jPiLBQJGJoPf",
+														"5swJHXabZelX"
+													],
+													"title": "aber: geheimdienstfinanzierung...",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
+													"format": "html",
+													"dataFileName": "aber geheimdienstfinanzierung.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "IAkIRLCXqKZR",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"jPiLBQJGJoPf",
+														"IAkIRLCXqKZR"
+													],
+													"title": "Was fehlt in der Diskussion",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "wasfehlt",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "N7K3he7hmiZ5",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"jPiLBQJGJoPf",
+														"N7K3he7hmiZ5"
+													],
+													"title": "Artikel von Nafeez Ahmed",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "quellen",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Artikel von Nafeez Ahmed.html",
+													"attachments": [
+														{
+															"attachmentId": "EH7LKcUxdRRo",
+															"title": "How the CIA made Google._byNafeezAhmed_INSURGEintelligence_Medium.pdf",
+															"role": "file",
+															"mime": "application/pdf",
+															"position": 10,
+															"dataFileName": "INSURGEintelligence_Medium.pdf"
+														},
+														{
+															"attachmentId": "nmgGQeVypRiz",
+															"title": "Why Google made the NSA_byNafeezAhmed_INSURGEintelligence_Medium.pdf",
+															"role": "file",
+															"mime": "application/pdf",
+															"position": 10,
+															"dataFileName": "Artikel von Nafeez Ahmed_W.pdf"
+														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "P0JBA1BeKtEr",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"jPiLBQJGJoPf",
+														"P0JBA1BeKtEr"
+													],
+													"title": "Parallelen zu anderen Tech-Konzernen / Einordnung",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "fazit",
+															"isInheritable": false,
+															"position": 20
+														}
+													],
+													"format": "html",
+													"dataFileName": "Parallelen zu anderen Tech-Kon.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "Rolgwm5Dio9t",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"jPiLBQJGJoPf",
+														"Rolgwm5Dio9t"
+													],
+													"title": "Quellen zu googles zweiter Seite",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Weitere Quellen zu spezifischen Aspekten (Highlands Forum, In-Q-Tel, DARPA-Finanzierung) fehlen noch",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "quellen",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
+													"format": "html",
+													"dataFileName": "Quellen zu googles zweiter Sei.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "XBnY3c8Jdbqr",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"lbE81WKVDr24",
+												"gS8w8EffSPWW",
+												"XBnY3c8Jdbqr"
+											],
+											"title": "facebook",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet2",
 													"isInheritable": false,
 													"position": 20
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
-													"value": "unterkarte",
+													"value": "inhalte",
 													"isInheritable": false,
 													"position": 30
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
-													"value": "inhalte",
+													"value": "vorbemerkungen",
 													"isInheritable": false,
 													"position": 40
 												},
 												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
+													"type": "relation",
+													"name": "internalLink",
+													"value": "Mngw56WxZVM9",
 													"isInheritable": false,
 													"position": 50
 												},
 												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+													"type": "relation",
+													"name": "internalLink",
+													"value": "u33MOYsHf7Mi",
 													"isInheritable": false,
 													"position": 60
 												}
 											],
 											"format": "html",
-											"dataFileName": "30+ Jahre Haft drohen.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "7Woi1gdFxj9U",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"7Woi1gdFxj9U"
-									],
-									"title": "Chelsea Manning (2010)",
-									"notePosition": 60,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Chelsea Manning (2010)",
-									"children": [
+											"dataFileName": "facebook.html",
+											"attachments": [],
+											"dirFileName": "facebook",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "u33MOYsHf7Mi",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"XBnY3c8Jdbqr",
+														"u33MOYsHf7Mi"
+													],
+													"title": "facebook vs lifelog",
+													"notePosition": 11,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "hauptkarte",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
+													"format": "html",
+													"dataFileName": "facebook vs lifelog.html",
+													"attachments": [],
+													"dirFileName": "facebook vs lifelog",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "F1hetnP5vo70",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"lbE81WKVDr24",
+																"gS8w8EffSPWW",
+																"XBnY3c8Jdbqr",
+																"u33MOYsHf7Mi",
+																"F1hetnP5vo70"
+															],
+															"title": "Peter Thiel",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 30
+																}
+															],
+															"format": "html",
+															"dataFileName": "Peter Thiel.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "ZRrI10ubGCBS",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"lbE81WKVDr24",
+																"gS8w8EffSPWW",
+																"XBnY3c8Jdbqr",
+																"u33MOYsHf7Mi",
+																"ZRrI10ubGCBS"
+															],
+															"title": "Regina Dugan",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
+															"format": "html",
+															"dataFileName": "Regina Dugan.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "vDinwDFZOc2b",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"lbE81WKVDr24",
+																"gS8w8EffSPWW",
+																"XBnY3c8Jdbqr",
+																"u33MOYsHf7Mi",
+																"vDinwDFZOc2b"
+															],
+															"title": "DARPA LifeLog",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 50
+																}
+															],
+															"format": "html",
+															"dataFileName": "DARPA LifeLog.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "f709JHKpFxLx",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"lbE81WKVDr24",
+																"gS8w8EffSPWW",
+																"XBnY3c8Jdbqr",
+																"u33MOYsHf7Mi",
+																"f709JHKpFxLx"
+															],
+															"title": "Cambridge Analytica",
+															"notePosition": 40,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
+															"format": "html",
+															"dataFileName": "Cambridge Analytica.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "HwGaVINBKaCB",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"lbE81WKVDr24",
+																"gS8w8EffSPWW",
+																"XBnY3c8Jdbqr",
+																"u33MOYsHf7Mi",
+																"HwGaVINBKaCB"
+															],
+															"title": "Prism",
+															"notePosition": 50,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 50
+																}
+															],
+															"format": "html",
+															"dataFileName": "Prism.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "Mngw56WxZVM9",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"lbE81WKVDr24",
+																"gS8w8EffSPWW",
+																"XBnY3c8Jdbqr",
+																"u33MOYsHf7Mi",
+																"Mngw56WxZVM9"
+															],
+															"title": "facebook-Gründung",
+															"notePosition": 60,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "facebook-Gründung.html",
+															"attachments": []
+														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "aHhuSjw7xYPi",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"XBnY3c8Jdbqr",
+														"aHhuSjw7xYPi"
+													],
+													"title": "Was fehlt",
+													"notePosition": 51,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "wasfehlt",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "eIrdLepB0Fqk",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"XBnY3c8Jdbqr",
+														"eIrdLepB0Fqk"
+													],
+													"title": "Quellen",
+													"notePosition": 81,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "quellen",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Quellen.html",
+													"attachments": []
+												}
+											]
+										},
 										{
 											"isClone": false,
-											"noteId": "V0dmepwEduhI",
+											"noteId": "92W5OfIbWXYj",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"7Woi1gdFxj9U",
-												"V0dmepwEduhI"
+												"gS8w8EffSPWW",
+												"92W5OfIbWXYj"
 											],
-											"title": "7 Jahre Gefängnis",
-											"notePosition": 10,
+											"title": "In-Q-Tel",
+											"notePosition": 70,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
@@ -16800,355 +17931,450 @@
 													"value": "angedacht",
 													"isInheritable": false,
 													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
 												}
 											],
 											"format": "html",
-											"dataFileName": "7 Jahre Gefängnis.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "In-Q-Tel",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "xyVIgOxCFaZ8",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"92W5OfIbWXYj",
+														"xyVIgOxCFaZ8"
+													],
+													"title": "Analyse",
+													"notePosition": 11,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "inhalte",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "hauptkarte",
+															"value": "",
+															"isInheritable": false,
+															"position": 20
+														}
+													],
+													"format": "html",
+													"dataFileName": "Analyse.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "K1Gy2Y5XeirS",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"92W5OfIbWXYj",
+														"K1Gy2Y5XeirS"
+													],
+													"title": "Was fehlt",
+													"notePosition": 21,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "wasfehlt",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "A0WGJapMP8yW",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"92W5OfIbWXYj",
+														"A0WGJapMP8yW"
+													],
+													"title": "Fazit",
+													"notePosition": 31,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Fazit.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "aaOtNgNG9yLR",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"92W5OfIbWXYj",
+														"aaOtNgNG9yLR"
+													],
+													"title": "Quellen",
+													"notePosition": 41,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "quellen",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Quellen.html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "gJkbnjEjSmef",
+											"noteId": "pneIkv32H0jN",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"7Woi1gdFxj9U",
-												"gJkbnjEjSmef"
+												"gS8w8EffSPWW",
+												"pneIkv32H0jN"
 											],
-											"title": "Folter in Haft",
-											"notePosition": 20,
+											"title": "Palantir",
+											"notePosition": 80,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
+											"attributes": [],
 											"format": "html",
-											"dataFileName": "Folter in Haft.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "8W1ZMjw6N3Qy",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"8W1ZMjw6N3Qy"
-									],
-									"title": "Pegasus/NSO Group",
-									"notePosition": 70,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "PegasusNSO Group",
-									"children": [
+											"attachments": [],
+											"dirFileName": "Palantir",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "2E46tKIcisBO",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"pneIkv32H0jN",
+														"2E46tKIcisBO"
+													],
+													"title": "Analyse",
+													"notePosition": 11,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "inhalte",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "hauptkarte",
+															"value": "",
+															"isInheritable": false,
+															"position": 20
+														}
+													],
+													"format": "html",
+													"dataFileName": "Analyse.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "dwjff2qeIUFb",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"pneIkv32H0jN",
+														"dwjff2qeIUFb"
+													],
+													"title": "Was fehlt",
+													"notePosition": 21,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "wasfehlt",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Was fehlt.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "cokrghxlAhW5",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"pneIkv32H0jN",
+														"cokrghxlAhW5"
+													],
+													"title": "Fazit",
+													"notePosition": 31,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Fazit.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "zpvWoHbEVLlX",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"pneIkv32H0jN",
+														"zpvWoHbEVLlX"
+													],
+													"title": "Quellen",
+													"notePosition": 41,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "quellen",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														}
+													],
+													"format": "html",
+													"dataFileName": "Quellen.html",
+													"attachments": []
+												}
+											]
+										},
 										{
 											"isClone": false,
-											"noteId": "seXenGudU45P",
+											"noteId": "8W1ZMjw6N3Qy",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"8W1ZMjw6N3Qy",
-												"seXenGudU45P"
+												"gS8w8EffSPWW",
+												"8W1ZMjw6N3Qy"
 											],
-											"title": "Journalisten überwacht",
-											"notePosition": 10,
+											"title": "Pegasus/NSO Group",
+											"notePosition": 120,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
+											"attributes": [],
 											"format": "html",
-											"dataFileName": "Journalisten überwacht.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "PegasusNSO Group",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "seXenGudU45P",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"8W1ZMjw6N3Qy",
+														"seXenGudU45P"
+													],
+													"title": "Journalisten überwacht",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Journalisten überwacht.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "MBCtdDMFZ56l",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"8W1ZMjw6N3Qy",
+														"MBCtdDMFZ56l"
+													],
+													"title": "Khashoggi (vor Ermordung)",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Khashoggi (vor Ermordung).html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
-											"noteId": "MBCtdDMFZ56l",
+											"noteId": "FGp6cED3YBjd",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"lbE81WKVDr24",
-												"8W1ZMjw6N3Qy",
-												"MBCtdDMFZ56l"
+												"gS8w8EffSPWW",
+												"FGp6cED3YBjd"
 											],
-											"title": "Khashoggi (vor Ermordung)",
-											"notePosition": 20,
+											"title": "wikileaks",
+											"notePosition": 140,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
+											"attributes": [],
 											"format": "html",
-											"dataFileName": "Khashoggi (vor Ermordung).html",
+											"dataFileName": "wikileaks.html",
 											"attachments": []
 										}
 									]
-								},
-								{
-									"isClone": false,
-									"noteId": "jPiLBQJGJoPf",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"jPiLBQJGJoPf"
-									],
-									"title": "How the CIA made google",
-									"notePosition": 80,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "How the CIA made google.html",
-									"attachments": [
-										{
-											"attachmentId": "gKF3inpc1kmq",
-											"title": "Why Google made the NSA.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
-											"role": "file",
-											"mime": "application/octet-stream",
-											"position": 10,
-											"dataFileName": "How the CIA made google_Why Go.bin"
-										},
-										{
-											"attachmentId": "N2Oyv0Wn5dkc",
-											"title": "Why Google made the NSA_byNafeezAhmed_INSURGEintelligence_Medium.pdf",
-											"role": "file",
-											"mime": "application/pdf",
-											"position": 10,
-											"dataFileName": "How the CIA made google_Wh.pdf"
-										},
-										{
-											"attachmentId": "osSQh7tCVaB0",
-											"title": "How the CIA made Google._byNafeezAhmed_INSURGEintelligence_Medium.pdf",
-											"role": "file",
-											"mime": "application/pdf",
-											"position": 10,
-											"dataFileName": "INSURGEintelligence_Medium.pdf"
-										},
-										{
-											"attachmentId": "vnp2oe4ULMBq",
-											"title": "How the CIA made Google.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
-											"role": "file",
-											"mime": "application/octet-stream",
-											"position": 10,
-											"dataFileName": "How the CIA made google_How th.bin"
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "c0A9x5MuFsbz",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"c0A9x5MuFsbz"
-									],
-									"title": "facebook <> deklarierte militärische Überwachung",
-									"notePosition": 90,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "facebook  deklarierte militäri.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "FGp6cED3YBjd",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"lbE81WKVDr24",
-										"FGp6cED3YBjd"
-									],
-									"title": "wikileaks",
-									"notePosition": 100,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"dataFileName": "wikileaks.html",
-									"attachments": []
 								}
 							]
 						}
@@ -20851,7 +22077,7 @@
 					"title": "C) Historisch UND Nachwirkend",
 					"notePosition": 230,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -22339,7 +23565,7 @@
 							"title": "Irak-Kriege Golfkrieg, Irak-Iran, 2003-2011",
 							"notePosition": 30,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [],
@@ -22701,7 +23927,7 @@
 									"title": "Konsequenzen",
 									"notePosition": 20,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
