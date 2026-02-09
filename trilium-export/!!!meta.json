@@ -16786,7 +16786,7 @@
 											"title": "ARPA, DARPA",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -17176,7 +17176,7 @@
 											"title": "google",
 											"notePosition": 30,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -17189,17 +17189,17 @@
 												},
 												{
 													"type": "label",
-													"name": "review_kommentar",
-													"value": "der artikel von Nafeez Amid steht schon für sich, aber breiter aufgestellt und zusammengefasst wäre besser",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
 													"name": "kategorie",
 													"value": "vorbemerkungen",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -17454,6 +17454,28 @@
 													],
 													"format": "html",
 													"dataFileName": "Quellen zu googles zweiter Sei.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "2WbHgOi0FK8k",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"jPiLBQJGJoPf",
+														"2WbHgOi0FK8k"
+													],
+													"title": "Überlegung",
+													"notePosition": 80,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Überlegung.html",
 													"attachments": []
 												}
 											]
