@@ -17899,6 +17899,23 @@
 													"attachments": []
 												},
 												{
+													"isClone": true,
+													"noteId": "2WbHgOi0FK8k",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"XBnY3c8Jdbqr",
+														"2WbHgOi0FK8k"
+													],
+													"title": "Überlegung",
+													"prefix": null,
+													"dataFileName": "Überlegung.clone.html",
+													"type": "text",
+													"format": "html"
+												},
+												{
 													"isClone": false,
 													"noteId": "eIrdLepB0Fqk",
 													"notePath": [
@@ -17910,7 +17927,7 @@
 														"eIrdLepB0Fqk"
 													],
 													"title": "Quellen",
-													"notePosition": 81,
+													"notePosition": 91,
 													"prefix": null,
 													"isExpanded": true,
 													"type": "text",
