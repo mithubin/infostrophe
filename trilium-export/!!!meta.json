@@ -199,7 +199,7 @@
 						{
 							"type": "label",
 							"name": "status",
-							"value": "ausgearbeitet1",
+							"value": "ausgearbeitet2",
 							"isInheritable": false,
 							"position": 20
 						},
@@ -438,6 +438,13 @@
 							"value": "list",
 							"isInheritable": false,
 							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "status",
+							"value": "sammlungskarte",
+							"isInheritable": false,
+							"position": 20
 						}
 					],
 					"attachments": [],
@@ -2981,7 +2988,7 @@
 											"title": "Diskreditierung von Russland, Russen und russischer Kultur",
 											"notePosition": 130,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -3501,7 +3508,7 @@
 													"title": "Morde & Vergiftungen",
 													"notePosition": 20,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -15628,7 +15635,7 @@
 							"title": "Überwachung & Big-Tech-Zensur",
 							"notePosition": 400,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -17068,7 +17075,40 @@
 									"attributes": [],
 									"format": "html",
 									"dataFileName": "How the CIA made google.html",
-									"attachments": []
+									"attachments": [
+										{
+											"attachmentId": "gKF3inpc1kmq",
+											"title": "Why Google made the NSA.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
+											"role": "file",
+											"mime": "application/octet-stream",
+											"position": 10,
+											"dataFileName": "How the CIA made google_Why Go.bin"
+										},
+										{
+											"attachmentId": "N2Oyv0Wn5dkc",
+											"title": "Why Google made the NSA_byNafeezAhmed_INSURGEintelligence_Medium.pdf",
+											"role": "file",
+											"mime": "application/pdf",
+											"position": 10,
+											"dataFileName": "How the CIA made google_Wh.pdf"
+										},
+										{
+											"attachmentId": "osSQh7tCVaB0",
+											"title": "How the CIA made Google._byNafeezAhmed_INSURGEintelligence_Medium.pdf",
+											"role": "file",
+											"mime": "application/pdf",
+											"position": 10,
+											"dataFileName": "INSURGEintelligence_Medium.pdf"
+										},
+										{
+											"attachmentId": "vnp2oe4ULMBq",
+											"title": "How the CIA made Google.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
+											"role": "file",
+											"mime": "application/octet-stream",
+											"position": 10,
+											"dataFileName": "How the CIA made google_How th.bin"
+										}
+									]
 								},
 								{
 									"isClone": false,
@@ -17127,7 +17167,15 @@
 					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
-					"attributes": [],
+					"attributes": [
+						{
+							"type": "label",
+							"name": "status",
+							"value": "sammlungskarte",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
 					"format": "html",
 					"attachments": [],
 					"dirFileName": "B) Stark Nachwirkend",
@@ -20806,7 +20854,15 @@
 					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
-					"attributes": [],
+					"attributes": [
+						{
+							"type": "label",
+							"name": "status",
+							"value": "sammlungskarte",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
 					"format": "html",
 					"attachments": [],
 					"dirFileName": "C) Historisch UND Nachwirkend",
