@@ -367,7 +367,7 @@
 					"title": "A) Akut Virulent",
 					"notePosition": 160,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "book",
 					"mime": "",
 					"attributes": [
@@ -671,7 +671,7 @@
 									"title": "offene Fragen zur EU",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -2296,7 +2296,7 @@
 											"title": "EU-Einflussnahme auf Wahlen",
 											"notePosition": 80,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -4529,7 +4529,7 @@
 											"title": "(Kriegs-) Rethorik gegen Russland",
 											"notePosition": 140,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
