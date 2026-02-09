@@ -359,67 +359,6 @@
 				},
 				{
 					"isClone": false,
-					"noteId": "HM7L0h2A3UDj",
-					"notePath": [
-						"Y9nhGuNYOuEF",
-						"HM7L0h2A3UDj"
-					],
-					"title": "Quellen zu Operation Mockingbird",
-					"notePosition": 150,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [
-						{
-							"type": "label",
-							"name": "status",
-							"value": "ausgearbeitet1",
-							"isInheritable": false,
-							"position": 10
-						},
-						{
-							"type": "label",
-							"name": "autor",
-							"value": "Claude",
-							"isInheritable": false,
-							"position": 20
-						},
-						{
-							"type": "label",
-							"name": "review_kommentar",
-							"value": "Quellen nicht systematisch geprüft",
-							"isInheritable": false,
-							"position": 50
-						},
-						{
-							"type": "label",
-							"name": "kategorie",
-							"value": "hauptkarte",
-							"isInheritable": false,
-							"position": 60
-						},
-						{
-							"type": "label",
-							"name": "kategorie",
-							"value": "quellen",
-							"isInheritable": false,
-							"position": 70
-						},
-						{
-							"type": "label",
-							"name": "review_kommentar",
-							"value": "Quellen noch nicht geprüft",
-							"isInheritable": false,
-							"position": 80
-						}
-					],
-					"format": "html",
-					"dataFileName": "Quellen zu Operation Mockingbi.html",
-					"attachments": []
-				},
-				{
-					"isClone": false,
 					"noteId": "lWAJdyBuSfVz",
 					"notePath": [
 						"Y9nhGuNYOuEF",
@@ -428,7 +367,7 @@
 					"title": "A) Akut Virulent",
 					"notePosition": 160,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "book",
 					"mime": "",
 					"attributes": [
@@ -661,7 +600,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 80,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -4988,7 +4927,7 @@
 							"title": "Farbrevolutionen",
 							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -5202,7 +5141,7 @@
 									"title": "Akteure und Netzwerke",
 									"notePosition": 110,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -5267,7 +5206,7 @@
 											"title": "Otpor! und CANVAS - Die Exportfirma für Revolutionen",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -5420,7 +5359,7 @@
 									"title": "Historische Vorläufer - Umstürze mit externen Fäden",
 									"notePosition": 140,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -5658,7 +5597,7 @@
 									"title": "Andere Beispiele von Interventionen",
 									"notePosition": 170,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -6902,7 +6841,7 @@
 							"title": "Globale Finanzverhältnisse",
 							"notePosition": 150,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -6987,7 +6926,7 @@
 									"title": "Geld - Eine historische Perspektive",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -7262,7 +7201,7 @@
 											"title": "Islamisches Geldsystem: 1400 Jahre ohne Zins",
 											"notePosition": 30,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7394,7 +7333,7 @@
 											"title": "Brakteaten: Das Goldene Mittelalter (1150-1450)",
 											"notePosition": 40,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7512,7 +7451,7 @@
 											"title": "Wörgl-Experiment: Das Wunder von Wörgl (1932-1933)",
 											"notePosition": 50,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7723,7 +7662,7 @@
 									"title": "Entstehung des Finanzkapitalismus: Von Venedig bis Wall Street",
 									"notePosition": 30,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -7894,7 +7833,7 @@
 											"title": "Italienische Stadtstaaten: Wo der Finanzkapitalismus begann",
 											"notePosition": 20,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8012,7 +7951,7 @@
 											"title": "City of London: Staat im Staate",
 											"notePosition": 40,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8130,7 +8069,7 @@
 											"title": "Fugger & Frühkapitalismus: Wenn Banker Kaiser machen",
 											"notePosition": 50,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8248,7 +8187,7 @@
 											"title": "Amsterdam & VOC: Die Geburt der Börse",
 											"notePosition": 60,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8366,7 +8305,7 @@
 											"title": "Bank of England 1694: Das Privatbank-Monopol",
 											"notePosition": 80,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8498,7 +8437,7 @@
 											"title": "Federal Reserve 1913: Jekyll Island & das Kartell",
 											"notePosition": 100,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8630,7 +8569,7 @@
 											"title": "Bretton Woods 1944: Dollar-Hegemonie & IWF/Weltbank",
 											"notePosition": 110,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8762,7 +8701,7 @@
 											"title": "CFA-Franc: Neokoloniale Währungsknebelung",
 											"notePosition": 120,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8880,7 +8819,7 @@
 											"title": "Nixon-Schock 1971: Das Ende des Gold-Standards",
 											"notePosition": 130,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -9012,7 +8951,7 @@
 											"title": "1973: Petrodollar & \"Loi Rothschild\" - ein Wendepunkt",
 											"notePosition": 150,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -19207,7 +19146,7 @@
 					"title": "B) Stark Nachwirkend",
 					"notePosition": 220,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -19740,6 +19679,69 @@
 											"attachments": []
 										}
 									]
+								},
+								{
+									"isClone": false,
+									"noteId": "HM7L0h2A3UDj",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"REk17uAbNXHC",
+										"agQqEaJpSwDd",
+										"HM7L0h2A3UDj"
+									],
+									"title": "Quellen zu Operation Mockingbird",
+									"notePosition": 130,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Quellen nicht systematisch geprüft",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "hauptkarte",
+											"isInheritable": false,
+											"position": 60
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "quellen",
+											"isInheritable": false,
+											"position": 70
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Quellen noch nicht geprüft",
+											"isInheritable": false,
+											"position": 80
+										}
+									],
+									"format": "html",
+									"dataFileName": "Quellen zu Operation Mockingbi.html",
+									"attachments": []
 								}
 							]
 						},
