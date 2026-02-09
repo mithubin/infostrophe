@@ -1537,7 +1537,7 @@
 														"Cul5C0teN6FT",
 														"z7zK3DDjkdVc"
 													],
-													"title": "1. Zensur - Verbot von Medien",
+													"title": "Zensur I - Verbot von Medien",
 													"notePosition": 40,
 													"prefix": null,
 													"isExpanded": false,
@@ -1560,7 +1560,7 @@
 														}
 													],
 													"format": "html",
-													"dataFileName": "1. Zensur - Verbot von Medien.html",
+													"dataFileName": "Zensur I - Verbot von Medien.html",
 													"attachments": []
 												},
 												{
@@ -1574,7 +1574,7 @@
 														"Cul5C0teN6FT",
 														"cpyAciMwe91s"
 													],
-													"title": "2. Zensur - Digital Services Act (DSA)",
+													"title": "Zensur II - Digital Services Act (DSA)",
 													"notePosition": 50,
 													"prefix": null,
 													"isExpanded": false,
@@ -1618,7 +1618,7 @@
 														}
 													],
 													"format": "html",
-													"dataFileName": "2. Zensur - Digital Services A.html",
+													"dataFileName": "Zensur II - Digital Services A.html",
 													"attachments": []
 												},
 												{
@@ -1632,7 +1632,7 @@
 														"Cul5C0teN6FT",
 														"AtzpRT6Vk4Br"
 													],
-													"title": "3. Zensur - EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
+													"title": "Zensur III - EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
 													"notePosition": 61,
 													"prefix": null,
 													"isExpanded": false,
@@ -1683,9 +1683,9 @@
 														}
 													],
 													"format": "html",
-													"dataFileName": "3. Zensur - EU-Sanktionen gege.html",
+													"dataFileName": "Zensur III - EU-Sanktionen geg.html",
 													"attachments": [],
-													"dirFileName": "3. Zensur - EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
+													"dirFileName": "Zensur III - EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
 													"children": [
 														{
 															"isClone": false,
@@ -1894,7 +1894,7 @@
 														"Cul5C0teN6FT",
 														"UF6XU2iGn2SJ"
 													],
-													"title": "4. Zensur - Debanking",
+													"title": "Zensur IV - Debanking",
 													"notePosition": 71,
 													"prefix": null,
 													"isExpanded": false,
@@ -1952,7 +1952,7 @@
 														}
 													],
 													"format": "html",
-													"dataFileName": "4. Zensur - Debanking.html",
+													"dataFileName": "Zensur IV - Debanking.html",
 													"attachments": [
 														{
 															"attachmentId": "TOGUKEVD930d",
@@ -1960,7 +1960,7 @@
 															"role": "file",
 															"mime": "application/pdf",
 															"position": 10,
-															"dataFileName": "4. Zensur - Debanking_deep.pdf"
+															"dataFileName": "Zensur IV - Debanking_deep.pdf"
 														}
 													]
 												},
@@ -3898,7 +3898,16 @@
 															],
 															"format": "html",
 															"dataFileName": "Georgien-Krieg (2008).html",
-															"attachments": []
+															"attachments": [
+																{
+																	"attachmentId": "mMO8211NyUVu",
+																	"title": "HUDOC_38263_08_Annexes_ENG_Georgien_Ossetien_Ru_IndependentInternationalFact-Finding MissionConflictGeorgia.pdf",
+																	"role": "file",
+																	"mime": "application/pdf",
+																	"position": 10,
+																	"dataFileName": "Georgien-Krieg (2008)_HUDO.pdf"
+																}
+															]
 														},
 														{
 															"isClone": false,
@@ -4979,7 +4988,7 @@
 							"title": "Farbrevolutionen",
 							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -5193,7 +5202,7 @@
 									"title": "Akteure und Netzwerke",
 									"notePosition": 110,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -5258,7 +5267,7 @@
 											"title": "Otpor! und CANVAS - Die Exportfirma für Revolutionen",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -5411,7 +5420,7 @@
 									"title": "Historische Vorläufer - Umstürze mit externen Fäden",
 									"notePosition": 140,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -5649,7 +5658,7 @@
 									"title": "Andere Beispiele von Interventionen",
 									"notePosition": 170,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -6021,7 +6030,7 @@
 								"lWAJdyBuSfVz",
 								"QeO3yOaD97mu"
 							],
-							"title": "Think-Tanks, Stiftungen und NGOs - Einleitung",
+							"title": "Think-Tanks, Stiftungen und NGOs",
 							"notePosition": 100,
 							"prefix": null,
 							"isExpanded": false,
@@ -6130,7 +6139,7 @@
 							"format": "html",
 							"dataFileName": "Think-Tanks, Stiftungen und NG.html",
 							"attachments": [],
-							"dirFileName": "Think-Tanks, Stiftungen und NGOs - Einleitung",
+							"dirFileName": "Think-Tanks, Stiftungen und NGOs",
 							"children": [
 								{
 									"isClone": false,
@@ -6893,7 +6902,7 @@
 							"title": "Globale Finanzverhältnisse",
 							"notePosition": 150,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -6914,7 +6923,7 @@
 								{
 									"type": "label",
 									"name": "status",
-									"value": "entwurf",
+									"value": "ausgearbeitet1",
 									"isInheritable": false,
 									"position": 30
 								},
@@ -6945,6 +6954,20 @@
 									"value": "Quellen nicht systematisch geprüft",
 									"isInheritable": false,
 									"position": 70
+								},
+								{
+									"type": "label",
+									"name": "autor",
+									"value": "Claude",
+									"isInheritable": false,
+									"position": 80
+								},
+								{
+									"type": "label",
+									"name": "review_kommentar",
+									"value": "Autor Claude, von Milan supervisiert",
+									"isInheritable": false,
+									"position": 90
 								}
 							],
 							"format": "html",
@@ -6964,7 +6987,7 @@
 									"title": "Geld - Eine historische Perspektive",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -7006,7 +7029,7 @@
 										{
 											"type": "label",
 											"name": "status",
-											"value": "ausgearbeitet2",
+											"value": "ausgearbeitet1",
 											"isInheritable": false,
 											"position": 50
 										},
@@ -7037,6 +7060,13 @@
 											"value": "Quellen nicht systematisch geprüft",
 											"isInheritable": false,
 											"position": 90
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Autor Claude, von Milan supervisiert",
+											"isInheritable": false,
+											"position": 100
 										}
 									],
 									"format": "html",
@@ -7060,7 +7090,29 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 30
+												}
+											],
 											"format": "html",
 											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
@@ -7099,7 +7151,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -7130,6 +7182,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -7161,6 +7220,27 @@
 															"value": "",
 															"isInheritable": false,
 															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 40
 														}
 													],
 													"format": "html",
@@ -7182,7 +7262,7 @@
 											"title": "Islamisches Geldsystem: 1400 Jahre ohne Zins",
 											"notePosition": 30,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7203,7 +7283,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -7234,6 +7314,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -7265,6 +7352,27 @@
 															"value": "",
 															"isInheritable": false,
 															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 40
 														}
 													],
 													"format": "html",
@@ -7286,7 +7394,7 @@
 											"title": "Brakteaten: Das Goldene Mittelalter (1150-1450)",
 											"notePosition": 40,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7331,6 +7439,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -7355,7 +7470,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -7375,7 +7512,7 @@
 											"title": "Wörgl-Experiment: Das Wunder von Wörgl (1932-1933)",
 											"notePosition": 50,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7396,7 +7533,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -7427,6 +7564,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -7458,6 +7602,27 @@
 															"value": "",
 															"isInheritable": false,
 															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 40
 														}
 													],
 													"format": "html",
@@ -7513,24 +7678,31 @@
 												},
 												{
 													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 100
+												},
+												{
+													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 70
+													"position": 110
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "quellen",
 													"isInheritable": false,
-													"position": 80
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 90
+													"position": 120
 												}
 											],
 											"format": "html",
@@ -7551,7 +7723,7 @@
 									"title": "Entstehung des Finanzkapitalismus: Von Venedig bis Wall Street",
 									"notePosition": 30,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -7621,7 +7793,7 @@
 										{
 											"type": "label",
 											"name": "status",
-											"value": "ausgearbeitet2",
+											"value": "ausgearbeitet1",
 											"isInheritable": false,
 											"position": 100
 										},
@@ -7652,6 +7824,13 @@
 											"value": "Quellen nicht systematisch geprüft",
 											"isInheritable": false,
 											"position": 140
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Autor Claude, von Milan supervisiert",
+											"isInheritable": false,
+											"position": 150
 										}
 									],
 									"format": "html",
@@ -7675,7 +7854,29 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 30
+												}
+											],
 											"format": "html",
 											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
@@ -7693,7 +7894,7 @@
 											"title": "Italienische Stadtstaaten: Wo der Finanzkapitalismus begann",
 											"notePosition": 20,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7707,7 +7908,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -7738,6 +7939,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -7762,7 +7970,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -7779,10 +8009,10 @@
 												"3R5bRG3LFIIi",
 												"1bOBAjUOHCsJ"
 											],
-											"title": "City of London: Der Staat im Staate",
+											"title": "City of London: Staat im Staate",
 											"notePosition": 40,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7796,7 +8026,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 30
 												},
@@ -7827,12 +8057,19 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
-											"dataFileName": "City of London Der Staat im St.html",
+											"dataFileName": "City of London Staat im Staate.html",
 											"attachments": [],
-											"dirFileName": "City of London Der Staat im Staate",
+											"dirFileName": "City of London Staat im Staate",
 											"children": [
 												{
 													"isClone": false,
@@ -7851,7 +8088,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -7871,7 +8130,7 @@
 											"title": "Fugger & Frühkapitalismus: Wenn Banker Kaiser machen",
 											"notePosition": 50,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7885,7 +8144,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -7916,6 +8175,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -7940,7 +8206,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -7960,7 +8248,7 @@
 											"title": "Amsterdam & VOC: Die Geburt der Börse",
 											"notePosition": 60,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7974,7 +8262,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -8005,6 +8293,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -8029,7 +8324,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -8049,7 +8366,7 @@
 											"title": "Bank of England 1694: Das Privatbank-Monopol",
 											"notePosition": 80,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8070,7 +8387,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 30
 												},
@@ -8101,6 +8418,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
@@ -8132,6 +8456,27 @@
 															"value": "",
 															"isInheritable": false,
 															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 40
 														}
 													],
 													"format": "html",
@@ -8153,7 +8498,7 @@
 											"title": "Federal Reserve 1913: Jekyll Island & das Kartell",
 											"notePosition": 100,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8174,7 +8519,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 30
 												},
@@ -8205,6 +8550,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
@@ -8236,6 +8588,27 @@
 															"value": "",
 															"isInheritable": false,
 															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 40
 														}
 													],
 													"format": "html",
@@ -8257,7 +8630,7 @@
 											"title": "Bretton Woods 1944: Dollar-Hegemonie & IWF/Weltbank",
 											"notePosition": 110,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8285,7 +8658,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 40
 												},
@@ -8316,6 +8689,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 80
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 90
 												}
 											],
 											"format": "html",
@@ -8340,7 +8720,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -8360,7 +8762,7 @@
 											"title": "CFA-Franc: Neokoloniale Währungsknebelung",
 											"notePosition": 120,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8374,7 +8776,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 30
 												},
@@ -8405,6 +8807,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
@@ -8429,7 +8838,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -8449,7 +8880,7 @@
 											"title": "Nixon-Schock 1971: Das Ende des Gold-Standards",
 											"notePosition": 130,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8470,7 +8901,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 30
 												},
@@ -8501,6 +8932,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
@@ -8532,6 +8970,27 @@
 															"value": "",
 															"isInheritable": false,
 															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 40
 														}
 													],
 													"format": "html",
@@ -8553,7 +9012,7 @@
 											"title": "1973: Petrodollar & \"Loi Rothschild\" - ein Wendepunkt",
 											"notePosition": 150,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -8567,7 +9026,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -8598,6 +9057,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -8622,7 +9088,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -8656,7 +9144,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -8687,6 +9175,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -8711,7 +9206,29 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -8765,24 +9282,31 @@
 												},
 												{
 													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 100
+												},
+												{
+													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 70
+													"position": 110
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "quellen",
 													"isInheritable": false,
-													"position": 80
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 90
+													"position": 120
 												}
 											],
 											"format": "html",
@@ -8829,24 +9353,31 @@
 												},
 												{
 													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 80
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 60
+													"position": 100
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "quellen",
 													"isInheritable": false,
-													"position": 70
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 80
+													"position": 110
 												}
 											],
 											"format": "html",
@@ -8893,24 +9424,31 @@
 												},
 												{
 													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 80
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 60
+													"position": 100
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "quellen",
 													"isInheritable": false,
-													"position": 70
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 80
+													"position": 110
 												}
 											],
 											"format": "html",
@@ -8980,7 +9518,7 @@
 										{
 											"type": "label",
 											"name": "status",
-											"value": "ausgearbeitet2",
+											"value": "ausgearbeitet1",
 											"isInheritable": false,
 											"position": 80
 										},
@@ -9011,6 +9549,13 @@
 											"value": "Quellen nicht systematisch geprüft",
 											"isInheritable": false,
 											"position": 120
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Autor Claude, von Milan supervisiert",
+											"isInheritable": false,
+											"position": 130
 										}
 									],
 									"format": "html",
@@ -9045,7 +9590,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -9076,6 +9621,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -9109,7 +9661,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -9140,6 +9692,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -9173,7 +9732,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -9204,6 +9763,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -9237,7 +9803,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -9268,6 +9834,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -9301,7 +9874,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -9332,6 +9905,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -9378,24 +9958,31 @@
 												},
 												{
 													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 80
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 60
+													"position": 100
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "quellen",
 													"isInheritable": false,
-													"position": 70
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 80
+													"position": 110
 												}
 											],
 											"format": "html",
@@ -9465,7 +10052,7 @@
 										{
 											"type": "label",
 											"name": "status",
-											"value": "ausgearbeitet2",
+											"value": "ausgearbeitet1",
 											"isInheritable": false,
 											"position": 70
 										},
@@ -9496,6 +10083,13 @@
 											"value": "Quellen nicht systematisch geprüft",
 											"isInheritable": false,
 											"position": 110
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Autor Claude, von Milan supervisiert",
+											"isInheritable": false,
+											"position": 120
 										}
 									],
 									"format": "html",
@@ -9519,7 +10113,29 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 30
+												}
+											],
 											"format": "html",
 											"attachments": [],
 											"dirFileName": "400-Jahre Bilanz",
@@ -9548,6 +10164,27 @@
 															"value": "TCq7naxpTLUX",
 															"isInheritable": false,
 															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 40
 														}
 													],
 													"dataFileName": "ponzi-view.dat",
@@ -9626,6 +10263,13 @@
 															"value": "Enthält eingebettetes HTML/CSS (interaktive Visualisierung)",
 															"isInheritable": false,
 															"position": 80
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 90
 														}
 													],
 													"dataFileName": "ponzi-code.html",
@@ -9660,7 +10304,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 30
 												},
@@ -9691,6 +10335,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
@@ -9724,7 +10375,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -9755,6 +10406,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -9788,7 +10446,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -9819,6 +10477,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -9847,7 +10512,7 @@
 														{
 															"type": "label",
 															"name": "status",
-															"value": "ausgearbeitet2",
+															"value": "ausgearbeitet1",
 															"isInheritable": false,
 															"position": 10
 														},
@@ -9878,6 +10543,13 @@
 															"value": "Quellen nicht systematisch geprüft",
 															"isInheritable": false,
 															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 60
 														}
 													],
 													"format": "html",
@@ -9925,24 +10597,31 @@
 														},
 														{
 															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen noch nicht geprüft",
+															"isInheritable": false,
+															"position": 80
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Autor Claude, von Milan supervisiert",
+															"isInheritable": false,
+															"position": 90
+														},
+														{
+															"type": "label",
 															"name": "kategorie",
 															"value": "unterkarte",
 															"isInheritable": false,
-															"position": 60
+															"position": 100
 														},
 														{
 															"type": "label",
 															"name": "kategorie",
 															"value": "quellen",
 															"isInheritable": false,
-															"position": 70
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen noch nicht geprüft",
-															"isInheritable": false,
-															"position": 80
+															"position": 110
 														}
 													],
 													"format": "html",
@@ -9978,7 +10657,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -10009,6 +10688,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
@@ -10049,7 +10735,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 30
 												},
@@ -10080,6 +10766,13 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
@@ -10133,24 +10826,31 @@
 												},
 												{
 													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 100
+												},
+												{
+													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 70
+													"position": 110
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "quellen",
 													"isInheritable": false,
-													"position": 80
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 90
+													"position": 120
 												}
 											],
 											"format": "html",
@@ -10241,7 +10941,7 @@
 										{
 											"type": "label",
 											"name": "status",
-											"value": "ausgearbeitet2",
+											"value": "ausgearbeitet1",
 											"isInheritable": false,
 											"position": 100
 										},
@@ -10272,6 +10972,13 @@
 											"value": "Quellen nicht systematisch geprüft",
 											"isInheritable": false,
 											"position": 140
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Autor Claude, von Milan supervisiert",
+											"isInheritable": false,
+											"position": 150
 										}
 									],
 									"format": "html",
@@ -10302,6 +11009,27 @@
 													"value": "",
 													"isInheritable": false,
 													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 40
 												}
 											],
 											"format": "html",
@@ -10348,24 +11076,31 @@
 												},
 												{
 													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 80
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 60
+													"position": 100
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "quellen",
 													"isInheritable": false,
-													"position": 70
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 80
+													"position": 110
 												}
 											],
 											"format": "html",
@@ -10399,7 +11134,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "entwurf",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -10430,6 +11165,20 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Autor Claude, von Milan supervisiert",
+													"isInheritable": false,
+													"position": 80
 												}
 											],
 											"format": "html",
@@ -15635,7 +16384,7 @@
 							"title": "Überwachung & Big-Tech-Zensur",
 							"notePosition": 400,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -15699,7 +16448,7 @@
 									"title": "Ereignisse",
 									"notePosition": 160,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -16766,7 +17515,7 @@
 									"title": "Organisationen",
 									"notePosition": 170,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -17173,10 +17922,10 @@
 												"gS8w8EffSPWW",
 												"jPiLBQJGJoPf"
 											],
-											"title": "google",
+											"title": "google...",
 											"notePosition": 30,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -17251,10 +18000,10 @@
 														"jPiLBQJGJoPf",
 														"5swJHXabZelX"
 													],
-													"title": "aber: geheimdienstfinanzierung...",
+													"title": "...aber: geheimdienstfinanzierung",
 													"notePosition": 10,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -17281,7 +18030,7 @@
 														}
 													],
 													"format": "html",
-													"dataFileName": "aber geheimdienstfinanzierung.html",
+													"dataFileName": "...aber geheimdienstfinanzieru.html",
 													"attachments": []
 												},
 												{
@@ -17328,7 +18077,7 @@
 													"title": "Artikel von Nafeez Ahmed",
 													"notePosition": 30,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -17414,6 +18163,57 @@
 												},
 												{
 													"isClone": false,
+													"noteId": "2WbHgOi0FK8k",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"lbE81WKVDr24",
+														"gS8w8EffSPWW",
+														"jPiLBQJGJoPf",
+														"2WbHgOi0FK8k"
+													],
+													"title": "Überlegung",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "fazit",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet2",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
+													"format": "html",
+													"dataFileName": "Überlegung.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
 													"noteId": "Rolgwm5Dio9t",
 													"notePath": [
 														"Y9nhGuNYOuEF",
@@ -17424,7 +18224,7 @@
 														"Rolgwm5Dio9t"
 													],
 													"title": "Quellen zu googles zweiter Seite",
-													"notePosition": 70,
+													"notePosition": 80,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
@@ -17455,28 +18255,6 @@
 													"format": "html",
 													"dataFileName": "Quellen zu googles zweiter Sei.html",
 													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "2WbHgOi0FK8k",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"lbE81WKVDr24",
-														"gS8w8EffSPWW",
-														"jPiLBQJGJoPf",
-														"2WbHgOi0FK8k"
-													],
-													"title": "Überlegung",
-													"notePosition": 80,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [],
-													"format": "html",
-													"dataFileName": "Überlegung.html",
-													"attachments": []
 												}
 											]
 										},
@@ -17493,7 +18271,7 @@
 											"title": "facebook",
 											"notePosition": 50,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -17552,7 +18330,7 @@
 													"title": "facebook vs lifelog",
 													"notePosition": 11,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -17929,7 +18707,7 @@
 													"title": "Quellen",
 													"notePosition": 91,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -18429,7 +19207,7 @@
 					"title": "B) Stark Nachwirkend",
 					"notePosition": 220,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -18832,7 +19610,7 @@
 										"agQqEaJpSwDd",
 										"5Wz5s9XUXvzi"
 									],
-									"title": "\"Drähte\" deutscher Medien",
+									"title": "Die \"Verdrahtung\" deutscher Medien",
 									"notePosition": 120,
 									"prefix": null,
 									"isExpanded": false,
@@ -18842,7 +19620,7 @@
 										{
 											"type": "label",
 											"name": "status",
-											"value": "ausgearbeitet2",
+											"value": "ausgearbeitet1",
 											"isInheritable": false,
 											"position": 10
 										},
@@ -18876,7 +19654,7 @@
 										}
 									],
 									"format": "html",
-									"dataFileName": "Drähte deutscher Medien.html",
+									"dataFileName": "Die Verdrahtung deutscher Medi.html",
 									"attachments": [
 										{
 											"attachmentId": "gdSzv95CEeLL",
@@ -18884,7 +19662,7 @@
 											"role": "image",
 											"mime": "image/webp",
 											"position": 10,
-											"dataFileName": "Drähte deutscher Medien_4.webp"
+											"dataFileName": "Die Verdrahtung deutscher.webp"
 										},
 										{
 											"attachmentId": "SUkyNpan0QTn",
@@ -18892,10 +19670,10 @@
 											"role": "image",
 											"mime": "image/jpg",
 											"position": 10,
-											"dataFileName": "Drähte deutscher Medien_im.jpg"
+											"dataFileName": "Die Verdrahtung deutscher .jpg"
 										}
 									],
-									"dirFileName": "Drähte deutscher Medien",
+									"dirFileName": "Die Verdrahtung deutscher Medien",
 									"children": [
 										{
 											"isClone": false,
@@ -27285,7 +28063,7 @@
 					"title": "Quellenliste",
 					"notePosition": 240,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
