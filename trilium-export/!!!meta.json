@@ -7630,7 +7630,7 @@
 							"title": "Globale Finanzverhältnisse",
 							"notePosition": 170,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -8451,7 +8451,7 @@
 									"title": "Entstehung des Finanzkapitalismus: Von Venedig bis Wall Street",
 									"notePosition": 30,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -11599,7 +11599,7 @@
 									"title": "Alternative Systeme & ihr (vorläufiges) Ende",
 									"notePosition": 90,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -27211,7 +27211,7 @@
 							"title": "Libyen",
 							"notePosition": 50,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -27765,7 +27765,7 @@
 									"title": "Gaddafis Gold-Dinar-Plan",
 									"notePosition": 110,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -27803,6 +27803,20 @@
 											"value": "Milan",
 											"isInheritable": false,
 											"position": 50
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "tOcHE7cO17kT",
+											"isInheritable": false,
+											"position": 60
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "kebdtgbYEARl",
+											"isInheritable": false,
+											"position": 70
 										}
 									],
 									"format": "html",
@@ -28142,6 +28156,13 @@
 											"value": "Milan",
 											"isInheritable": false,
 											"position": 60
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "OWVE3A2MW8fT",
+											"isInheritable": false,
+											"position": 70
 										}
 									],
 									"format": "html",
