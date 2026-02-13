@@ -813,7 +813,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -956,7 +956,7 @@
 											"title": "Strukturelle Demokratiedefizite",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -7061,7 +7061,7 @@
 							"title": "Internationale Organisationen - Kontrollinstrument-Aspekt",
 							"notePosition": 120,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -7160,7 +7160,7 @@
 									"title": "Organisation für Afrikanische Einheit (OAU)",
 									"notePosition": 20,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -7630,7 +7630,7 @@
 							"title": "Globale Finanzverhältnisse",
 							"notePosition": 170,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -8451,7 +8451,7 @@
 									"title": "Entstehung des Finanzkapitalismus: Von Venedig bis Wall Street",
 									"notePosition": 30,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -11599,7 +11599,7 @@
 									"title": "Alternative Systeme & ihr (vorläufiges) Ende",
 									"notePosition": 90,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -27765,7 +27765,7 @@
 									"title": "Gaddafis Gold-Dinar-Plan",
 									"notePosition": 110,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
