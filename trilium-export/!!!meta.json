@@ -397,7 +397,7 @@
 								"lWAJdyBuSfVz",
 								"PMTXMLJfutC8"
 							],
-							"title": "Live-Beobachtung - was sich tut",
+							"title": "Live-Beobachtung - was sich tut (Skizzen)",
 							"notePosition": 30,
 							"prefix": null,
 							"isExpanded": false,
@@ -449,7 +449,220 @@
 							],
 							"format": "html",
 							"dataFileName": "Live-Beobachtung - was sich tu.html",
-							"attachments": []
+							"attachments": [],
+							"dirFileName": "Live-Beobachtung - was sich tut (Skizzen)",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "ssNZUs3ILpll",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"PMTXMLJfutC8",
+										"ssNZUs3ILpll"
+									],
+									"title": "Israel - \"Westasien\"",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Israel - Westasien.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "XNiRk3HIQpR4",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"PMTXMLJfutC8",
+										"XNiRk3HIQpR4"
+									],
+									"title": "USA vs Venezuela, Kuba, Kanada, Dänemark, EU, ...",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "USA vs Venezuela, Kuba, Kanada.html",
+									"attachments": [],
+									"dirFileName": "USA vs Venezuela, Kuba, Kanada, Dänemark, EU,",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "0zwSEnhzM7qY",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"PMTXMLJfutC8",
+												"XNiRk3HIQpR4",
+												"0zwSEnhzM7qY"
+											],
+											"title": "Kolumbien",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Kolumbien.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "3chXZyCncCcH",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"PMTXMLJfutC8",
+												"XNiRk3HIQpR4",
+												"3chXZyCncCcH"
+											],
+											"title": "USA - Israel - Iran",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "USA - Israel - Iran.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "Hpi08c5fBrpa",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"PMTXMLJfutC8",
+												"XNiRk3HIQpR4",
+												"Hpi08c5fBrpa"
+											],
+											"title": "USA - EU - Grönland",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "USA - EU - Grönland.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "jyy5JGONhnx7",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"PMTXMLJfutC8",
+										"jyy5JGONhnx7"
+									],
+									"title": "Epstein-Affäre - stufenweise neue 'Releases'",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Epstein-Affäre - stufenweise n.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "mn2MU30OTDN6",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"PMTXMLJfutC8",
+										"mn2MU30OTDN6"
+									],
+									"title": "KI-Rückfrage zu neuen Informationen am 13.2.26",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "KI-Rückfrage zu neuen Inf.2.26.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "zHGBY9DW57fu",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"PMTXMLJfutC8",
+										"zHGBY9DW57fu"
+									],
+									"title": "KI-Rückfrage am 13.2.26 nicht-mainstream",
+									"notePosition": 61,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "KI-Rückfrage am 13.2.26 nicht-.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "D5F6nhrx8TCl",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"PMTXMLJfutC8",
+										"D5F6nhrx8TCl"
+									],
+									"title": "anstehende Wahlen in Ungarn",
+									"notePosition": 71,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "anstehende Wahlen in Ungarn.html",
+									"attachments": [],
+									"dirFileName": "anstehende Wahlen in Ungarn",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "hViUCkmWpybo",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"PMTXMLJfutC8",
+												"D5F6nhrx8TCl",
+												"hViUCkmWpybo"
+											],
+											"title": "Russische Einmischung?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Russische Einmischung.html",
+											"attachments": []
+										}
+									]
+								}
+							]
 						},
 						{
 							"isClone": false,
@@ -460,7 +673,7 @@
 								"yDAlOdEacXtb"
 							],
 							"title": "Regelbasierte Weltordnung",
-							"notePosition": 40,
+							"notePosition": 50,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -598,9 +811,9 @@
 								"yiOs0cBNKAnV"
 							],
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
-							"notePosition": 80,
+							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -743,7 +956,7 @@
 											"title": "Strukturelle Demokratiedefizite",
 											"notePosition": 10,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -1413,7 +1626,7 @@
 											"title": "Meinungsäußerung & Zensur",
 											"notePosition": 70,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -1574,7 +1787,7 @@
 													"title": "Zensur III - EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
 													"notePosition": 61,
 													"prefix": null,
-													"isExpanded": false,
+													"isExpanded": true,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -2296,7 +2509,7 @@
 											"title": "EU-Einflussnahme auf Wahlen",
 											"notePosition": 80,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -4529,7 +4742,7 @@
 											"title": "(Kriegs-) Rethorik gegen Russland",
 											"notePosition": 140,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -4925,9 +5138,9 @@
 								"LGtF1UPYJceK"
 							],
 							"title": "Farbrevolutionen",
-							"notePosition": 90,
+							"notePosition": 100,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -5597,7 +5810,7 @@
 									"title": "Andere Beispiele von Interventionen",
 									"notePosition": 170,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -5614,7 +5827,7 @@
 												"cvverwVavOZE",
 												"jhxVeYATKfcY"
 											],
-											"title": "Lybien (2011)",
+											"title": "Libyen (2011)",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
@@ -5662,12 +5875,19 @@
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
 													"position": 60
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "MrKP32TxNYy7",
+													"isInheritable": false,
+													"position": 70
 												}
 											],
 											"format": "html",
-											"dataFileName": "Lybien (2011).html",
+											"dataFileName": "Libyen (2011).html",
 											"attachments": [],
-											"dirFileName": "Lybien (2011)",
+											"dirFileName": "Libyen (2011)",
 											"children": [
 												{
 													"isClone": false,
@@ -5970,7 +6190,7 @@
 								"QeO3yOaD97mu"
 							],
 							"title": "Think-Tanks, Stiftungen und NGOs",
-							"notePosition": 100,
+							"notePosition": 110,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -6832,6 +7052,257 @@
 						},
 						{
 							"isClone": false,
+							"noteId": "niBnJeyRyP0R",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"niBnJeyRyP0R"
+							],
+							"title": "Internationale Organisationen - Kontrollinstrument-Aspekt",
+							"notePosition": 120,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "color",
+									"value": "#4de699",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Internationale Organisationen .html",
+							"attachments": [],
+							"dirFileName": "Internationale Organisationen - Kontrollinstrument-Aspekt",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "Mqna6R0GdPto",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"niBnJeyRyP0R",
+										"Mqna6R0GdPto"
+									],
+									"title": "Themenkonzept",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Themenkonzept.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "2YiXeGYLCA9t",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"niBnJeyRyP0R",
+										"2YiXeGYLCA9t"
+									],
+									"title": "Organisation für Afrikanische Einheit (OAU)",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Organisation für Afrikanische .html",
+									"attachments": [],
+									"dirFileName": "Organisation für Afrikanische Einheit (OAU)",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "YcG9KfF6UUwP",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"niBnJeyRyP0R",
+												"2YiXeGYLCA9t",
+												"YcG9KfF6UUwP"
+											],
+											"title": "Geschichte und Struktur der OAU",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Geschichte und Struktur der OA.html",
+											"attachments": [],
+											"dirFileName": "Geschichte und Struktur der OAU",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "GyeW4H3IdvUt",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"niBnJeyRyP0R",
+														"2YiXeGYLCA9t",
+														"YcG9KfF6UUwP",
+														"GyeW4H3IdvUt"
+													],
+													"title": "Das Herzstück des neokolonialen Systems: Der CFA-Franc",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Das Herzstück des neokoloniale.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "1Qfop15MDQLL",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"niBnJeyRyP0R",
+														"2YiXeGYLCA9t",
+														"YcG9KfF6UUwP",
+														"1Qfop15MDQLL"
+													],
+													"title": "Die OAU in der Praxis: Erfolge und Versagen",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Die OAU in der Praxis Erfolge .html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "9oF9g9GTfFnK",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"niBnJeyRyP0R",
+														"2YiXeGYLCA9t",
+														"YcG9KfF6UUwP",
+														"9oF9g9GTfFnK"
+													],
+													"title": "Die OAU als \"Enabler\" neokolonialer Kontrolle",
+													"notePosition": 60,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Die OAU als Enabler neokolonia.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "5Ta4oI7LtM7g",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"niBnJeyRyP0R",
+														"2YiXeGYLCA9t",
+														"YcG9KfF6UUwP",
+														"5Ta4oI7LtM7g"
+													],
+													"title": "Auflösung und Nachfolge: Die Afrikanische Union 2002",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Auflösung und Nachfolge Die Af.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "yWW2zxqVA7FN",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"niBnJeyRyP0R",
+														"2YiXeGYLCA9t",
+														"YcG9KfF6UUwP",
+														"yWW2zxqVA7FN"
+													],
+													"title": "Die Afrikanische Union (AU): Reform oder Kontinuität? (seit 2002)",
+													"notePosition": 80,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Die Afrikanische Union (AU) Re.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "XtwTuVjuGNox",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"niBnJeyRyP0R",
+														"2YiXeGYLCA9t",
+														"YcG9KfF6UUwP",
+														"XtwTuVjuGNox"
+													],
+													"title": "Was fehlt in der Diskussion?",
+													"notePosition": 90,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "bnGyJsxr6iPz",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"niBnJeyRyP0R",
+														"2YiXeGYLCA9t",
+														"YcG9KfF6UUwP",
+														"bnGyJsxr6iPz"
+													],
+													"title": "Quellen zur OAU",
+													"notePosition": 100,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Quellen zur OAU.html",
+													"attachments": []
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"isClone": false,
 							"noteId": "styqig7L0Wmj",
 							"notePath": [
 								"Y9nhGuNYOuEF",
@@ -6839,7 +7310,7 @@
 								"styqig7L0Wmj"
 							],
 							"title": "Globale Finanzverhältnisse",
-							"notePosition": 150,
+							"notePosition": 170,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -11137,7 +11608,7 @@
 								"TnCobanrUWMQ"
 							],
 							"title": "Ukraine-Russland-Krieg",
-							"notePosition": 350,
+							"notePosition": 370,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -13695,7 +14166,7 @@
 								"jIq54pBixtUm"
 							],
 							"title": "Israel-Palästina-Komplex, Gaza-Krieg",
-							"notePosition": 360,
+							"notePosition": 380,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -15201,7 +15672,7 @@
 								"zUxzquhF2AnU"
 							],
 							"title": "USA-Venezuela",
-							"notePosition": 370,
+							"notePosition": 390,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -15780,7 +16251,7 @@
 								"3DvikU3hVkb6"
 							],
 							"title": "Iran-Komplex",
-							"notePosition": 390,
+							"notePosition": 410,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -16321,7 +16792,7 @@
 								"lbE81WKVDr24"
 							],
 							"title": "Überwachung & Big-Tech-Zensur",
-							"notePosition": 400,
+							"notePosition": 420,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -22896,7 +23367,7 @@
 					"title": "C) Historisch UND Nachwirkend",
 					"notePosition": 230,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -26419,20 +26890,13 @@
 								"XhFhPRSXJR2p",
 								"MrKP32TxNYy7"
 							],
-							"title": "Libyen (2011)",
+							"title": "Libyen",
 							"notePosition": 50,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "jhxVeYATKfcY",
-									"isInheritable": false,
-									"position": 10
-								},
 								{
 									"type": "label",
 									"name": "color",
@@ -26481,859 +26945,551 @@
 									"value": "Nur Titel/Platzhalter, Inhalt fehlt",
 									"isInheritable": false,
 									"position": 80
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "jhxVeYATKfcY",
+									"isInheritable": false,
+									"position": 90
 								}
 							],
 							"format": "html",
-							"dataFileName": "Libyen (2011).html",
+							"dataFileName": "Libyen.html",
 							"attachments": [],
-							"dirFileName": "Libyen (2011)",
+							"dirFileName": "Libyen",
 							"children": [
 								{
 									"isClone": false,
-									"noteId": "Md6HtT5IPTQs",
+									"noteId": "xKd8VCI1gP3K",
 									"notePath": [
 										"Y9nhGuNYOuEF",
 										"XhFhPRSXJR2p",
 										"MrKP32TxNYy7",
-										"Md6HtT5IPTQs"
+										"xKd8VCI1gP3K"
 									],
-									"title": "NATO-Intervention",
-									"notePosition": 10,
+									"title": "Libyen - Geschichte und Entwicklung",
+									"notePosition": 60,
 									"prefix": null,
 									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "NATO-Intervention",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "PTrBjmOj6yAI",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"Md6HtT5IPTQs",
-												"PTrBjmOj6yAI"
-											],
-											"title": "UN-Resolution 1973 (No-fly)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "UN-Resolution 1973 (No-fly).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "ASKNfpjCaWE4",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"Md6HtT5IPTQs",
-												"ASKNfpjCaWE4"
-											],
-											"title": "Missbrauch für Regime Change",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Missbrauch für Regime Change.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "HuLsieC3X6ip",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"Md6HtT5IPTQs",
-												"HuLsieC3X6ip"
-											],
-											"title": "Russland/China: Nie wieder",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "RusslandChina Nie wieder.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "oxh7Z79KxZGr",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"XhFhPRSXJR2p",
-										"MrKP32TxNYy7",
-										"oxh7Z79KxZGr"
-									],
-									"title": "Gaddafis Ermordung",
-									"notePosition": 20,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Gaddafis Ermordung",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "UDTJXeO9kD0x",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"oxh7Z79KxZGr",
-												"UDTJXeO9kD0x"
-											],
-											"title": "Hillary: We came, we saw, he died",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Hillary We came, we saw, he di.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "NerqcLbJMnKz",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"oxh7Z79KxZGr",
-												"NerqcLbJMnKz"
-											],
-											"title": "Sodomie mit Bajonett",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Sodomie mit Bajonett.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "vHSdCpYbTDhD",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"XhFhPRSXJR2p",
-										"MrKP32TxNYy7",
-										"vHSdCpYbTDhD"
-									],
-									"title": "Konsequenzen",
-									"notePosition": 30,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Konsequenzen",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "1vGckEumrDGJ",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"vHSdCpYbTDhD",
-												"1vGckEumrDGJ"
-											],
-											"title": "Failed State",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Failed State.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "OHwAOQzXON8t",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"vHSdCpYbTDhD",
-												"OHwAOQzXON8t"
-											],
-											"title": "Sklavenmärkte (CNN 2017)",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Sklavenmärkte (CNN 2017).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "pAK8TMkxPYEH",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"vHSdCpYbTDhD",
-												"pAK8TMkxPYEH"
-											],
-											"title": "ISIS-Basis",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "ISIS-Basis.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "xxEzaEauK4Zg",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"vHSdCpYbTDhD",
-												"xxEzaEauK4Zg"
-											],
-											"title": "Migrationskrise Europa",
-											"notePosition": 40,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Migrationskrise Europa.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "xWgtrwLjsWdA",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"XhFhPRSXJR2p",
-												"MrKP32TxNYy7",
-												"vHSdCpYbTDhD",
-												"xWgtrwLjsWdA"
-											],
-											"title": "Destabilisierung tief nach Afrika",
-											"notePosition": 50,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Destabilisierung tief nach Afr.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "TT8LTStZ9VJU",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"XhFhPRSXJR2p",
-										"MrKP32TxNYy7",
-										"TT8LTStZ9VJU"
-									],
-									"title": "Motiv?",
-									"notePosition": 40,
-									"prefix": null,
-									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
 										{
 											"type": "label",
+											"name": "color",
+											"value": "#4de5e6",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
 											"name": "status",
 											"value": "angedacht",
 											"isInheritable": false,
-											"position": 20
+											"position": 30
 										},
 										{
 											"type": "label",
 											"name": "autor",
 											"value": "Milan",
 											"isInheritable": false,
-											"position": 30
+											"position": 40
 										},
 										{
 											"type": "label",
 											"name": "kategorie",
-											"value": "unterkarte",
+											"value": "hauptkarte",
 											"isInheritable": false,
-											"position": 40
+											"position": 50
 										},
 										{
 											"type": "label",
 											"name": "kategorie",
 											"value": "inhalte",
 											"isInheritable": false,
-											"position": 50
+											"position": 60
 										},
 										{
 											"type": "label",
 											"name": "review_kommentar",
 											"value": "Quellen nicht systematisch geprüft",
 											"isInheritable": false,
-											"position": 60
+											"position": 70
 										},
 										{
 											"type": "label",
 											"name": "review_kommentar",
 											"value": "Nur Titel/Platzhalter, Inhalt fehlt",
 											"isInheritable": false,
-											"position": 70
+											"position": 80
 										}
 									],
 									"format": "html",
-									"dataFileName": "Motiv.html",
+									"dataFileName": "Libyen - Geschichte und Entwic.html",
 									"attachments": [],
-									"dirFileName": "Motiv",
+									"dirFileName": "Libyen - Geschichte und Entwicklung",
 									"children": [
 										{
 											"isClone": false,
-											"noteId": "l7DQ0K43HwQR",
+											"noteId": "bsX15nVXFKBN",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"XhFhPRSXJR2p",
 												"MrKP32TxNYy7",
-												"TT8LTStZ9VJU",
-												"l7DQ0K43HwQR"
+												"xKd8VCI1gP3K",
+												"bsX15nVXFKBN"
 											],
-											"title": "Öl",
+											"title": "Quellen zu Libyen/Geschichte",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zu LibyenGeschichte.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "vbN0x1hIjU1C",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"MrKP32TxNYy7",
+										"vbN0x1hIjU1C"
+									],
+									"title": "Gaddafis panafrikanische Politik",
+									"notePosition": 90,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "2YiXeGYLCA9t",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "Gaddafis panafrikanische Polit.html",
+									"attachments": [],
+									"dirFileName": "Gaddafis panafrikanische Politik",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "YutJ3yB631MY",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"vbN0x1hIjU1C",
+												"YutJ3yB631MY"
+											],
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "vEgghWqT2DC7",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"vbN0x1hIjU1C",
+												"vEgghWqT2DC7"
+											],
+											"title": "Quellen zu Gaddafis Panafrikanismus",
 											"notePosition": 20,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
+											"attributes": [],
 											"format": "html",
-											"dataFileName": "Öl.html",
+											"dataFileName": "Quellen zu Gaddafis Panafrikan.html",
 											"attachments": []
-										},
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "eWisjQtyoOht",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"MrKP32TxNYy7",
+										"eWisjQtyoOht"
+									],
+									"title": "Great-Man-Made-River-Projekt",
+									"notePosition": 100,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Great-Man-Made-River-Projekt.html",
+									"attachments": [],
+									"dirFileName": "Great-Man-Made-River-Projekt",
+									"children": [
 										{
 											"isClone": false,
-											"noteId": "C6KgIJho5hBL",
+											"noteId": "4ZMJokVmSmRY",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"XhFhPRSXJR2p",
 												"MrKP32TxNYy7",
-												"TT8LTStZ9VJU",
-												"C6KgIJho5hBL"
+												"eWisjQtyoOht",
+												"4ZMJokVmSmRY"
 											],
-											"title": "Afrika-Investitionen",
-											"notePosition": 30,
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "ZLldKtv78wIn",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"eWisjQtyoOht",
+												"ZLldKtv78wIn"
+											],
+											"title": "Quellen zum GMMR-Project",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zum GMMR-Project.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "RaIs6nzzycFq",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"MrKP32TxNYy7",
+										"RaIs6nzzycFq"
+									],
+									"title": "Gaddafis Gold-Dinar-Plan",
+									"notePosition": 110,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Gaddafis Gold-Dinar-Plan.html",
+									"attachments": [],
+									"dirFileName": "Gaddafis Gold-Dinar-Plan",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "K4QsIbuJ3Pd7",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"RaIs6nzzycFq",
+												"K4QsIbuJ3Pd7"
+											],
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "J5zx1DWQafM3",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"RaIs6nzzycFq",
+												"J5zx1DWQafM3"
+											],
+											"title": "Quellen zum Gold-Dinar",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zum Gold-Dinar.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "wJFf8V4tXfVv",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"MrKP32TxNYy7",
+										"wJFf8V4tXfVv"
+									],
+									"title": "Libyen - Diplomatische Geschichte",
+									"notePosition": 170,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Libyen - Diplomatische Geschic.html",
+									"attachments": [],
+									"dirFileName": "Libyen - Diplomatische Geschichte",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "LmWe4bZ0XKqt",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"wJFf8V4tXfVv",
+												"LmWe4bZ0XKqt"
+											],
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "AbIo2jz3ject",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"wJFf8V4tXfVv",
+												"AbIo2jz3ject"
+											],
+											"title": "Quellen zur Diplomatiegeschichte mit Libyen",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zur Diplomatiegeschich.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "kebdtgbYEARl",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"MrKP32TxNYy7",
+										"kebdtgbYEARl"
+									],
+									"title": "Libyen - Krise und Umsturz",
+									"notePosition": 200,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "jhxVeYATKfcY",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "Libyen - Krise und Umsturz.html",
+									"attachments": [],
+									"dirFileName": "Libyen - Krise und Umsturz",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "nPF9uuiLWzRv",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"kebdtgbYEARl",
+												"nPF9uuiLWzRv"
+											],
+											"title": "Fehlt in westlichen Medien und Diskursen",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Fehlt in westlichen Medien und.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "9WUgwLY7NSVj",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"kebdtgbYEARl",
+												"9WUgwLY7NSVj"
+											],
+											"title": "Quellen zum Umsturz in Libyen",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zum Umsturz in Libyen.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "OWVE3A2MW8fT",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"MrKP32TxNYy7",
+										"OWVE3A2MW8fT"
+									],
+									"title": "Libyen - Folgen bis heute",
+									"notePosition": 210,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Libyen - Folgen bis heute.html",
+									"attachments": [],
+									"dirFileName": "Libyen - Folgen bis heute",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "I9TgiJYOtSbD",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"OWVE3A2MW8fT",
+												"I9TgiJYOtSbD"
+											],
+											"title": "Libyen - Folgen seit 2011",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Libyen - Folgen seit 2011.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "RUYaqrEXwPVV",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"OWVE3A2MW8fT",
+												"RUYaqrEXwPVV"
+											],
+											"title": "Quellen zu den Folgen des Umsturzes",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zu den Folgen des Umst.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "wKKKlMPqIiq6",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"MrKP32TxNYy7",
+										"wKKKlMPqIiq6"
+									],
+									"title": "material_stichworte_Libyen",
+									"notePosition": 220,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "book",
+									"mime": "",
+									"attributes": [],
+									"attachments": [],
+									"dirFileName": "material_stichworte_Libyen",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "TT8LTStZ9VJU",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"wKKKlMPqIiq6",
+												"TT8LTStZ9VJU"
+											],
+											"title": "Motiv?",
+											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
@@ -27344,47 +27500,899 @@
 													"name": "status",
 													"value": "angedacht",
 													"isInheritable": false,
-													"position": 10
+													"position": 20
 												},
 												{
 													"type": "label",
 													"name": "autor",
 													"value": "Milan",
 													"isInheritable": false,
-													"position": 20
+													"position": 30
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "unterkarte",
 													"isInheritable": false,
-													"position": 30
+													"position": 40
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "inhalte",
 													"isInheritable": false,
-													"position": 40
+													"position": 50
 												},
 												{
 													"type": "label",
 													"name": "review_kommentar",
 													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
-													"position": 50
+													"position": 60
 												},
 												{
 													"type": "label",
 													"name": "review_kommentar",
 													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
 													"isInheritable": false,
-													"position": 60
+													"position": 70
 												}
 											],
 											"format": "html",
-											"dataFileName": "Afrika-Investitionen.html",
-											"attachments": []
+											"dataFileName": "Motiv.html",
+											"attachments": [],
+											"dirFileName": "Motiv",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "l7DQ0K43HwQR",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"TT8LTStZ9VJU",
+														"l7DQ0K43HwQR"
+													],
+													"title": "Öl",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Öl.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "C6KgIJho5hBL",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"TT8LTStZ9VJU",
+														"C6KgIJho5hBL"
+													],
+													"title": "Afrika-Investitionen",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Afrika-Investitionen.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "vHSdCpYbTDhD",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"wKKKlMPqIiq6",
+												"vHSdCpYbTDhD"
+											],
+											"title": "Konsequenzen",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"attachments": [],
+											"dirFileName": "Konsequenzen",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "1vGckEumrDGJ",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"vHSdCpYbTDhD",
+														"1vGckEumrDGJ"
+													],
+													"title": "Failed State",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Failed State.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "OHwAOQzXON8t",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"vHSdCpYbTDhD",
+														"OHwAOQzXON8t"
+													],
+													"title": "Sklavenmärkte (CNN 2017)",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Sklavenmärkte (CNN 2017).html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "pAK8TMkxPYEH",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"vHSdCpYbTDhD",
+														"pAK8TMkxPYEH"
+													],
+													"title": "ISIS-Basis",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "ISIS-Basis.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "xxEzaEauK4Zg",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"vHSdCpYbTDhD",
+														"xxEzaEauK4Zg"
+													],
+													"title": "Migrationskrise Europa",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Migrationskrise Europa.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "xWgtrwLjsWdA",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"vHSdCpYbTDhD",
+														"xWgtrwLjsWdA"
+													],
+													"title": "Destabilisierung tief nach Afrika",
+													"notePosition": 50,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Destabilisierung tief nach Afr.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "oxh7Z79KxZGr",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"wKKKlMPqIiq6",
+												"oxh7Z79KxZGr"
+											],
+											"title": "Gaddafis Ermordung",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"attachments": [],
+											"dirFileName": "Gaddafis Ermordung",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "UDTJXeO9kD0x",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"oxh7Z79KxZGr",
+														"UDTJXeO9kD0x"
+													],
+													"title": "Hillary: We came, we saw, he died",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Hillary We came, we saw, he di.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "NerqcLbJMnKz",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"oxh7Z79KxZGr",
+														"NerqcLbJMnKz"
+													],
+													"title": "Sodomie mit Bajonett",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Sodomie mit Bajonett.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "Md6HtT5IPTQs",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"XhFhPRSXJR2p",
+												"MrKP32TxNYy7",
+												"wKKKlMPqIiq6",
+												"Md6HtT5IPTQs"
+											],
+											"title": "NATO-Intervention",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"attachments": [],
+											"dirFileName": "NATO-Intervention",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "PTrBjmOj6yAI",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"Md6HtT5IPTQs",
+														"PTrBjmOj6yAI"
+													],
+													"title": "UN-Resolution 1973 (No-fly)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "UN-Resolution 1973 (No-fly).html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "ASKNfpjCaWE4",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"Md6HtT5IPTQs",
+														"ASKNfpjCaWE4"
+													],
+													"title": "Missbrauch für Regime Change",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Missbrauch für Regime Change.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "HuLsieC3X6ip",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"XhFhPRSXJR2p",
+														"MrKP32TxNYy7",
+														"wKKKlMPqIiq6",
+														"Md6HtT5IPTQs",
+														"HuLsieC3X6ip"
+													],
+													"title": "Russland/China: Nie wieder",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "angedacht",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "RusslandChina Nie wieder.html",
+													"attachments": []
+												}
+											]
 										}
 									]
 								}
@@ -28050,6 +29058,67 @@
 											"attachments": []
 										}
 									]
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "eC0PnnnYsBbP",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"XhFhPRSXJR2p",
+								"eC0PnnnYsBbP"
+							],
+							"title": "Kolonialismus",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"attachments": [],
+							"dirFileName": "Kolonialismus",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "rZfOkuX3ZTXB",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"eC0PnnnYsBbP",
+										"rZfOkuX3ZTXB"
+									],
+									"title": "Themenkonzept Kolonialismus",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Themenkonzept Kolonialismus.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "CIq4iW4lo3Uz",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"XhFhPRSXJR2p",
+										"eC0PnnnYsBbP",
+										"CIq4iW4lo3Uz"
+									],
+									"title": "Francafrique",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Francafrique.html",
+									"attachments": []
 								}
 							]
 						}
