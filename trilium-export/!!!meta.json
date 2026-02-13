@@ -5140,7 +5140,7 @@
 							"title": "Farbrevolutionen",
 							"notePosition": 100,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -5810,7 +5810,7 @@
 									"title": "Andere Beispiele von Interventionen",
 									"notePosition": 170,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -5844,7 +5844,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "ausgearbeitet2",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -7061,7 +7061,7 @@
 							"title": "Internationale Organisationen - Kontrollinstrument-Aspekt",
 							"notePosition": 120,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -7071,6 +7071,34 @@
 									"value": "#4de699",
 									"isInheritable": false,
 									"position": 10
+								},
+								{
+									"type": "label",
+									"name": "status",
+									"value": "angedacht",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "label",
+									"name": "kategorie",
+									"value": "hauptkarte",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "label",
+									"name": "kategorie",
+									"value": "vorbemerkungen",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "label",
+									"name": "autor",
+									"value": "Milan",
+									"isInheritable": false,
+									"position": 60
 								}
 							],
 							"format": "html",
@@ -7093,7 +7121,29 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "status",
+											"value": "sammlung",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
 									"format": "html",
 									"dataFileName": "Themenkonzept.html",
 									"attachments": []
@@ -7110,10 +7160,46 @@
 									"title": "Organisation für Afrikanische Einheit (OAU)",
 									"notePosition": 20,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "hauptkarte",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "vorbemerkungen",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Milan",
+											"isInheritable": false,
+											"position": 50
+										}
+									],
 									"format": "html",
 									"dataFileName": "Organisation für Afrikanische .html",
 									"attachments": [],
@@ -7135,7 +7221,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "inhalte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Geschichte und Struktur der OA.html",
 											"attachments": [],
@@ -7158,7 +7273,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Das Herzstück des neokoloniale.html",
 													"attachments": []
@@ -7180,7 +7324,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Die OAU in der Praxis Erfolge .html",
 													"attachments": []
@@ -7202,7 +7375,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Die OAU als Enabler neokolonia.html",
 													"attachments": []
@@ -7224,7 +7426,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Auflösung und Nachfolge Die Af.html",
 													"attachments": []
@@ -7246,7 +7477,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Die Afrikanische Union (AU) Re.html",
 													"attachments": []
@@ -7268,7 +7528,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "wasfehlt",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
 													"format": "html",
 													"dataFileName": "Was fehlt in der Diskussion.html",
 													"attachments": []
@@ -7290,7 +7579,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "quellen",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
 													"format": "html",
 													"dataFileName": "Quellen zur OAU.html",
 													"attachments": []
@@ -26893,7 +27211,7 @@
 							"title": "Libyen",
 							"notePosition": 50,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -26907,7 +27225,7 @@
 								{
 									"type": "label",
 									"name": "status",
-									"value": "angedacht",
+									"value": "ausgearbeitet1",
 									"isInheritable": false,
 									"position": 30
 								},
@@ -26952,6 +27270,13 @@
 									"value": "jhxVeYATKfcY",
 									"isInheritable": false,
 									"position": 90
+								},
+								{
+									"type": "label",
+									"name": "autor",
+									"value": "Claude",
+									"isInheritable": false,
+									"position": 100
 								}
 							],
 							"format": "html",
@@ -26985,7 +27310,7 @@
 										{
 											"type": "label",
 											"name": "status",
-											"value": "angedacht",
+											"value": "ausgearbeitet1",
 											"isInheritable": false,
 											"position": 30
 										},
@@ -26995,20 +27320,6 @@
 											"value": "Milan",
 											"isInheritable": false,
 											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "hauptkarte",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 60
 										},
 										{
 											"type": "label",
@@ -27023,6 +27334,27 @@
 											"value": "Nur Titel/Platzhalter, Inhalt fehlt",
 											"isInheritable": false,
 											"position": 80
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 90
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 100
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 110
 										}
 									],
 									"format": "html",
@@ -27046,7 +27378,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Quellen zu LibyenGeschichte.html",
 											"attachments": []
@@ -27075,6 +27436,41 @@
 											"value": "2YiXeGYLCA9t",
 											"isInheritable": false,
 											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Milan",
+											"isInheritable": false,
+											"position": 60
 										}
 									],
 									"format": "html",
@@ -27098,7 +27494,43 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "wasfehlt",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 50
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Milan",
+													"isInheritable": false,
+													"position": 60
+												}
+											],
 											"format": "html",
 											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
@@ -27119,7 +27551,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "hauptkarte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 50
+												}
+											],
 											"format": "html",
 											"dataFileName": "Quellen zu Gaddafis Panafrikan.html",
 											"attachments": []
@@ -27141,7 +27602,43 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Milan",
+											"isInheritable": false,
+											"position": 50
+										}
+									],
 									"format": "html",
 									"dataFileName": "Great-Man-Made-River-Projekt.html",
 									"attachments": [],
@@ -27163,7 +27660,43 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "wasfehlt",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Milan",
+													"isInheritable": false,
+													"position": 50
+												}
+											],
 											"format": "html",
 											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
@@ -27184,7 +27717,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Quellen zum GMMR-Project.html",
 											"attachments": []
@@ -27206,7 +27768,43 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Milan",
+											"isInheritable": false,
+											"position": 50
+										}
+									],
 									"format": "html",
 									"dataFileName": "Gaddafis Gold-Dinar-Plan.html",
 									"attachments": [],
@@ -27228,7 +27826,43 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "wasfehlt",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Milan",
+													"isInheritable": false,
+													"position": 50
+												}
+											],
 											"format": "html",
 											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
@@ -27249,7 +27883,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Quellen zum Gold-Dinar.html",
 											"attachments": []
@@ -27271,7 +27934,43 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Milan",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 50
+										}
+									],
 									"format": "html",
 									"dataFileName": "Libyen - Diplomatische Geschic.html",
 									"attachments": [],
@@ -27293,7 +27992,43 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "wasfehlt",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Milan",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 50
+												}
+											],
 											"format": "html",
 											"dataFileName": "Was fehlt in der Diskussion.html",
 											"attachments": []
@@ -27314,7 +28049,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Quellen zur Diplomatiegeschich.html",
 											"attachments": []
@@ -27343,6 +28107,41 @@
 											"value": "jhxVeYATKfcY",
 											"isInheritable": false,
 											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Milan",
+											"isInheritable": false,
+											"position": 60
 										}
 									],
 									"format": "html",
@@ -27366,7 +28165,43 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "wasfehlt",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Milan",
+													"isInheritable": false,
+													"position": 50
+												}
+											],
 											"format": "html",
 											"dataFileName": "Fehlt in westlichen Medien und.html",
 											"attachments": []
@@ -27387,7 +28222,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Quellen zum Umsturz in Libyen.html",
 											"attachments": []
@@ -27409,7 +28273,43 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"attributes": [],
+									"attributes": [
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Milan",
+											"isInheritable": false,
+											"position": 50
+										}
+									],
 									"format": "html",
 									"dataFileName": "Libyen - Folgen bis heute.html",
 									"attachments": [],
@@ -27431,7 +28331,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Milan",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Libyen - Folgen seit 2011.html",
 											"attachments": []
@@ -27452,7 +28381,36 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"attributes": [],
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 40
+												}
+											],
 											"format": "html",
 											"dataFileName": "Quellen zu den Folgen des Umst.html",
 											"attachments": []
