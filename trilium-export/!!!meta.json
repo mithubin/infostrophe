@@ -1680,98 +1680,145 @@
 											"children": [
 												{
 													"isClone": false,
-													"noteId": "z7zK3DDjkdVc",
+													"noteId": "5rzaUVrpU8Bz",
 													"notePath": [
 														"Y9nhGuNYOuEF",
 														"lWAJdyBuSfVz",
 														"yiOs0cBNKAnV",
 														"LXz9gXaH9bte",
 														"Cul5C0teN6FT",
-														"z7zK3DDjkdVc"
+														"5rzaUVrpU8Bz"
 													],
 													"title": "Zensur I - Verbot von Medien",
-													"notePosition": 40,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "underwork",
-															"value": "",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 70
-														}
-													],
-													"format": "html",
-													"dataFileName": "Zensur I - Verbot von Medien.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "cpyAciMwe91s",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"yiOs0cBNKAnV",
-														"LXz9gXaH9bte",
-														"Cul5C0teN6FT",
-														"cpyAciMwe91s"
-													],
-													"title": "Zensur II - Digital Services Act (DSA)",
 													"notePosition": 50,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Zensur I - Verbot von Medien.html",
+													"attachments": [],
+													"dirFileName": "Zensur I - Verbot von Medien",
+													"children": [
 														{
-															"type": "label",
-															"name": "status",
-															"value": "sammlung",
-															"isInheritable": false,
-															"position": 10
+															"isClone": false,
+															"noteId": "xopD6jMfjCjK",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"5rzaUVrpU8Bz",
+																"xopD6jMfjCjK"
+															],
+															"title": "Was fehlt in der Diskussion?",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Was fehlt in der Diskussion.html",
+															"attachments": []
 														},
 														{
-															"type": "label",
-															"name": "autor",
-															"value": "Milan",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 30
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "inhalte",
-															"isInheritable": false,
-															"position": 40
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 50
+															"isClone": false,
+															"noteId": "xzIcFD2obW2K",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"5rzaUVrpU8Bz",
+																"xzIcFD2obW2K"
+															],
+															"title": "Quellen zu Medienverboten",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Quellen zu Medienverboten.html",
+															"attachments": []
 														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "968DFcuVwQ7X",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"yiOs0cBNKAnV",
+														"LXz9gXaH9bte",
+														"Cul5C0teN6FT",
+														"968DFcuVwQ7X"
 													],
+													"title": "Zensur II - Digital Services Act (DSA)",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
 													"format": "html",
 													"dataFileName": "Zensur II - Digital Services A.html",
-													"attachments": []
+													"attachments": [],
+													"dirFileName": "Zensur II - Digital Services Act (DSA)",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "bzNIyrOiwgTv",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"968DFcuVwQ7X",
+																"bzNIyrOiwgTv"
+															],
+															"title": "Was fehlt in der Diskussion?",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Was fehlt in der Diskussion.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "qjIccrEIFBbK",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"968DFcuVwQ7X",
+																"qjIccrEIFBbK"
+															],
+															"title": "Quellen zum DSA",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Quellen zum DSA.html",
+															"attachments": []
+														}
+													]
 												},
 												{
 													"isClone": false,
@@ -1785,9 +1832,9 @@
 														"AtzpRT6Vk4Br"
 													],
 													"title": "Zensur III - EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
-													"notePosition": 61,
+													"notePosition": 81,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -1836,7 +1883,24 @@
 													],
 													"format": "html",
 													"dataFileName": "Zensur III - EU-Sanktionen geg.html",
-													"attachments": [],
+													"attachments": [
+														{
+															"attachmentId": "s7znx6K1L1VG",
+															"title": "claude zu sanktionen der eu 12-25_zumöglichenfolgen.pdf",
+															"role": "file",
+															"mime": "application/pdf",
+															"position": 10,
+															"dataFileName": "Zensur III - EU-Sanktionen.pdf"
+														},
+														{
+															"attachmentId": "u3qmIO7zqVtt",
+															"title": "claude zu sanktionen der eu 12-25.pdf",
+															"role": "file",
+															"mime": "application/pdf",
+															"position": 10,
+															"dataFileName": "1_Zensur III - EU-Sanktionen.pdf"
+														}
+													],
 													"dirFileName": "Zensur III - EU-Sanktionen gegen Privatpersonen wegen Meinungsäußerungen",
 													"children": [
 														{
@@ -2037,120 +2101,40 @@
 												},
 												{
 													"isClone": false,
-													"noteId": "UF6XU2iGn2SJ",
+													"noteId": "oJjpp9f1eGoN",
 													"notePath": [
 														"Y9nhGuNYOuEF",
 														"lWAJdyBuSfVz",
 														"yiOs0cBNKAnV",
 														"LXz9gXaH9bte",
 														"Cul5C0teN6FT",
-														"UF6XU2iGn2SJ"
+														"oJjpp9f1eGoN"
 													],
 													"title": "Zensur IV - Debanking",
-													"notePosition": 71,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "status",
-															"value": "ausgearbeitet2",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Milan",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Claude",
-															"isInheritable": false,
-															"position": 30
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 40
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "inhalte",
-															"isInheritable": false,
-															"position": 50
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 60
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Chat-Format sichtbar (redigieren)",
-															"isInheritable": false,
-															"position": 70
-														}
-													],
-													"format": "html",
-													"dataFileName": "Zensur IV - Debanking.html",
-													"attachments": [
-														{
-															"attachmentId": "TOGUKEVD930d",
-															"title": "deep-gespräch zu revolutbank +DEBANKING.pdf",
-															"role": "file",
-															"mime": "application/pdf",
-															"position": 10,
-															"dataFileName": "Zensur IV - Debanking_deep.pdf"
-														}
-													]
-												},
-												{
-													"isClone": false,
-													"noteId": "XqK20K0h1TSk",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"yiOs0cBNKAnV",
-														"LXz9gXaH9bte",
-														"Cul5C0teN6FT",
-														"XqK20K0h1TSk"
-													],
-													"title": "Zensur - Material_übrig?",
-													"notePosition": 100,
+													"notePosition": 111,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [],
 													"format": "html",
+													"dataFileName": "Zensur IV - Debanking.html",
 													"attachments": [],
-													"dirFileName": "Zensur - Material_übrig",
+													"dirFileName": "Zensur IV - Debanking",
 													"children": [
 														{
 															"isClone": false,
-															"noteId": "chb91p9EArUl",
+															"noteId": "vhZIArHisHQN",
 															"notePath": [
 																"Y9nhGuNYOuEF",
 																"lWAJdyBuSfVz",
 																"yiOs0cBNKAnV",
 																"LXz9gXaH9bte",
 																"Cul5C0teN6FT",
-																"XqK20K0h1TSk",
-																"chb91p9EArUl"
+																"oJjpp9f1eGoN",
+																"vhZIArHisHQN"
 															],
-															"title": "Thierry Breton",
+															"title": "Quellen zum Debanking",
 															"notePosition": 10,
 															"prefix": null,
 															"isExpanded": false,
@@ -2158,339 +2142,102 @@
 															"mime": "text/html",
 															"attributes": [],
 															"format": "html",
-															"attachments": [],
-															"dirFileName": "Thierry Breton",
-															"children": [
-																{
-																	"isClone": false,
-																	"noteId": "lWE0K3ISRbmF",
-																	"notePath": [
-																		"Y9nhGuNYOuEF",
-																		"lWAJdyBuSfVz",
-																		"yiOs0cBNKAnV",
-																		"LXz9gXaH9bte",
-																		"Cul5C0teN6FT",
-																		"XqK20K0h1TSk",
-																		"chb91p9EArUl",
-																		"lWE0K3ISRbmF"
-																	],
-																	"title": "US-Visa-Ban (24. Dez 2025)",
-																	"notePosition": 20,
-																	"prefix": null,
-																	"isExpanded": false,
-																	"type": "text",
-																	"mime": "text/html",
-																	"attributes": [
-																		{
-																			"type": "label",
-																			"name": "status",
-																			"value": "angedacht",
-																			"isInheritable": false,
-																			"position": 10
-																		},
-																		{
-																			"type": "label",
-																			"name": "autor",
-																			"value": "Milan",
-																			"isInheritable": false,
-																			"position": 20
-																		},
-																		{
-																			"type": "label",
-																			"name": "kategorie",
-																			"value": "unterkarte",
-																			"isInheritable": false,
-																			"position": 30
-																		},
-																		{
-																			"type": "label",
-																			"name": "kategorie",
-																			"value": "inhalte",
-																			"isInheritable": false,
-																			"position": 40
-																		},
-																		{
-																			"type": "label",
-																			"name": "review_kommentar",
-																			"value": "Quellen nicht systematisch geprüft",
-																			"isInheritable": false,
-																			"position": 50
-																		},
-																		{
-																			"type": "label",
-																			"name": "review_kommentar",
-																			"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-																			"isInheritable": false,
-																			"position": 60
-																		}
-																	],
-																	"format": "html",
-																	"dataFileName": "US-Visa-Ban (24. Dez 2025).html",
-																	"attachments": []
-																},
-																{
-																	"isClone": false,
-																	"noteId": "Xs5Tx7KnHEyR",
-																	"notePath": [
-																		"Y9nhGuNYOuEF",
-																		"lWAJdyBuSfVz",
-																		"yiOs0cBNKAnV",
-																		"LXz9gXaH9bte",
-																		"Cul5C0teN6FT",
-																		"XqK20K0h1TSk",
-																		"chb91p9EArUl",
-																		"Xs5Tx7KnHEyR"
-																	],
-																	"title": "Mastermind of censorship-industrial complex",
-																	"notePosition": 30,
-																	"prefix": null,
-																	"isExpanded": false,
-																	"type": "text",
-																	"mime": "text/html",
-																	"attributes": [
-																		{
-																			"type": "label",
-																			"name": "status",
-																			"value": "angedacht",
-																			"isInheritable": false,
-																			"position": 10
-																		},
-																		{
-																			"type": "label",
-																			"name": "autor",
-																			"value": "Milan",
-																			"isInheritable": false,
-																			"position": 20
-																		},
-																		{
-																			"type": "label",
-																			"name": "kategorie",
-																			"value": "unterkarte",
-																			"isInheritable": false,
-																			"position": 30
-																		},
-																		{
-																			"type": "label",
-																			"name": "kategorie",
-																			"value": "inhalte",
-																			"isInheritable": false,
-																			"position": 40
-																		},
-																		{
-																			"type": "label",
-																			"name": "review_kommentar",
-																			"value": "Quellen nicht systematisch geprüft",
-																			"isInheritable": false,
-																			"position": 50
-																		},
-																		{
-																			"type": "label",
-																			"name": "review_kommentar",
-																			"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-																			"isInheritable": false,
-																			"position": 60
-																		}
-																	],
-																	"format": "html",
-																	"dataFileName": "Mastermind of censorship-indus.html",
-																	"attachments": []
-																},
-																{
-																	"isClone": false,
-																	"noteId": "3eRmyKwOiqVJ",
-																	"notePath": [
-																		"Y9nhGuNYOuEF",
-																		"lWAJdyBuSfVz",
-																		"yiOs0cBNKAnV",
-																		"LXz9gXaH9bte",
-																		"Cul5C0teN6FT",
-																		"XqK20K0h1TSk",
-																		"chb91p9EArUl",
-																		"3eRmyKwOiqVJ"
-																	],
-																	"title": "Brief an Musk (Aug 2024)",
-																	"notePosition": 40,
-																	"prefix": null,
-																	"isExpanded": false,
-																	"type": "text",
-																	"mime": "text/html",
-																	"attributes": [
-																		{
-																			"type": "label",
-																			"name": "status",
-																			"value": "angedacht",
-																			"isInheritable": false,
-																			"position": 10
-																		},
-																		{
-																			"type": "label",
-																			"name": "autor",
-																			"value": "Milan",
-																			"isInheritable": false,
-																			"position": 20
-																		},
-																		{
-																			"type": "label",
-																			"name": "kategorie",
-																			"value": "unterkarte",
-																			"isInheritable": false,
-																			"position": 30
-																		},
-																		{
-																			"type": "label",
-																			"name": "kategorie",
-																			"value": "inhalte",
-																			"isInheritable": false,
-																			"position": 40
-																		},
-																		{
-																			"type": "label",
-																			"name": "review_kommentar",
-																			"value": "Quellen nicht systematisch geprüft",
-																			"isInheritable": false,
-																			"position": 50
-																		},
-																		{
-																			"type": "label",
-																			"name": "review_kommentar",
-																			"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-																			"isInheritable": false,
-																			"position": 60
-																		}
-																	],
-																	"format": "html",
-																	"dataFileName": "Brief an Musk (Aug 2024).html",
-																	"attachments": []
-																}
-															]
+															"dataFileName": "Quellen zum Debanking.html",
+															"attachments": []
 														},
 														{
 															"isClone": false,
-															"noteId": "uocdlhYDtMTv",
+															"noteId": "HO1sI65hxShC",
 															"notePath": [
 																"Y9nhGuNYOuEF",
 																"lWAJdyBuSfVz",
 																"yiOs0cBNKAnV",
 																"LXz9gXaH9bte",
 																"Cul5C0teN6FT",
-																"XqK20K0h1TSk",
-																"uocdlhYDtMTv"
+																"oJjpp9f1eGoN",
+																"HO1sI65hxShC"
 															],
-															"title": "€120M Strafe gegen X (Twitter)",
+															"title": "Was fehlt in der Diskussion?",
 															"notePosition": 20,
 															"prefix": null,
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [
-																{
-																	"type": "label",
-																	"name": "status",
-																	"value": "angedacht",
-																	"isInheritable": false,
-																	"position": 10
-																},
-																{
-																	"type": "label",
-																	"name": "autor",
-																	"value": "Milan",
-																	"isInheritable": false,
-																	"position": 20
-																},
-																{
-																	"type": "label",
-																	"name": "review_kommentar",
-																	"value": "Quellen nicht systematisch geprüft",
-																	"isInheritable": false,
-																	"position": 30
-																}
-															],
+															"attributes": [],
 															"format": "html",
-															"dataFileName": "€120M Strafe gegen X (Twitter).html",
+															"dataFileName": "Was fehlt in der Diskussion.html",
 															"attachments": []
-														},
+														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "Zl9tFFRpKT02",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"yiOs0cBNKAnV",
+														"LXz9gXaH9bte",
+														"Cul5C0teN6FT",
+														"Zl9tFFRpKT02"
+													],
+													"title": "Zensur V - US-Kongress-Bericht: Dokumentierte Dekade",
+													"notePosition": 150,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Zensur V - US-Kongress-Bericht.html",
+													"attachments": [],
+													"dirFileName": "Zensur V - US-Kongress-Bericht Dokumentierte Dekade",
+													"children": [
 														{
 															"isClone": false,
-															"noteId": "CK2A14aSutNW",
+															"noteId": "04qZg2DdfKNw",
 															"notePath": [
 																"Y9nhGuNYOuEF",
 																"lWAJdyBuSfVz",
 																"yiOs0cBNKAnV",
 																"LXz9gXaH9bte",
 																"Cul5C0teN6FT",
-																"XqK20K0h1TSk",
-																"CK2A14aSutNW"
+																"Zl9tFFRpKT02",
+																"04qZg2DdfKNw"
 															],
-															"title": "EU-Sanktionen gegen kritische Stimmen",
-															"notePosition": 30,
+															"title": "Was fehlt in der Diskussion?",
+															"notePosition": 10,
 															"prefix": null,
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [
-																{
-																	"type": "label",
-																	"name": "status",
-																	"value": "angedacht",
-																	"isInheritable": false,
-																	"position": 10
-																},
-																{
-																	"type": "label",
-																	"name": "autor",
-																	"value": "Milan",
-																	"isInheritable": false,
-																	"position": 20
-																},
-																{
-																	"type": "label",
-																	"name": "kategorie",
-																	"value": "unterkarte",
-																	"isInheritable": false,
-																	"position": 30
-																},
-																{
-																	"type": "label",
-																	"name": "kategorie",
-																	"value": "inhalte",
-																	"isInheritable": false,
-																	"position": 40
-																},
-																{
-																	"type": "label",
-																	"name": "review_kommentar",
-																	"value": "Quellen nicht systematisch geprüft",
-																	"isInheritable": false,
-																	"position": 50
-																},
-																{
-																	"type": "label",
-																	"name": "review_kommentar",
-																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-																	"isInheritable": false,
-																	"position": 60
-																}
-															],
+															"attributes": [],
 															"format": "html",
-															"dataFileName": "EU-Sanktionen gegen kritische .html",
-															"attachments": [
-																{
-																	"attachmentId": "lvOl7PT3T1V4",
-																	"title": "claude zu sanktionen der eu 12-25_zumöglichenfolgen.pdf",
-																	"role": "file",
-																	"mime": "application/pdf",
-																	"position": 10,
-																	"dataFileName": "EU-Sanktionen gegen kritis.pdf"
-																},
-																{
-																	"attachmentId": "NjdkfN6awUqL",
-																	"title": "claude zu sanktionen der eu 12-25.pdf",
-																	"role": "file",
-																	"mime": "application/pdf",
-																	"position": 10,
-																	"dataFileName": "1_EU-Sanktionen gegen kritis.pdf"
-																}
-															]
+															"dataFileName": "Was fehlt in der Diskussion.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "rvdiwU0MWKW6",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"Zl9tFFRpKT02",
+																"rvdiwU0MWKW6"
+															],
+															"title": "Quellen zur US-Kritik",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Quellen zur US-Kritik.html",
+															"attachments": []
 														}
 													]
 												}
