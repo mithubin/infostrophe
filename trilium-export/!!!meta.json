@@ -1640,7 +1640,7 @@
 												{
 													"type": "label",
 													"name": "status",
-													"value": "entwurf",
+													"value": "ausgearbeitet1",
 													"isInheritable": false,
 													"position": 20
 												},
@@ -1653,24 +1653,31 @@
 												},
 												{
 													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
+													"name": "review_kommentar",
+													"value": "Quellen nicht systematisch geprüft",
 													"isInheritable": false,
-													"position": 40
+													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "hauptkarte",
+													"isInheritable": false,
+													"position": 80
 												},
 												{
 													"type": "label",
 													"name": "kategorie",
 													"value": "inhalte",
 													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 60
+													"position": 90
 												}
 											],
 											"format": "html",
@@ -1695,7 +1702,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Zensur I - Verbot von Medien.html",
 													"attachments": [],
@@ -1719,7 +1755,36 @@
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [],
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "wasfehlt",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
 															"format": "html",
 															"dataFileName": "Was fehlt in der Diskussion.html",
 															"attachments": []
@@ -1742,7 +1807,36 @@
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [],
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "quellen",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
 															"format": "html",
 															"dataFileName": "Quellen zu Medienverboten.html",
 															"attachments": []
@@ -1766,7 +1860,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Zensur II - Digital Services A.html",
 													"attachments": [],
@@ -1790,7 +1913,36 @@
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [],
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "wasfehlt",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
 															"format": "html",
 															"dataFileName": "Was fehlt in der Diskussion.html",
 															"attachments": []
@@ -1813,7 +1965,36 @@
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [],
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "quellen",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
 															"format": "html",
 															"dataFileName": "Quellen zum DSA.html",
 															"attachments": []
@@ -1879,6 +2060,13 @@
 															"value": "Quellen nicht systematisch geprüft",
 															"isInheritable": false,
 															"position": 60
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 70
 														}
 													],
 													"format": "html",
@@ -1956,6 +2144,13 @@
 																	"value": "Quellen nicht systematisch geprüft",
 																	"isInheritable": false,
 																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 60
 																}
 															],
 															"format": "html",
@@ -1998,7 +2193,7 @@
 																{
 																	"type": "label",
 																	"name": "status",
-																	"value": "ausgearbeitet2",
+																	"value": "ausgearbeitet1",
 																	"isInheritable": false,
 																	"position": 30
 																},
@@ -2008,6 +2203,20 @@
 																	"value": "kommentiert",
 																	"isInheritable": false,
 																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 60
 																}
 															],
 															"format": "html",
@@ -2113,38 +2322,44 @@
 													"title": "Zensur IV - Debanking",
 													"notePosition": 111,
 													"prefix": null,
-													"isExpanded": false,
+													"isExpanded": true,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Zensur IV - Debanking.html",
 													"attachments": [],
 													"dirFileName": "Zensur IV - Debanking",
 													"children": [
-														{
-															"isClone": false,
-															"noteId": "vhZIArHisHQN",
-															"notePath": [
-																"Y9nhGuNYOuEF",
-																"lWAJdyBuSfVz",
-																"yiOs0cBNKAnV",
-																"LXz9gXaH9bte",
-																"Cul5C0teN6FT",
-																"oJjpp9f1eGoN",
-																"vhZIArHisHQN"
-															],
-															"title": "Quellen zum Debanking",
-															"notePosition": 10,
-															"prefix": null,
-															"isExpanded": false,
-															"type": "text",
-															"mime": "text/html",
-															"attributes": [],
-															"format": "html",
-															"dataFileName": "Quellen zum Debanking.html",
-															"attachments": []
-														},
 														{
 															"isClone": false,
 															"noteId": "HO1sI65hxShC",
@@ -2158,14 +2373,95 @@
 																"HO1sI65hxShC"
 															],
 															"title": "Was fehlt in der Diskussion?",
-															"notePosition": 20,
+															"notePosition": 10,
 															"prefix": null,
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [],
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "wasfehlt",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
 															"format": "html",
 															"dataFileName": "Was fehlt in der Diskussion.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "vhZIArHisHQN",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"yiOs0cBNKAnV",
+																"LXz9gXaH9bte",
+																"Cul5C0teN6FT",
+																"oJjpp9f1eGoN",
+																"vhZIArHisHQN"
+															],
+															"title": "Quellen zum Debanking",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": true,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "quellen",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
+															"format": "html",
+															"dataFileName": "Quellen zum Debanking.html",
 															"attachments": []
 														}
 													]
@@ -2187,7 +2483,36 @@
 													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
-													"attributes": [],
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														}
+													],
 													"format": "html",
 													"dataFileName": "Zensur V - US-Kongress-Bericht.html",
 													"attachments": [],
@@ -2211,7 +2536,36 @@
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [],
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "wasfehlt",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
 															"format": "html",
 															"dataFileName": "Was fehlt in der Diskussion.html",
 															"attachments": []
@@ -2234,7 +2588,36 @@
 															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
-															"attributes": [],
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "quellen",
+																	"isInheritable": false,
+																	"position": 40
+																}
+															],
 															"format": "html",
 															"dataFileName": "Quellen zur US-Kritik.html",
 															"attachments": []
@@ -4887,7 +5270,7 @@
 							"title": "Farbrevolutionen",
 							"notePosition": 100,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -5557,7 +5940,7 @@
 									"title": "Andere Beispiele von Interventionen",
 									"notePosition": 170,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "book",
 									"mime": "",
 									"attributes": [],
@@ -28923,7 +29306,7 @@
 					"title": "Quellenliste",
 					"notePosition": 240,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
