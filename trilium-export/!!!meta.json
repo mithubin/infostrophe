@@ -269,13 +269,6 @@
 								{
 									"type": "relation",
 									"name": "internalLink",
-									"value": "TnCobanrUWMQ",
-									"isInheritable": false,
-									"position": 30
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
 									"value": "QeO3yOaD97mu",
 									"isInheritable": false,
 									"position": 50
@@ -720,6 +713,13 @@
 									"value": "Quellen nicht systematisch geprüft",
 									"isInheritable": false,
 									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "PMTXMLJfutC8",
+									"isInheritable": false,
+									"position": 70
 								}
 							],
 							"format": "html",
@@ -813,7 +813,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -884,7 +884,7 @@
 									"title": "offene Fragen zur EU",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -1626,7 +1626,7 @@
 											"title": "Meinungsäußerung & Zensur",
 											"notePosition": 70,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -2322,7 +2322,7 @@
 													"title": "Zensur IV - Debanking",
 													"notePosition": 111,
 													"prefix": null,
-													"isExpanded": true,
+													"isExpanded": false,
 													"type": "text",
 													"mime": "text/html",
 													"attributes": [
@@ -2427,7 +2427,7 @@
 															"title": "Quellen zum Debanking",
 															"notePosition": 20,
 															"prefix": null,
-															"isExpanded": true,
+															"isExpanded": false,
 															"type": "text",
 															"mime": "text/html",
 															"attributes": [
@@ -2708,6 +2708,71 @@
 												},
 												{
 													"isClone": false,
+													"noteId": "hbGkNz5SIv4j",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"yiOs0cBNKAnV",
+														"LXz9gXaH9bte",
+														"gzmBrcjk0gWR",
+														"hbGkNz5SIv4j"
+													],
+													"title": "Quellen zu EU-Einflussnahme auf Wahlen",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 60
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "quellen",
+															"isInheritable": false,
+															"position": 70
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen noch nicht geprüft",
+															"isInheritable": false,
+															"position": 80
+														}
+													],
+													"format": "html",
+													"dataFileName": "Quellen zu EU-Einflussnahme au.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
 													"noteId": "IOG87kiqs8kH",
 													"notePath": [
 														"Y9nhGuNYOuEF",
@@ -2718,7 +2783,7 @@
 														"IOG87kiqs8kH"
 													],
 													"title": "Hintergründe zu v.a. Georgien",
-													"notePosition": 60,
+													"notePosition": 80,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "book",
@@ -3127,71 +3192,6 @@
 												},
 												{
 													"isClone": false,
-													"noteId": "hbGkNz5SIv4j",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"yiOs0cBNKAnV",
-														"LXz9gXaH9bte",
-														"gzmBrcjk0gWR",
-														"hbGkNz5SIv4j"
-													],
-													"title": "Quellen zu EU-Einflussnahme auf Wahlen",
-													"notePosition": 70,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "status",
-															"value": "ausgearbeitet1",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Claude",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 50
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 60
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "quellen",
-															"isInheritable": false,
-															"position": 70
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen noch nicht geprüft",
-															"isInheritable": false,
-															"position": 80
-														}
-													],
-													"format": "html",
-													"dataFileName": "Quellen zu EU-Einflussnahme au.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
 													"noteId": "yZ0P3SOHT63I",
 													"notePath": [
 														"Y9nhGuNYOuEF",
@@ -3202,7 +3202,7 @@
 														"yZ0P3SOHT63I"
 													],
 													"title": "Quellen zu Hintergründen (EU-Wahleinflussnahme)",
-													"notePosition": 80,
+													"notePosition": 90,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
@@ -3274,13 +3274,6 @@
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
-												{
-													"type": "relation",
-													"name": "internalLink",
-													"value": "TnCobanrUWMQ",
-													"isInheritable": false,
-													"position": 10
-												},
 												{
 													"type": "label",
 													"name": "color",
@@ -3504,6 +3497,13 @@
 																			"value": "Milan",
 																			"isInheritable": false,
 																			"position": 40
+																		},
+																		{
+																			"type": "relation",
+																			"name": "internalLink",
+																			"value": "ocoUjZWyNzSb",
+																			"isInheritable": false,
+																			"position": 50
 																		}
 																	],
 																	"format": "html",
@@ -7182,6 +7182,401 @@
 						},
 						{
 							"isClone": false,
+							"noteId": "WebGDhCCGH1Y",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"WebGDhCCGH1Y"
+							],
+							"title": "Manipulationswissenschaft",
+							"notePosition": 120,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Manipulationswissenschaft.html",
+							"attachments": [],
+							"dirFileName": "Manipulationswissenschaft",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "tUcASpiriIWp",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"tUcASpiriIWp"
+									],
+									"title": "Manipulation I - Werbung & Marketing",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation I - Werbung & Mar.html",
+									"attachments": [],
+									"dirFileName": "Manipulation I - Werbung & Marketing",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "7eVCtK7xrGHd",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"tUcASpiriIWp",
+												"7eVCtK7xrGHd"
+											],
+											"title": "Was fehlt in der Diskussion?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Was fehlt in der Diskussion.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "Jxx5YFJAgPIG",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"tUcASpiriIWp",
+												"Jxx5YFJAgPIG"
+											],
+											"title": "Quellen zu Werbung & Marketing",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zu Werbung & Marketing.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "z3c1NDBv1Ioq",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"z3c1NDBv1Ioq"
+									],
+									"title": "Manipulation II - Propaganda (die der Anderen)",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation II - Propaganda (.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "GpDxVqBXWjAs",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"GpDxVqBXWjAs"
+									],
+									"title": "Manipulation III - PR-Industrie & Agenturen",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation III - PR-Industri.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "mEZZlQ6sEC9q",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"mEZZlQ6sEC9q"
+									],
+									"title": "Manipulation IV - Nudging & Verhaltensökonomie",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation IV - Nudging & Ve.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "oyc1hpwq7ojC",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"oyc1hpwq7ojC"
+									],
+									"title": "Manipulation V - Fact-Checking & Astroturfing",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation V - Fact-Checking.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "B3Sazp5WbTLL",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"B3Sazp5WbTLL"
+									],
+									"title": "Manipulation VI - Medienstrukturen & Eigentümer",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation VI - Medienstrukt.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "ZPsjUNVsO8ap",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"ZPsjUNVsO8ap"
+									],
+									"title": "Manipulation VII - Fragmentierung",
+									"notePosition": 70,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation VII - Fragmentier.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "qINR2kmcOtOj",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"qINR2kmcOtOj"
+									],
+									"title": "Manipulation - Schlüsselfiguren: Das humane Gerüst",
+									"notePosition": 80,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Manipulation - Schlüsselfigure.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "aGrYSnxtfhHq",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"aGrYSnxtfhHq"
+									],
+									"title": "konzipiert:",
+									"notePosition": 90,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "konzipiert",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "4lbthBdjy29Z",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"aGrYSnxtfhHq",
+												"4lbthBdjy29Z"
+											],
+											"title": "Rethorik",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Rethorik.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "PfetUjfOxVg0",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"aGrYSnxtfhHq",
+												"PfetUjfOxVg0"
+											],
+											"title": "Propaganda",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Propaganda.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "5Zi0iV4MFAue",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"aGrYSnxtfhHq",
+												"5Zi0iV4MFAue"
+											],
+											"title": "PR-Agenturen",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "PR-Agenturen.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "hl8kS2p00FuU",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"aGrYSnxtfhHq",
+												"hl8kS2p00FuU"
+											],
+											"title": "Kommunikationstaktiken",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Kommunikationstaktiken.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "Dw95jP54l4T6",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"aGrYSnxtfhHq",
+												"Dw95jP54l4T6"
+											],
+											"title": "Heilsame Wege",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Heilsame Wege.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "Itueb6OM5T3K",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"WebGDhCCGH1Y",
+												"aGrYSnxtfhHq",
+												"Itueb6OM5T3K"
+											],
+											"title": "Quellen und Literatur",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen und Literatur.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "jstrbW1ky0B2",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"WebGDhCCGH1Y",
+										"jstrbW1ky0B2"
+									],
+									"title": "Zusammenhangtheorien",
+									"notePosition": 160,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Zusammenhangtheorien.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
 							"noteId": "niBnJeyRyP0R",
 							"notePath": [
 								"Y9nhGuNYOuEF",
@@ -7189,7 +7584,7 @@
 								"niBnJeyRyP0R"
 							],
 							"title": "Internationale Organisationen - Kontrollinstrument-Aspekt",
-							"notePosition": 120,
+							"notePosition": 130,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -7758,9 +8153,9 @@
 								"styqig7L0Wmj"
 							],
 							"title": "Globale Finanzverhältnisse",
-							"notePosition": 170,
+							"notePosition": 180,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -12049,2564 +12444,6 @@
 						},
 						{
 							"isClone": false,
-							"noteId": "TnCobanrUWMQ",
-							"notePath": [
-								"Y9nhGuNYOuEF",
-								"lWAJdyBuSfVz",
-								"TnCobanrUWMQ"
-							],
-							"title": "Ukraine-Russland-Krieg",
-							"notePosition": 370,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"attributes": [
-								{
-									"type": "label",
-									"name": "viewType",
-									"value": "list",
-									"isInheritable": false,
-									"position": 10
-								},
-								{
-									"type": "relation",
-									"name": "internalLink",
-									"value": "O2fACFnlPoHu",
-									"isInheritable": false,
-									"position": 20
-								},
-								{
-									"type": "label",
-									"name": "color",
-									"value": "#4de699",
-									"isInheritable": false,
-									"position": 30
-								},
-								{
-									"type": "label",
-									"name": "status",
-									"value": "entwurf",
-									"isInheritable": false,
-									"position": 40
-								},
-								{
-									"type": "label",
-									"name": "autor",
-									"value": "Milan",
-									"isInheritable": false,
-									"position": 50
-								},
-								{
-									"type": "label",
-									"name": "kategorie",
-									"value": "hauptkarte",
-									"isInheritable": false,
-									"position": 60
-								},
-								{
-									"type": "label",
-									"name": "kategorie",
-									"value": "inhalte",
-									"isInheritable": false,
-									"position": 70
-								},
-								{
-									"type": "label",
-									"name": "review_kommentar",
-									"value": "Quellen nicht systematisch geprüft",
-									"isInheritable": false,
-									"position": 80
-								}
-							],
-							"format": "html",
-							"dataFileName": "Ukraine-Russland-Krieg.html",
-							"attachments": [
-								{
-									"attachmentId": "BMqkfnVqIGx6",
-									"title": "deep zur RBW-China-Russland-Ukraine.pdf",
-									"role": "file",
-									"mime": "application/pdf",
-									"position": 10,
-									"dataFileName": "Ukraine-Russland-Krieg_dee.pdf"
-								}
-							],
-							"dirFileName": "Ukraine-Russland-Krieg",
-							"children": [
-								{
-									"isClone": false,
-									"noteId": "fm8DQB2UgQ2S",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"fm8DQB2UgQ2S"
-									],
-									"title": "Vorgeschichte",
-									"notePosition": 10,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Vorgeschichte",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "4Vg6yUzv6q8d",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"fm8DQB2UgQ2S",
-												"4Vg6yUzv6q8d"
-											],
-											"title": "Orange Revolution (2004)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Orange Revolution (2004).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "qOwzVIakMrNC",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"fm8DQB2UgQ2S",
-												"qOwzVIakMrNC"
-											],
-											"title": "Euromaidan (Nov 2013 - Feb 2014)",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"attachments": [],
-											"dirFileName": "Euromaidan (Nov 2013 - Feb 2014)",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "SjQvAohNrnWN",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"TnCobanrUWMQ",
-														"fm8DQB2UgQ2S",
-														"qOwzVIakMrNC",
-														"SjQvAohNrnWN"
-													],
-													"title": "Nuland-Pyatt Fuck the EU",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "status",
-															"value": "angedacht",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Milan",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 30
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "inhalte",
-															"isInheritable": false,
-															"position": 40
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 50
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-															"isInheritable": false,
-															"position": 60
-														}
-													],
-													"format": "html",
-													"dataFileName": "Nuland-Pyatt Fuck the EU.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "1pvWirxtAKUg",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"TnCobanrUWMQ",
-														"fm8DQB2UgQ2S",
-														"qOwzVIakMrNC",
-														"1pvWirxtAKUg"
-													],
-													"title": "Scharfschützen 20. Feb 2014",
-													"notePosition": 20,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "status",
-															"value": "angedacht",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Milan",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 30
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "inhalte",
-															"isInheritable": false,
-															"position": 40
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 50
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-															"isInheritable": false,
-															"position": 60
-														}
-													],
-													"format": "html",
-													"dataFileName": "Scharfschützen 20. Feb 2014.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "3fKS7oK7NhTO",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"TnCobanrUWMQ",
-														"fm8DQB2UgQ2S",
-														"qOwzVIakMrNC",
-														"3fKS7oK7NhTO"
-													],
-													"title": "Janukowitsch-Flucht",
-													"notePosition": 30,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "status",
-															"value": "angedacht",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Milan",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 30
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "inhalte",
-															"isInheritable": false,
-															"position": 40
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 50
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-															"isInheritable": false,
-															"position": 60
-														}
-													],
-													"format": "html",
-													"dataFileName": "Janukowitsch-Flucht.html",
-													"attachments": []
-												},
-												{
-													"isClone": false,
-													"noteId": "xvigcz25YYUS",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"TnCobanrUWMQ",
-														"fm8DQB2UgQ2S",
-														"qOwzVIakMrNC",
-														"xvigcz25YYUS"
-													],
-													"title": "Odessa 2. Mai 2014",
-													"notePosition": 40,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "status",
-															"value": "angedacht",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Milan",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 30
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "inhalte",
-															"isInheritable": false,
-															"position": 40
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 50
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-															"isInheritable": false,
-															"position": 60
-														}
-													],
-													"format": "html",
-													"dataFileName": "Odessa 2. Mai 2014.html",
-													"attachments": []
-												}
-											]
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "pSdDycIx7gDo",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"pSdDycIx7gDo"
-									],
-									"title": "NATO-Expansion",
-									"notePosition": 20,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "NATO-Expansion",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "NsjWBM5Jal6K",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"pSdDycIx7gDo",
-												"NsjWBM5Jal6K"
-											],
-											"title": "Broken Promises (1990)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Broken Promises (1990).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "RaPN9naC4h66",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"pSdDycIx7gDo",
-												"RaPN9naC4h66"
-											],
-											"title": "Bucharest Summit 2008",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Bucharest Summit 2008.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "8vzajqkYz2Ap",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"pSdDycIx7gDo",
-												"8vzajqkYz2Ap"
-											],
-											"title": "Not one inch eastward",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Not one inch eastward.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "fRFcKT4T5sH3",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"fRFcKT4T5sH3"
-									],
-									"title": "Bürgerkrieg Donbass (2014-2022)",
-									"notePosition": 30,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Bürgerkrieg Donbass (2014-2022)",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "3SjZIVVsWAL0",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"fRFcKT4T5sH3",
-												"3SjZIVVsWAL0"
-											],
-											"title": "14.000 Tote vor Feb 2022",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "14.000 Tote vor Feb 2022.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "uYulhAca7Tuf",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"uYulhAca7Tuf"
-									],
-									"title": "Minsk-Abkommen: Zeitgewinn für Ukraine-Bewaffnung",
-									"notePosition": 50,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#e6994d",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "aus",
-											"value": "",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "status",
-											"value": "ausgearbeitet1",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Claude",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 60
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 70
-										}
-									],
-									"format": "html",
-									"dataFileName": "Minsk-Abkommen Zeitgewinn für .html",
-									"attachments": [],
-									"dirFileName": "Minsk-Abkommen Zeitgewinn für Ukraine-Bewaffnung",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "qvqaq7gTbXV2",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"uYulhAca7Tuf",
-												"qvqaq7gTbXV2"
-											],
-											"title": "Was fehlt zu den Minsk-Abkommen?",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "ausgearbeitet1",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Claude",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "wasfehlt",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												}
-											],
-											"format": "html",
-											"dataFileName": "Was fehlt zu den Minsk-Abkomme.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "K7eldk3B4NiK",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"uYulhAca7Tuf",
-												"K7eldk3B4NiK"
-											],
-											"title": "Quellen zu den Minsk-Abkommen",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "ausgearbeitet1",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Claude",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 60
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "quellen",
-													"isInheritable": false,
-													"position": 70
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 80
-												}
-											],
-											"format": "html",
-											"dataFileName": "Quellen zu den Minsk-Abkommen.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "wFvFSrhCR7TY",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"wFvFSrhCR7TY"
-									],
-									"title": "Nord Stream-Sprengung 2022: Wechselnde Narrative",
-									"notePosition": 60,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "au",
-											"value": "",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#e6994d",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "ausgearbeitet",
-											"value": "",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "status",
-											"value": "ausgearbeitet1",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Claude",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 60
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 70
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 80
-										}
-									],
-									"format": "html",
-									"dataFileName": "Nord Stream-Sprengung 2022 Wec.html",
-									"attachments": [],
-									"dirFileName": "Nord Stream-Sprengung 2022 Wechselnde Narrative",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "p1mZUUrkJ1lL",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"wFvFSrhCR7TY",
-												"p1mZUUrkJ1lL"
-											],
-											"title": "Was fehlt in der Diskussion?",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [],
-											"format": "html",
-											"dataFileName": "Was fehlt in der Diskussion.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "r0z1WVwwxBDz",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"wFvFSrhCR7TY",
-												"r0z1WVwwxBDz"
-											],
-											"title": "Quellen: Nord Stream-Sprengung",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "ausgearbeitet1",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Claude",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 60
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "quellen",
-													"isInheritable": false,
-													"position": 70
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 80
-												}
-											],
-											"format": "html",
-											"dataFileName": "Quellen Nord Stream-Sprengung.html",
-											"attachments": [
-												{
-													"attachmentId": "FqhkErK58svv",
-													"title": "Hersh20230208-How-America-Took-Out-The-Nord-Stream-Pipeline.pdf",
-													"role": "file",
-													"mime": "application/pdf",
-													"position": 10,
-													"dataFileName": "Quellen Nord Stream-Spreng.pdf"
-												}
-											]
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "IBZH4SUUvf37",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"IBZH4SUUvf37"
-									],
-									"title": "Nordstream-Sprengung (Sept 2022)",
-									"notePosition": 70,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "status",
-											"value": "entwurf",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Milan",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 50
-										}
-									],
-									"format": "html",
-									"dataFileName": "Nordstream-Sprengung (Sept 202.html",
-									"attachments": [],
-									"dirFileName": "Nordstream-Sprengung (Sept 2022)",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "OmD252jA4BoD",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"IBZH4SUUvf37",
-												"OmD252jA4BoD"
-											],
-											"title": "5 Repräsentative Quellen zum Mainstream-Narrativ",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "ausgearbeitet1",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Claude",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 60
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "quellen",
-													"isInheritable": false,
-													"position": 70
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen noch nicht geprüft",
-													"isInheritable": false,
-													"position": 80
-												}
-											],
-											"format": "html",
-											"dataFileName": "5 Repräsentative Quellen zum M.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "43QxhyibwG3H",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"IBZH4SUUvf37",
-												"43QxhyibwG3H"
-											],
-											"title": "Chronologie der Berichterstattung",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "ausgearbeitet1",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Claude",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												}
-											],
-											"format": "html",
-											"dataFileName": "Chronologie der Berichterstatt.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "me4jfCQqcm2o",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"IBZH4SUUvf37",
-												"me4jfCQqcm2o"
-											],
-											"title": "Kaum diskutierte Aspekte",
-											"notePosition": 40,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "sammlung",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Claude",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "wasfehlt",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												}
-											],
-											"format": "html",
-											"dataFileName": "Kaum diskutierte Aspekte.html",
-											"attachments": [
-												{
-													"attachmentId": "ihkFsiZ2raaN",
-													"title": "Hersh20230208-How-America-Took-Out-The-Nord-Stream-Pipeline.pdf",
-													"role": "file",
-													"mime": "application/pdf",
-													"position": 10,
-													"dataFileName": "Kaum diskutierte Aspekte_H.pdf"
-												}
-											],
-											"dirFileName": "Kaum diskutierte Aspekte",
-											"children": [
-												{
-													"isClone": false,
-													"noteId": "yet2NKAXlno9",
-													"notePath": [
-														"Y9nhGuNYOuEF",
-														"lWAJdyBuSfVz",
-														"TnCobanrUWMQ",
-														"IBZH4SUUvf37",
-														"me4jfCQqcm2o",
-														"yet2NKAXlno9"
-													],
-													"title": "Quellen zu den fehlenden Aspekten",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"attributes": [
-														{
-															"type": "label",
-															"name": "status",
-															"value": "ausgearbeitet1",
-															"isInheritable": false,
-															"position": 10
-														},
-														{
-															"type": "label",
-															"name": "autor",
-															"value": "Claude",
-															"isInheritable": false,
-															"position": 20
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen nicht systematisch geprüft",
-															"isInheritable": false,
-															"position": 50
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "unterkarte",
-															"isInheritable": false,
-															"position": 60
-														},
-														{
-															"type": "label",
-															"name": "kategorie",
-															"value": "quellen",
-															"isInheritable": false,
-															"position": 70
-														},
-														{
-															"type": "label",
-															"name": "review_kommentar",
-															"value": "Quellen noch nicht geprüft",
-															"isInheritable": false,
-															"position": 80
-														}
-													],
-													"format": "html",
-													"dataFileName": "Quellen zu den fehlenden Aspek.html",
-													"attachments": []
-												}
-											]
-										},
-										{
-											"isClone": false,
-											"noteId": "ReDRqiC2PQ55",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"IBZH4SUUvf37",
-												"ReDRqiC2PQ55"
-											],
-											"title": "Schlussfolgerung?",
-											"notePosition": 50,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "entwurf",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "fazit",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												}
-											],
-											"format": "html",
-											"dataFileName": "Schlussfolgerung.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "5IB6pINXp3Bg",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"5IB6pINXp3Bg"
-									],
-									"title": "Russische Invasion (24. Feb 2022)",
-									"notePosition": 90,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "status",
-											"value": "angedacht",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Milan",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-											"isInheritable": false,
-											"position": 60
-										}
-									],
-									"format": "html",
-									"dataFileName": "Russische Invasion (24. Feb 20.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "r77gRuqPIX9x",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"r77gRuqPIX9x"
-									],
-									"title": "Personen ukrainisches Establishment",
-									"notePosition": 100,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Personen ukrainisches Establishment",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "zwmwnw5TnZO0",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"r77gRuqPIX9x",
-												"zwmwnw5TnZO0"
-											],
-											"title": "Leonid Krawchuk (1991-1994)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Leonid Krawchuk (1991-1994).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "VPv0shj8ZB92",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"r77gRuqPIX9x",
-												"VPv0shj8ZB92"
-											],
-											"title": "Leonid Kutschma (1994-2005)",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Leonid Kutschma (1994-2005).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "ZIaTT7Ug5KYV",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"r77gRuqPIX9x",
-												"ZIaTT7Ug5KYV"
-											],
-											"title": "Viktor Juschtschenko (2005-2010, Orange Revolution)",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Viktor Juschtschenko (2005-201.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "aS3MrrzzoRe8",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"r77gRuqPIX9x",
-												"aS3MrrzzoRe8"
-											],
-											"title": "Viktor Janukowitsch (2010-2014, Flucht)",
-											"notePosition": 40,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Viktor Janukowitsch (2010-2014.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "auf5C92rfznE",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"r77gRuqPIX9x",
-												"auf5C92rfznE"
-											],
-											"title": "Petro Poroschenko (2014-2019)",
-											"notePosition": 50,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Petro Poroschenko (2014-2019).html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "6xcHFBcq53GF",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"r77gRuqPIX9x",
-												"6xcHFBcq53GF"
-											],
-											"title": "Wolodymyr Selenskyj (2019-heute)",
-											"notePosition": 60,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Wolodymyr Selenskyj (2019-heut.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "OJWwgxb6YEKg",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"OJWwgxb6YEKg"
-									],
-									"title": "Oligarchen",
-									"notePosition": 110,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [],
-									"format": "html",
-									"attachments": [],
-									"dirFileName": "Oligarchen",
-									"children": [
-										{
-											"isClone": false,
-											"noteId": "bVO9HMlCR6t8",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"OJWwgxb6YEKg",
-												"bVO9HMlCR6t8"
-											],
-											"title": "Rinat Achmetow (Stahl/Kohle, reichster Mann)",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Rinat Achmetow (StahlKohle, re.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "tTClVkEXHkg6",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"OJWwgxb6YEKg",
-												"tTClVkEXHkg6"
-											],
-											"title": "Ihor Kolomoisky (1+1 Media, Burisma, seit 2023 inhaftiert)",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Ihor Kolomoisky (1+1 Media, Bu.html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "oCMSYAku2QbT",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"OJWwgxb6YEKg",
-												"oCMSYAku2QbT"
-											],
-											"title": "Viktor Pintschuk (Stahlrohre, Medien)",
-											"notePosition": 30,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Viktor Pintschuk (Stahlrohre, .html",
-											"attachments": []
-										},
-										{
-											"isClone": false,
-											"noteId": "AlFOzVl3omJV",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"TnCobanrUWMQ",
-												"OJWwgxb6YEKg",
-												"AlFOzVl3omJV"
-											],
-											"title": "Dmytro Firtasch (Gas, seit 2014 Wien)",
-											"notePosition": 40,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "label",
-													"name": "status",
-													"value": "angedacht",
-													"isInheritable": false,
-													"position": 10
-												},
-												{
-													"type": "label",
-													"name": "autor",
-													"value": "Milan",
-													"isInheritable": false,
-													"position": 20
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "unterkarte",
-													"isInheritable": false,
-													"position": 30
-												},
-												{
-													"type": "label",
-													"name": "kategorie",
-													"value": "inhalte",
-													"isInheritable": false,
-													"position": 40
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Quellen nicht systematisch geprüft",
-													"isInheritable": false,
-													"position": 50
-												},
-												{
-													"type": "label",
-													"name": "review_kommentar",
-													"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-													"isInheritable": false,
-													"position": 60
-												}
-											],
-											"format": "html",
-											"dataFileName": "Dmytro Firtasch (Gas, seit 201.html",
-											"attachments": []
-										}
-									]
-								},
-								{
-									"isClone": false,
-									"noteId": "MfpWqzZJrix8",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"MfpWqzZJrix8"
-									],
-									"title": "Hunter Biden & Burisma (ab April 2014)",
-									"notePosition": 120,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "status",
-											"value": "angedacht",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Milan",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-											"isInheritable": false,
-											"position": 60
-										}
-									],
-									"format": "html",
-									"dataFileName": "Hunter Biden & Burisma (ab Apr.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "V9wCuyQpR5HU",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"V9wCuyQpR5HU"
-									],
-									"title": "Joe Biden & Schokin-Entlassung (2016)",
-									"notePosition": 130,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "status",
-											"value": "angedacht",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Milan",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-											"isInheritable": false,
-											"position": 60
-										}
-									],
-									"format": "html",
-									"dataFileName": "Joe Biden & Schokin-Entlassung.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "bJKSqLORatTZ",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"bJKSqLORatTZ"
-									],
-									"title": "Geoffrey Pyatt (US-Botschafter 2013-2016)",
-									"notePosition": 140,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "status",
-											"value": "angedacht",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Milan",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-											"isInheritable": false,
-											"position": 60
-										}
-									],
-									"format": "html",
-									"dataFileName": "Geoffrey Pyatt (US-Botschafter.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "xHw9lrPUIUNX",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"xHw9lrPUIUNX"
-									],
-									"title": "Victoria Nuland (US-Staatssekretärin)",
-									"notePosition": 150,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "status",
-											"value": "angedacht",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Milan",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Nur Titel/Platzhalter, Inhalt fehlt",
-											"isInheritable": false,
-											"position": 60
-										}
-									],
-									"format": "html",
-									"dataFileName": "Victoria Nuland (US-Staatssekr.html",
-									"attachments": []
-								},
-								{
-									"isClone": false,
-									"noteId": "2BqbV7RIfotm",
-									"notePath": [
-										"Y9nhGuNYOuEF",
-										"lWAJdyBuSfVz",
-										"TnCobanrUWMQ",
-										"2BqbV7RIfotm"
-									],
-									"title": "Neocons",
-									"notePosition": 151,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"attributes": [
-										{
-											"type": "label",
-											"name": "status",
-											"value": "ausgearbeitet2",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Milan",
-											"isInheritable": false,
-											"position": 20
-										},
-										{
-											"type": "label",
-											"name": "autor",
-											"value": "Claude",
-											"isInheritable": false,
-											"position": 30
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "unterkarte",
-											"isInheritable": false,
-											"position": 40
-										},
-										{
-											"type": "label",
-											"name": "kategorie",
-											"value": "inhalte",
-											"isInheritable": false,
-											"position": 50
-										},
-										{
-											"type": "label",
-											"name": "review_kommentar",
-											"value": "Quellen nicht systematisch geprüft",
-											"isInheritable": false,
-											"position": 60
-										}
-									],
-									"format": "html",
-									"dataFileName": "Neocons.html",
-									"attachments": []
-								}
-							]
-						},
-						{
-							"isClone": false,
 							"noteId": "jIq54pBixtUm",
 							"notePath": [
 								"Y9nhGuNYOuEF",
@@ -14614,7 +12451,7 @@
 								"jIq54pBixtUm"
 							],
 							"title": "Israel-Palästina-Komplex, Gaza-Krieg",
-							"notePosition": 380,
+							"notePosition": 390,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -14789,13 +12626,6 @@
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
-										{
-											"type": "relation",
-											"name": "internalLink",
-											"value": "TnCobanrUWMQ",
-											"isInheritable": false,
-											"position": 10
-										},
 										{
 											"type": "relation",
 											"name": "internalLink",
@@ -16120,7 +13950,7 @@
 								"zUxzquhF2AnU"
 							],
 							"title": "USA-Venezuela",
-							"notePosition": 390,
+							"notePosition": 400,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -16699,7 +14529,7 @@
 								"3DvikU3hVkb6"
 							],
 							"title": "Iran-Komplex",
-							"notePosition": 410,
+							"notePosition": 420,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -16732,13 +14562,6 @@
 									"value": "ainCVKwxKtby",
 									"isInheritable": false,
 									"position": 50
-								},
-								{
-									"type": "label",
-									"name": "color",
-									"value": "#4de5e6",
-									"isInheritable": false,
-									"position": 60
 								},
 								{
 									"type": "label",
@@ -17240,7 +15063,7 @@
 								"lbE81WKVDr24"
 							],
 							"title": "Überwachung & Big-Tech-Zensur",
-							"notePosition": 420,
+							"notePosition": 430,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -20052,6 +17875,2788 @@
 									]
 								}
 							]
+						},
+						{
+							"isClone": false,
+							"noteId": "q1cWukf2qAes",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"lWAJdyBuSfVz",
+								"q1cWukf2qAes"
+							],
+							"title": "Ukraine-Russland - viel vollständigere Geschichte",
+							"notePosition": 440,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "color",
+									"value": "#4de699",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "O2fACFnlPoHu",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"format": "html",
+							"dataFileName": "Ukraine-Russland - viel vollst.html",
+							"attachments": [
+								{
+									"attachmentId": "kYgAItmRCdFo",
+									"title": "deep zur RBW-China-Russland-Ukraine.pdf",
+									"role": "file",
+									"mime": "application/pdf",
+									"position": 10,
+									"dataFileName": "Ukraine-Russland - viel vo.pdf"
+								}
+							],
+							"dirFileName": "Ukraine-Russland - viel vollständigere Geschichte",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "A7MwpC6tU2PH",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"A7MwpC6tU2PH"
+									],
+									"title": "Frühere Geschichte, Kiever Rus bis 1991",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "XXjLOLPzUWiX",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "C4xIBDhoMkph",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "WPQVb1fUbBU7",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
+									"format": "html",
+									"dataFileName": "Frühere Geschichte, Kiever Rus.html",
+									"attachments": [],
+									"dirFileName": "Frühere Geschichte, Kiever Rus bis 1991",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "XXjLOLPzUWiX",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"A7MwpC6tU2PH",
+												"XXjLOLPzUWiX"
+											],
+											"title": "Holodomor 1932/33",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Holodomor 193233.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "C4xIBDhoMkph",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"A7MwpC6tU2PH",
+												"C4xIBDhoMkph"
+											],
+											"title": "OUN/Bandera: Kollaboration, Verbrechen, Mythos",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "OUNBandera Kollaboration, Verb.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "WPQVb1fUbBU7",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"A7MwpC6tU2PH",
+												"WPQVb1fUbBU7"
+											],
+											"title": "CIA und Banderisten: Die vergessene Verbindung 1945–1960er",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "CIA und Banderisten Die verges.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "s2RtyAS7pL3u",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"A7MwpC6tU2PH",
+												"s2RtyAS7pL3u"
+											],
+											"title": "Quellen zur ukrainischen Vorgeschichte bis 1991",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Quellen zur ukrainischen Vorge.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "kyCSK1KWn8lw",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"kyCSK1KWn8lw"
+									],
+									"title": "Unabhängigkeit und Staatsformierung 1991–2014",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de5e6",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "Unabhängigkeit und Staatsformi.html",
+									"attachments": [],
+									"dirFileName": "Unabhängigkeit und Staatsformierung 1991–2014",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "J6XG6JVr7Lb9",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"kyCSK1KWn8lw",
+												"J6XG6JVr7Lb9"
+											],
+											"title": "Das Kuchma-System: Multivektor als Überlebensstrategie",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Das Kuchma-System Multivektor .html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "GccWTg6TWDjY",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"kyCSK1KWn8lw",
+												"GccWTg6TWDjY"
+											],
+											"title": "Die erste Farbrevolution: Orange Revolution 2004",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Die erste Farbrevolution Orang.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "6CFOFWr79e2W",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"kyCSK1KWn8lw",
+												"6CFOFWr79e2W"
+											],
+											"title": "NATO-Osterweiterung als struktureller Konflikttreiber (1990–2008)",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "iVmGN3mov7GE",
+													"isInheritable": false,
+													"position": 20
+												}
+											],
+											"format": "html",
+											"dataFileName": "NATO-Osterweiterung als strukt.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "8WKEWyOhVzlp",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"8WKEWyOhVzlp"
+									],
+									"title": "Euromaidan 2014",
+									"notePosition": 80,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Euromaidan 2014.html",
+									"attachments": [],
+									"dirFileName": "Euromaidan 2014",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "AoWqUP5aAQD6",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"8WKEWyOhVzlp",
+												"AoWqUP5aAQD6"
+											],
+											"title": "Scharfschützen 20. Februar 2014: Ungeklärte Täterschaft",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Scharfschützen 20. Februar 201.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "GFiZAQBB9vDL",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"8WKEWyOhVzlp",
+												"GFiZAQBB9vDL"
+											],
+											"title": "Nuland-Pyatt: „Fuck the EU\" – Regierungsbildung von außen",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Nuland-Pyatt „Fuck the EU – Re.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "QIgWa1KsxZ5A",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"8WKEWyOhVzlp",
+												"QIgWa1KsxZ5A"
+											],
+											"title": "Regierungswechsel: Revolution oder Putsch?",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Regierungswechsel Revolution o.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "1Tr2hytTC11y",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"1Tr2hytTC11y"
+									],
+									"title": "Nach dem Maidan: Die neue Ukraine 2014–2022",
+									"notePosition": 90,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "#4de699",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "Nach dem Maidan Die neue Ukraine 2014–2022",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "B4iWh0mX63kD",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"1Tr2hytTC11y",
+												"B4iWh0mX63kD"
+											],
+											"title": "Freiwilligen-Bataillone: Azov, Aidar, Dnipro-1",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Freiwilligen-Bataillone Azov, .html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "Bq0c77l30GFD",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"1Tr2hytTC11y",
+												"Bq0c77l30GFD"
+											],
+											"title": "Oppositions-Einschränkungen: Medien, Parteien, Kirche",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Oppositions-Einschränkungen Me.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "FYOeC8pmI6bz",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"1Tr2hytTC11y",
+												"FYOeC8pmI6bz"
+											],
+											"title": "Wirtschaft & IWF, Arbeitsmigration",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Wirtschaft & IWF, Arbeitsmigra.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "E0ENgS9uzorS",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"1Tr2hytTC11y",
+												"E0ENgS9uzorS"
+											],
+											"title": "Burisma, Biden, Reverse-Gas - Westliche Netzwerke",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Burisma, Biden, Reverse-Gas - .html",
+											"attachments": [],
+											"dirFileName": "Burisma, Biden, Reverse-Gas - Westliche Netzwerke",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "3dBodPXKwEBT",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"1Tr2hytTC11y",
+														"E0ENgS9uzorS",
+														"3dBodPXKwEBT"
+													],
+													"title": "Gas und Politik 2006–2014",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Gas und Politik 2006–2014.html",
+													"attachments": []
+												},
+												{
+													"isClone": false,
+													"noteId": "c0W4xRmEnfMx",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"1Tr2hytTC11y",
+														"E0ENgS9uzorS",
+														"c0W4xRmEnfMx"
+													],
+													"title": "Biden, Schokin, NABU",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Biden, Schokin, NABU.html",
+													"attachments": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "2SjwqJRzRThH",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"2SjwqJRzRThH"
+									],
+									"title": "Der Osten",
+									"notePosition": 120,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"attachments": [],
+									"dirFileName": "Der Osten",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "cdmDfBynLVJh",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"2SjwqJRzRThH",
+												"cdmDfBynLVJh"
+											],
+											"title": "Sprachgesetz, Kundgebungen, antirussische Gewalt 2014",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "AA7XJ5MxybKK",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Sprachgesetz, Kundgebungen, an.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "AA7XJ5MxybKK",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"2SjwqJRzRThH",
+												"AA7XJ5MxybKK"
+											],
+											"title": "Odessa 2. Mai 2014: Wendepunkt der östlichen Wahrnehmung",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#4de699",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Odessa 2. Mai 2014 Wendepunkt .html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "GIM0x3PKwjQj",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"2SjwqJRzRThH",
+												"GIM0x3PKwjQj"
+											],
+											"title": "Krim 2014: Geschichte, Annexion, Konsequenzen",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "bnYt6JyGBUe2",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"format": "html",
+											"dataFileName": "Krim 2014 Geschichte, Annexion.html",
+											"attachments": [],
+											"dirFileName": "Krim 2014 Geschichte, Annexion, Konsequenzen",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "bnYt6JyGBUe2",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"2SjwqJRzRThH",
+														"GIM0x3PKwjQj",
+														"bnYt6JyGBUe2"
+													],
+													"title": "Krim: Eigenimpulse der 1990er Jahre",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Krim Eigenimpulse der 1990er J.html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "Cwk2BWwyrPWg",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"2SjwqJRzRThH",
+												"Cwk2BWwyrPWg"
+											],
+											"title": "Donbass-Bürgerkrieg 2014–2022",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Donbass-Bürgerkrieg 2014–2022.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "uYulhAca7Tuf",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"uYulhAca7Tuf"
+									],
+									"title": "Minsk 2014, 2015: Diplomatie?",
+									"notePosition": 220,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "aus",
+											"value": "",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "status",
+											"value": "ausgearbeitet1",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "label",
+											"name": "autor",
+											"value": "Claude",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "unterkarte",
+											"isInheritable": false,
+											"position": 50
+										},
+										{
+											"type": "label",
+											"name": "kategorie",
+											"value": "inhalte",
+											"isInheritable": false,
+											"position": 60
+										},
+										{
+											"type": "label",
+											"name": "review_kommentar",
+											"value": "Quellen nicht systematisch geprüft",
+											"isInheritable": false,
+											"position": 70
+										}
+									],
+									"format": "html",
+									"dataFileName": "Minsk 2014, 2015 Diplomatie.html",
+									"attachments": [],
+									"dirFileName": "Minsk 2014, 2015 Diplomatie",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "qvqaq7gTbXV2",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"uYulhAca7Tuf",
+												"qvqaq7gTbXV2"
+											],
+											"title": "Was fehlt zu den Minsk-Abkommen?",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "wasfehlt",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen nicht systematisch geprüft",
+													"isInheritable": false,
+													"position": 50
+												}
+											],
+											"format": "html",
+											"dataFileName": "Was fehlt zu den Minsk-Abkomme.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "K7eldk3B4NiK",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"uYulhAca7Tuf",
+												"K7eldk3B4NiK"
+											],
+											"title": "Quellen zu den Minsk-Abkommen",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "status",
+													"value": "ausgearbeitet1",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "autor",
+													"value": "Claude",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen nicht systematisch geprüft",
+													"isInheritable": false,
+													"position": 50
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "unterkarte",
+													"isInheritable": false,
+													"position": 60
+												},
+												{
+													"type": "label",
+													"name": "kategorie",
+													"value": "quellen",
+													"isInheritable": false,
+													"position": 70
+												},
+												{
+													"type": "label",
+													"name": "review_kommentar",
+													"value": "Quellen noch nicht geprüft",
+													"isInheritable": false,
+													"position": 80
+												}
+											],
+											"format": "html",
+											"dataFileName": "Quellen zu den Minsk-Abkommen.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "aJeA1bZDUH90",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"aJeA1bZDUH90"
+									],
+									"title": "SMO, Istanbul, Informationskrieg, ab 24. Feb 2022",
+									"notePosition": 260,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "SMO, Istanbul, Informationskri.html",
+									"attachments": [],
+									"dirFileName": "SMO, Istanbul, Informationskrieg, ab 24. Feb 2022",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "PLtBxlZQc8qL",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"aJeA1bZDUH90",
+												"PLtBxlZQc8qL"
+											],
+											"title": "Vor-SMO",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Vor-SMO.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "el3Rvg56oVVs",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"el3Rvg56oVVs"
+									],
+									"title": "Strukturdimensionen",
+									"notePosition": 280,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Strukturdimensionen.html",
+									"attachments": [],
+									"dirFileName": "Strukturdimensionen",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "tZB15zJcHb4W",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"el3Rvg56oVVs",
+												"tZB15zJcHb4W"
+											],
+											"title": "Mackinder...",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Mackinder.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "ru8yecGEbbDD",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"el3Rvg56oVVs",
+												"ru8yecGEbbDD"
+											],
+											"title": "Geopolitische Ökonomie",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Geopolitische Ökonomie.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "sAe19sln2wzm",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"el3Rvg56oVVs",
+												"sAe19sln2wzm"
+											],
+											"title": "Neocons: Der unsichtbare Architekt",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Neocons Der unsichtbare Archit.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "r9muSM3Vfryf",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"el3Rvg56oVVs",
+												"r9muSM3Vfryf"
+											],
+											"title": "Vorwürfe an Russland",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Vorwürfe an Russland.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "mdHSHw5IMG0j",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"el3Rvg56oVVs",
+												"mdHSHw5IMG0j"
+											],
+											"title": "Nord-Stream",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Nord-Stream.html",
+											"attachments": [],
+											"dirFileName": "Nord-Stream",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "IBZH4SUUvf37",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"el3Rvg56oVVs",
+														"mdHSHw5IMG0j",
+														"IBZH4SUUvf37"
+													],
+													"title": "Nordstream-Sprengung (Sept 2022)",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "status",
+															"value": "entwurf",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Milan",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#e6994d",
+															"isInheritable": false,
+															"position": 60
+														}
+													],
+													"format": "html",
+													"dataFileName": "Nordstream-Sprengung (Sept 202.html",
+													"attachments": [],
+													"dirFileName": "Nordstream-Sprengung (Sept 2022)",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "OmD252jA4BoD",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"el3Rvg56oVVs",
+																"mdHSHw5IMG0j",
+																"IBZH4SUUvf37",
+																"OmD252jA4BoD"
+															],
+															"title": "5 Repräsentative Quellen zum Mainstream-Narrativ",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 60
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "quellen",
+																	"isInheritable": false,
+																	"position": 70
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen noch nicht geprüft",
+																	"isInheritable": false,
+																	"position": 80
+																}
+															],
+															"format": "html",
+															"dataFileName": "5 Repräsentative Quellen zum M.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "43QxhyibwG3H",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"el3Rvg56oVVs",
+																"mdHSHw5IMG0j",
+																"IBZH4SUUvf37",
+																"43QxhyibwG3H"
+															],
+															"title": "Chronologie der Berichterstattung",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																}
+															],
+															"format": "html",
+															"dataFileName": "Chronologie der Berichterstatt.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "me4jfCQqcm2o",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"el3Rvg56oVVs",
+																"mdHSHw5IMG0j",
+																"IBZH4SUUvf37",
+																"me4jfCQqcm2o"
+															],
+															"title": "Kaum diskutierte Aspekte",
+															"notePosition": 40,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "sammlung",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "wasfehlt",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																}
+															],
+															"format": "html",
+															"dataFileName": "Kaum diskutierte Aspekte.html",
+															"attachments": [
+																{
+																	"attachmentId": "ihkFsiZ2raaN",
+																	"title": "Hersh20230208-How-America-Took-Out-The-Nord-Stream-Pipeline.pdf",
+																	"role": "file",
+																	"mime": "application/pdf",
+																	"position": 10,
+																	"dataFileName": "Kaum diskutierte Aspekte_H.pdf"
+																}
+															],
+															"dirFileName": "Kaum diskutierte Aspekte",
+															"children": [
+																{
+																	"isClone": false,
+																	"noteId": "yet2NKAXlno9",
+																	"notePath": [
+																		"Y9nhGuNYOuEF",
+																		"lWAJdyBuSfVz",
+																		"q1cWukf2qAes",
+																		"el3Rvg56oVVs",
+																		"mdHSHw5IMG0j",
+																		"IBZH4SUUvf37",
+																		"me4jfCQqcm2o",
+																		"yet2NKAXlno9"
+																	],
+																	"title": "Quellen zu den fehlenden Aspekten",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "text",
+																	"mime": "text/html",
+																	"attributes": [
+																		{
+																			"type": "label",
+																			"name": "status",
+																			"value": "ausgearbeitet1",
+																			"isInheritable": false,
+																			"position": 10
+																		},
+																		{
+																			"type": "label",
+																			"name": "autor",
+																			"value": "Claude",
+																			"isInheritable": false,
+																			"position": 20
+																		},
+																		{
+																			"type": "label",
+																			"name": "review_kommentar",
+																			"value": "Quellen nicht systematisch geprüft",
+																			"isInheritable": false,
+																			"position": 50
+																		},
+																		{
+																			"type": "label",
+																			"name": "kategorie",
+																			"value": "unterkarte",
+																			"isInheritable": false,
+																			"position": 60
+																		},
+																		{
+																			"type": "label",
+																			"name": "kategorie",
+																			"value": "quellen",
+																			"isInheritable": false,
+																			"position": 70
+																		},
+																		{
+																			"type": "label",
+																			"name": "review_kommentar",
+																			"value": "Quellen noch nicht geprüft",
+																			"isInheritable": false,
+																			"position": 80
+																		}
+																	],
+																	"format": "html",
+																	"dataFileName": "Quellen zu den fehlenden Aspek.html",
+																	"attachments": []
+																}
+															]
+														},
+														{
+															"isClone": false,
+															"noteId": "ReDRqiC2PQ55",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"el3Rvg56oVVs",
+																"mdHSHw5IMG0j",
+																"IBZH4SUUvf37",
+																"ReDRqiC2PQ55"
+															],
+															"title": "Schlussfolgerung?",
+															"notePosition": 50,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "entwurf",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "fazit",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																}
+															],
+															"format": "html",
+															"dataFileName": "Schlussfolgerung.html",
+															"attachments": []
+														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "wFvFSrhCR7TY",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"el3Rvg56oVVs",
+														"mdHSHw5IMG0j",
+														"wFvFSrhCR7TY"
+													],
+													"title": "Nord Stream-Sprengung 2022: Wechselnde Narrative",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [
+														{
+															"type": "label",
+															"name": "au",
+															"value": "",
+															"isInheritable": false,
+															"position": 10
+														},
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#e6994d",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "label",
+															"name": "ausgearbeitet",
+															"value": "",
+															"isInheritable": false,
+															"position": 30
+														},
+														{
+															"type": "label",
+															"name": "status",
+															"value": "ausgearbeitet1",
+															"isInheritable": false,
+															"position": 40
+														},
+														{
+															"type": "label",
+															"name": "autor",
+															"value": "Claude",
+															"isInheritable": false,
+															"position": 50
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "unterkarte",
+															"isInheritable": false,
+															"position": 60
+														},
+														{
+															"type": "label",
+															"name": "kategorie",
+															"value": "inhalte",
+															"isInheritable": false,
+															"position": 70
+														},
+														{
+															"type": "label",
+															"name": "review_kommentar",
+															"value": "Quellen nicht systematisch geprüft",
+															"isInheritable": false,
+															"position": 80
+														}
+													],
+													"format": "html",
+													"dataFileName": "Nord Stream-Sprengung 2022 Wec.html",
+													"attachments": [],
+													"dirFileName": "Nord Stream-Sprengung 2022 Wechselnde Narrative",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "p1mZUUrkJ1lL",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"el3Rvg56oVVs",
+																"mdHSHw5IMG0j",
+																"wFvFSrhCR7TY",
+																"p1mZUUrkJ1lL"
+															],
+															"title": "Was fehlt in der Diskussion?",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Was fehlt in der Diskussion.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "r0z1WVwwxBDz",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"el3Rvg56oVVs",
+																"mdHSHw5IMG0j",
+																"wFvFSrhCR7TY",
+																"r0z1WVwwxBDz"
+															],
+															"title": "Quellen: Nord Stream-Sprengung",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet1",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 60
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "quellen",
+																	"isInheritable": false,
+																	"position": 70
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen noch nicht geprüft",
+																	"isInheritable": false,
+																	"position": 80
+																}
+															],
+															"format": "html",
+															"dataFileName": "Quellen Nord Stream-Sprengung.html",
+															"attachments": [
+																{
+																	"attachmentId": "FqhkErK58svv",
+																	"title": "Hersh20230208-How-America-Took-Out-The-Nord-Stream-Pipeline.pdf",
+																	"role": "file",
+																	"mime": "application/pdf",
+																	"position": 10,
+																	"dataFileName": "Quellen Nord Stream-Spreng.pdf"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "K6SWUMOGPEUC",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"K6SWUMOGPEUC"
+									],
+									"title": "Referenzregister",
+									"notePosition": 330,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Referenzregister.html",
+									"attachments": [],
+									"dirFileName": "Referenzregister",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "r77gRuqPIX9x",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"K6SWUMOGPEUC",
+												"r77gRuqPIX9x"
+											],
+											"title": "Personen",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"attachments": [],
+											"dirFileName": "Personen",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "uwCrsyud5TsP",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"K6SWUMOGPEUC",
+														"r77gRuqPIX9x",
+														"uwCrsyud5TsP"
+													],
+													"title": "Präsidenten",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"attachments": [],
+													"dirFileName": "Präsidenten",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "zwmwnw5TnZO0",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"uwCrsyud5TsP",
+																"zwmwnw5TnZO0"
+															],
+															"title": "Leonid Krawchuk (1991-1994)",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Leonid Krawchuk (1991-1994).html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "VPv0shj8ZB92",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"uwCrsyud5TsP",
+																"VPv0shj8ZB92"
+															],
+															"title": "Leonid Kutschma (1994-2005)",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Leonid Kutschma (1994-2005).html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "ZIaTT7Ug5KYV",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"uwCrsyud5TsP",
+																"ZIaTT7Ug5KYV"
+															],
+															"title": "Viktor Juschtschenko (2005-2010, Orange Revolution)",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Viktor Juschtschenko (2005-201.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "aS3MrrzzoRe8",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"uwCrsyud5TsP",
+																"aS3MrrzzoRe8"
+															],
+															"title": "Viktor Janukowitsch (2010-2014, Flucht)",
+															"notePosition": 40,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Viktor Janukowitsch (2010-2014.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "auf5C92rfznE",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"uwCrsyud5TsP",
+																"auf5C92rfznE"
+															],
+															"title": "Petro Poroschenko (2014-2019)",
+															"notePosition": 50,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Petro Poroschenko (2014-2019).html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "6xcHFBcq53GF",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"uwCrsyud5TsP",
+																"6xcHFBcq53GF"
+															],
+															"title": "Wolodymyr Selenskyj (2019-heute)",
+															"notePosition": 60,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Wolodymyr Selenskyj (2019-heut.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "r708g0fijQYh",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"uwCrsyud5TsP",
+																"r708g0fijQYh"
+															],
+															"title": "Selenskyj, Kolomoisky und die Ukraine 2019–2022",
+															"notePosition": 70,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [],
+															"format": "html",
+															"dataFileName": "Selenskyj, Kolomoisky und die .html",
+															"attachments": []
+														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "OJWwgxb6YEKg",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"K6SWUMOGPEUC",
+														"r77gRuqPIX9x",
+														"OJWwgxb6YEKg"
+													],
+													"title": "Oligarchen",
+													"notePosition": 80,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"attachments": [],
+													"dirFileName": "Oligarchen",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "bVO9HMlCR6t8",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"OJWwgxb6YEKg",
+																"bVO9HMlCR6t8"
+															],
+															"title": "Rinat Achmetow (Stahl/Kohle, reichster Mann)",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Rinat Achmetow (StahlKohle, re.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "tTClVkEXHkg6",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"OJWwgxb6YEKg",
+																"tTClVkEXHkg6"
+															],
+															"title": "Ihor Kolomoisky (1+1 Media, Burisma, seit 2023 inhaftiert)",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Ihor Kolomoisky (1+1 Media, Bu.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "oCMSYAku2QbT",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"OJWwgxb6YEKg",
+																"oCMSYAku2QbT"
+															],
+															"title": "Viktor Pintschuk (Stahlrohre, Medien)",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Viktor Pintschuk (Stahlrohre, .html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "AlFOzVl3omJV",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"OJWwgxb6YEKg",
+																"AlFOzVl3omJV"
+															],
+															"title": "Dmytro Firtasch (Gas, seit 2014 Wien)",
+															"notePosition": 40,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Dmytro Firtasch (Gas, seit 201.html",
+															"attachments": []
+														}
+													]
+												},
+												{
+													"isClone": false,
+													"noteId": "ov6hRI7oBU16",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"K6SWUMOGPEUC",
+														"r77gRuqPIX9x",
+														"ov6hRI7oBU16"
+													],
+													"title": "US-Amerikaner",
+													"notePosition": 140,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"attachments": [],
+													"dirFileName": "US-Amerikaner",
+													"children": [
+														{
+															"isClone": false,
+															"noteId": "xHw9lrPUIUNX",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"ov6hRI7oBU16",
+																"xHw9lrPUIUNX"
+															],
+															"title": "Victoria Nuland (US-Staatssekretärin)",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Victoria Nuland (US-Staatssekr.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "bJKSqLORatTZ",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"ov6hRI7oBU16",
+																"bJKSqLORatTZ"
+															],
+															"title": "Geoffrey Pyatt (US-Botschafter 2013-2016)",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Geoffrey Pyatt (US-Botschafter.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "V9wCuyQpR5HU",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"ov6hRI7oBU16",
+																"V9wCuyQpR5HU"
+															],
+															"title": "Joe Biden & Schokin-Entlassung (2016)",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Joe Biden & Schokin-Entlassung.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "MfpWqzZJrix8",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"ov6hRI7oBU16",
+																"MfpWqzZJrix8"
+															],
+															"title": "Hunter Biden & Burisma (ab April 2014)",
+															"notePosition": 40,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "angedacht",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Nur Titel/Platzhalter, Inhalt fehlt",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Hunter Biden & Burisma (ab Apr.html",
+															"attachments": []
+														},
+														{
+															"isClone": false,
+															"noteId": "2BqbV7RIfotm",
+															"notePath": [
+																"Y9nhGuNYOuEF",
+																"lWAJdyBuSfVz",
+																"q1cWukf2qAes",
+																"K6SWUMOGPEUC",
+																"r77gRuqPIX9x",
+																"ov6hRI7oBU16",
+																"2BqbV7RIfotm"
+															],
+															"title": "Neocons",
+															"notePosition": 50,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"attributes": [
+																{
+																	"type": "label",
+																	"name": "status",
+																	"value": "ausgearbeitet2",
+																	"isInheritable": false,
+																	"position": 10
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Milan",
+																	"isInheritable": false,
+																	"position": 20
+																},
+																{
+																	"type": "label",
+																	"name": "autor",
+																	"value": "Claude",
+																	"isInheritable": false,
+																	"position": 30
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "unterkarte",
+																	"isInheritable": false,
+																	"position": 40
+																},
+																{
+																	"type": "label",
+																	"name": "kategorie",
+																	"value": "inhalte",
+																	"isInheritable": false,
+																	"position": 50
+																},
+																{
+																	"type": "label",
+																	"name": "review_kommentar",
+																	"value": "Quellen nicht systematisch geprüft",
+																	"isInheritable": false,
+																	"position": 60
+																}
+															],
+															"format": "html",
+															"dataFileName": "Neocons.html",
+															"attachments": []
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "D4mwDVW18i33",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"D4mwDVW18i33"
+									],
+									"title": "Methodik",
+									"notePosition": 340,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Methodik.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "DIPXus9GSoD9",
+									"notePath": [
+										"Y9nhGuNYOuEF",
+										"lWAJdyBuSfVz",
+										"q1cWukf2qAes",
+										"DIPXus9GSoD9"
+									],
+									"title": "skizze",
+									"notePosition": 350,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "skizze.html",
+									"attachments": []
+								}
+							]
 						}
 					]
 				},
@@ -20063,7 +20668,7 @@
 						"REk17uAbNXHC"
 					],
 					"title": "B) Stark Nachwirkend",
-					"notePosition": 220,
+					"notePosition": 230,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -20660,7 +21265,16 @@
 									],
 									"format": "html",
 									"dataFileName": "Quellen zu Operation Mockingbi.html",
-									"attachments": []
+									"attachments": [
+										{
+											"attachmentId": "3kUO19m77Km7",
+											"title": "logo-hintergrund.png",
+											"role": "image",
+											"mime": "image/png",
+											"position": 10,
+											"dataFileName": "Quellen zu Operation Mocki.png"
+										}
+									]
 								}
 							]
 						},
@@ -23813,9 +24427,9 @@
 						"XhFhPRSXJR2p"
 					],
 					"title": "C) Historisch UND Nachwirkend",
-					"notePosition": 230,
+					"notePosition": 240,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -27341,17 +27955,10 @@
 							"title": "Libyen",
 							"notePosition": 50,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
-								{
-									"type": "label",
-									"name": "color",
-									"value": "#4de5e6",
-									"isInheritable": false,
-									"position": 20
-								},
 								{
 									"type": "label",
 									"name": "status",
@@ -27430,13 +28037,6 @@
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "#4de5e6",
-											"isInheritable": false,
-											"position": 20
-										},
 										{
 											"type": "label",
 											"name": "status",
@@ -29304,9 +29904,9 @@
 						"VsbdcWXgdm0S"
 					],
 					"title": "Quellenliste",
-					"notePosition": 240,
+					"notePosition": 250,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
