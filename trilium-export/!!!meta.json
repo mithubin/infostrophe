@@ -813,7 +813,7 @@
 							"title": "EU - Ein Hort der Demokratie und Menschenrechte?",
 							"notePosition": 90,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -884,7 +884,7 @@
 									"title": "offene Fragen zur EU",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [
@@ -1626,7 +1626,7 @@
 											"title": "Meinungsäußerung & Zensur",
 											"notePosition": 70,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [
@@ -5348,24 +5348,7 @@
 							],
 							"format": "html",
 							"dataFileName": "Farbrevolutionen.html",
-							"attachments": [
-								{
-									"attachmentId": "l2GFin6FRPMM",
-									"title": "deepseek-gespräch zu farbrevolutionen.pdf",
-									"role": "file",
-									"mime": "application/pdf",
-									"position": 10,
-									"dataFileName": "Farbrevolutionen_deepseek-.pdf"
-								},
-								{
-									"attachmentId": "uZQi1iWpLVZf",
-									"title": "claude zu Farbrevolution - der Begriff.pdf",
-									"role": "file",
-									"mime": "application/pdf",
-									"position": 10,
-									"dataFileName": "Farbrevolutionen_claude zu.pdf"
-								}
-							],
+							"attachments": [],
 							"dirFileName": "Farbrevolutionen",
 							"children": [
 								{
@@ -8177,7 +8160,7 @@
 							"title": "Globale Finanzverhältnisse",
 							"notePosition": 180,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -17909,7 +17892,7 @@
 							"title": "Ukraine-Russland - viel vollständigere Geschichte",
 							"notePosition": 440,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -18268,7 +18251,7 @@
 										"q1cWukf2qAes",
 										"1Tr2hytTC11y"
 									],
-									"title": "Nach dem Maidan: Die neue Ukraine 2014–2022",
+									"title": "Nach dem Maidan: Die neue Ukraine seit 2014",
 									"notePosition": 90,
 									"prefix": null,
 									"isExpanded": true,
@@ -18284,8 +18267,9 @@
 										}
 									],
 									"format": "html",
+									"dataFileName": "Nach dem Maidan Die neue Ukrai.html",
 									"attachments": [],
-									"dirFileName": "Nach dem Maidan Die neue Ukraine 2014–2022",
+									"dirFileName": "Nach dem Maidan Die neue Ukraine seit 2014",
 									"children": [
 										{
 											"isClone": false,
@@ -18306,7 +18290,32 @@
 											"attributes": [],
 											"format": "html",
 											"dataFileName": "Freiwilligen-Bataillone Azov, .html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Freiwilligen-Bataillone Azov, Aidar, Dnipro-1",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "bBuOhwT83Icv",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"1Tr2hytTC11y",
+														"B4iWh0mX63kD",
+														"bBuOhwT83Icv"
+													],
+													"title": "Was fehlt in der Diskussion & Quellen",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion & .html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
@@ -18327,7 +18336,32 @@
 											"attributes": [],
 											"format": "html",
 											"dataFileName": "Oppositions-Einschränkungen Me.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Oppositions-Einschränkungen Medien, Parteien, Kirche",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "xvfShJOidVbg",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"1Tr2hytTC11y",
+														"Bq0c77l30GFD",
+														"xvfShJOidVbg"
+													],
+													"title": "Was fehlt in der Diskussion & Quellen",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion & .html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
@@ -18348,7 +18382,32 @@
 											"attributes": [],
 											"format": "html",
 											"dataFileName": "Wirtschaft & IWF, Arbeitsmigra.html",
-											"attachments": []
+											"attachments": [],
+											"dirFileName": "Wirtschaft & IWF, Arbeitsmigration",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "W49sCQ9GVPhY",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"1Tr2hytTC11y",
+														"FYOeC8pmI6bz",
+														"W49sCQ9GVPhY"
+													],
+													"title": "Was fehlt in der Diskussion & Quellen",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion & .html",
+													"attachments": []
+												}
+											]
 										},
 										{
 											"isClone": false,
@@ -18417,6 +18476,73 @@
 													"attachments": []
 												}
 											]
+										},
+										{
+											"isClone": false,
+											"noteId": "UPj2UFJJM6Cv",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"1Tr2hytTC11y",
+												"UPj2UFJJM6Cv"
+											],
+											"title": "Staatliche Gewalt und Terrorismus-Kriterien (Ukraine nach 2014)",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Staatliche Gewalt und Terroris.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "CFImmoJQR1z0",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"1Tr2hytTC11y",
+												"CFImmoJQR1z0"
+											],
+											"title": "Von informeller rechter Gewalt zu etabliertem Staatsterrorismus",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Von informeller rechter Gewalt.html",
+											"attachments": [],
+											"dirFileName": "Von informeller rechter Gewalt zu etabliertem Staatsterrorismus",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "qT6cSg9C3RqA",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"1Tr2hytTC11y",
+														"CFImmoJQR1z0",
+														"qT6cSg9C3RqA"
+													],
+													"title": "Was fehlt in der Diskussion & Quellen",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion & .html",
+													"attachments": []
+												}
+											]
 										}
 									]
 								},
@@ -18432,7 +18558,7 @@
 									"title": "Der Osten",
 									"notePosition": 120,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
@@ -18440,35 +18566,6 @@
 									"attachments": [],
 									"dirFileName": "Der Osten",
 									"children": [
-										{
-											"isClone": false,
-											"noteId": "cdmDfBynLVJh",
-											"notePath": [
-												"Y9nhGuNYOuEF",
-												"lWAJdyBuSfVz",
-												"q1cWukf2qAes",
-												"2SjwqJRzRThH",
-												"cdmDfBynLVJh"
-											],
-											"title": "Sprachgesetz, Kundgebungen, antirussische Gewalt 2014",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"attributes": [
-												{
-													"type": "relation",
-													"name": "internalLink",
-													"value": "AA7XJ5MxybKK",
-													"isInheritable": false,
-													"position": 10
-												}
-											],
-											"format": "html",
-											"dataFileName": "Sprachgesetz, Kundgebungen, an.html",
-											"attachments": []
-										},
 										{
 											"isClone": false,
 											"noteId": "AA7XJ5MxybKK",
@@ -18500,16 +18597,16 @@
 										},
 										{
 											"isClone": false,
-											"noteId": "GIM0x3PKwjQj",
+											"noteId": "cdmDfBynLVJh",
 											"notePath": [
 												"Y9nhGuNYOuEF",
 												"lWAJdyBuSfVz",
 												"q1cWukf2qAes",
 												"2SjwqJRzRThH",
-												"GIM0x3PKwjQj"
+												"cdmDfBynLVJh"
 											],
-											"title": "Krim 2014: Geschichte, Annexion, Konsequenzen",
-											"notePosition": 50,
+											"title": "Sprachgesetz, Kundgebungen, antirussische Gewalt 2014",
+											"notePosition": 40,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
@@ -18518,28 +18615,49 @@
 												{
 													"type": "relation",
 													"name": "internalLink",
-													"value": "bnYt6JyGBUe2",
+													"value": "AA7XJ5MxybKK",
 													"isInheritable": false,
 													"position": 10
 												}
 											],
 											"format": "html",
-											"dataFileName": "Krim 2014 Geschichte, Annexion.html",
+											"dataFileName": "Sprachgesetz, Kundgebungen, an.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "T8dOdXUYPdRx",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"2SjwqJRzRThH",
+												"T8dOdXUYPdRx"
+											],
+											"title": "Die Krim: Eigeninteresse, Vernachlässigung und russische Übernahme 2014",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Die Krim Eigeninteresse, Verna.html",
 											"attachments": [],
-											"dirFileName": "Krim 2014 Geschichte, Annexion, Konsequenzen",
+											"dirFileName": "Die Krim Eigeninteresse, Vernachlässigung und russische Übernahme 2014",
 											"children": [
 												{
 													"isClone": false,
-													"noteId": "bnYt6JyGBUe2",
+													"noteId": "TILbecpEB0j2",
 													"notePath": [
 														"Y9nhGuNYOuEF",
 														"lWAJdyBuSfVz",
 														"q1cWukf2qAes",
 														"2SjwqJRzRThH",
-														"GIM0x3PKwjQj",
-														"bnYt6JyGBUe2"
+														"T8dOdXUYPdRx",
+														"TILbecpEB0j2"
 													],
-													"title": "Krim: Eigenimpulse der 1990er Jahre",
+													"title": "Was fehlt in der Diskussion & Quellen",
 													"notePosition": 10,
 													"prefix": null,
 													"isExpanded": false,
@@ -18547,7 +18665,53 @@
 													"mime": "text/html",
 													"attributes": [],
 													"format": "html",
-													"dataFileName": "Krim Eigenimpulse der 1990er J.html",
+													"dataFileName": "Was fehlt in der Diskussion & .html",
+													"attachments": []
+												}
+											]
+										},
+										{
+											"isClone": false,
+											"noteId": "lvw9kKQxAmEQ",
+											"notePath": [
+												"Y9nhGuNYOuEF",
+												"lWAJdyBuSfVz",
+												"q1cWukf2qAes",
+												"2SjwqJRzRThH",
+												"lvw9kKQxAmEQ"
+											],
+											"title": "Donbass 2014: Aufstand, Intervention, Wendepunkte",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "Donbass 2014 Aufstand, Interve.html",
+											"attachments": [],
+											"dirFileName": "Donbass 2014 Aufstand, Intervention, Wendepunkte",
+											"children": [
+												{
+													"isClone": false,
+													"noteId": "YuEuD0GGdYYk",
+													"notePath": [
+														"Y9nhGuNYOuEF",
+														"lWAJdyBuSfVz",
+														"q1cWukf2qAes",
+														"2SjwqJRzRThH",
+														"lvw9kKQxAmEQ",
+														"YuEuD0GGdYYk"
+													],
+													"title": "Was fehlt in der Diskussion & Quellen",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"attributes": [],
+													"format": "html",
+													"dataFileName": "Was fehlt in der Diskussion & .html",
 													"attachments": []
 												}
 											]
@@ -18563,7 +18727,7 @@
 												"Cwk2BWwyrPWg"
 											],
 											"title": "Donbass-Bürgerkrieg 2014–2022",
-											"notePosition": 60,
+											"notePosition": 110,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
@@ -18774,7 +18938,7 @@
 									"title": "SMO, Istanbul, Informationskrieg, ab 24. Feb 2022",
 									"notePosition": 260,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
@@ -18818,7 +18982,7 @@
 									"title": "Strukturdimensionen",
 									"notePosition": 280,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"attributes": [],
@@ -18924,7 +19088,7 @@
 											"title": "Nord-Stream",
 											"notePosition": 80,
 											"prefix": null,
-											"isExpanded": true,
+											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"attributes": [],
@@ -21140,24 +21304,7 @@
 									],
 									"format": "html",
 									"dataFileName": "Die Verdrahtung deutscher Medi.html",
-									"attachments": [
-										{
-											"attachmentId": "gdSzv95CEeLL",
-											"title": "49.webp",
-											"role": "image",
-											"mime": "image/webp",
-											"position": 10,
-											"dataFileName": "Die Verdrahtung deutscher.webp"
-										},
-										{
-											"attachmentId": "SUkyNpan0QTn",
-											"title": "image.jpg",
-											"role": "image",
-											"mime": "image/jpg",
-											"position": 10,
-											"dataFileName": "Die Verdrahtung deutscher .jpg"
-										}
-									],
+									"attachments": [],
 									"dirFileName": "Die Verdrahtung deutscher Medien",
 									"children": [
 										{
