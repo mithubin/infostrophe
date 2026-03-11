@@ -16639,40 +16639,7 @@
 											],
 											"format": "html",
 											"dataFileName": "google.html",
-											"attachments": [
-												{
-													"attachmentId": "gKF3inpc1kmq",
-													"title": "Why Google made the NSA.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
-													"role": "file",
-													"mime": "application/octet-stream",
-													"position": 10,
-													"dataFileName": "google_Why Google made the NSA.bin"
-												},
-												{
-													"attachmentId": "N2Oyv0Wn5dkc",
-													"title": "Why Google made the NSA_byNafeezAhmed_INSURGEintelligence_Medium.pdf",
-													"role": "file",
-													"mime": "application/pdf",
-													"position": 10,
-													"dataFileName": "google_Why Google made the.pdf"
-												},
-												{
-													"attachmentId": "osSQh7tCVaB0",
-													"title": "How the CIA made Google._byNafeezAhmed_INSURGEintelligence_Medium.pdf",
-													"role": "file",
-													"mime": "application/pdf",
-													"position": 10,
-													"dataFileName": "INSURGEintelligence_Medium.pdf"
-												},
-												{
-													"attachmentId": "vnp2oe4ULMBq",
-													"title": "How the CIA made Google.Insidethesecretnetworkbehindmass…_byNafeezAhmed_INSURGEintelligence_Medium",
-													"role": "file",
-													"mime": "application/octet-stream",
-													"position": 10,
-													"dataFileName": "google_How the CIA made Google.bin"
-												}
-											],
+											"attachments": [],
 											"dirFileName": "google",
 											"children": [
 												{
@@ -30075,7 +30042,7 @@
 					"title": "Quellenliste",
 					"notePosition": 250,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -30131,7 +30098,29 @@
 					],
 					"format": "html",
 					"dataFileName": "Quellenliste.html",
-					"attachments": []
+					"attachments": [],
+					"dirFileName": "Quellenliste",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "WcvkVek0h2l9",
+							"notePath": [
+								"Y9nhGuNYOuEF",
+								"VsbdcWXgdm0S",
+								"WcvkVek0h2l9"
+							],
+							"title": "Quellen - Infostrophe",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Quellen - Infostrophe.html",
+							"attachments": []
+						}
+					]
 				}
 			]
 		},
